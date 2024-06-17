@@ -158,7 +158,7 @@ PE32
     Tool: Visual Studio(2019 version 16.11)
 ```
 
-We definitely have a C/C++ DLL for Windows posing as that PNG file, so from here I assume the DLL is some form of loader designed to deliver the next stage of Pikabot. If I use my [triage YARA rule](https://forensicitguy.github.io/faster-malware-triage-yara/) to generate all the hashes for me, I can use them to search in [VirusTotal](https://www.virustotal.com/gui/file/aab9e3d3f923f7c17694df3bd395aea1112f87e63580c1762579c43056d3b2da) or other tools for more details.
+We definitely have a C/C++ DLL for Windows posing as that PNG file, so from here I assume the DLL is some form of loader designed to deliver the next stage of Pikabot. If I use my [triage YARA rule](https://psyrun.github.io/faster-malware-triage-yara/) to generate all the hashes for me, I can use them to search in [VirusTotal](https://www.virustotal.com/gui/file/aab9e3d3f923f7c17694df3bd395aea1112f87e63580c1762579c43056d3b2da) or other tools for more details.
 
 ```console
 $ yara ~/yara/triage.yar 317631 

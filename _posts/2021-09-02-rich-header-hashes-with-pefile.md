@@ -23,7 +23,7 @@ By the way, VirusTotal enterprise lets you search for rich header matching using
 
 ## Adding Rich Header Hashing to pefile
 
-When I started learning about the rich header's intelligence value and how I could pivot on values in VT, I started wanting to calculate the hash value for all my samples I analyze. I knew that `pefile` supported getting import table hashes using a `get_imphash()` function so I assumed it also had functions for rich header hashing... until I found out it didn't. Several folks ([including me](https://github.com/ForensicITGuy/rhh-md5)) made their own Python scripts to calculate rich header hashes but I thought, "why not just cut out all the extra work and put it in `pefile`?"
+When I started learning about the rich header's intelligence value and how I could pivot on values in VT, I started wanting to calculate the hash value for all my samples I analyze. I knew that `pefile` supported getting import table hashes using a `get_imphash()` function so I assumed it also had functions for rich header hashing... until I found out it didn't. Several folks ([including me](https://github.com/psyrun/rhh-md5)) made their own Python scripts to calculate rich header hashes but I thought, "why not just cut out all the extra work and put it in `pefile`?"
 
 Some programming and pull requests later, `pefile` now has rich header hashing built in with version [v2021.9.3](https://github.com/erocarrera/pefile/releases/tag/v2021.9.3)!
 

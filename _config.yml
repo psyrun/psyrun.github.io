@@ -26,16 +26,16 @@ title: Psyrun                        # the main title
 tagline: An educator that does security things   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Tony's blog about malware analysis and other security topics
+  psyrun's blog about malware analysis and other security topics
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://forensicitguy.github.io'
+url: 'https://psyrun.github.io'
 
 github:
-  username: ForensicITGuy             # change to your github username
+  username: psyrun             # change to your github username
 
 twitter:
-  username: ForensicITGuy            # change to your twitter username
+  username: psyrun            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,10 +43,10 @@ social:
   name: Psyrun
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ForensicITGuy      # change to your twitter homepage
-    - https://github.com/ForensicITGuy       # change to your github homepage
+    - https://twitter.com/psyrun      # change to your twitter homepage
+    - https://github.com/psyrun       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.linkedin.com/in/tonymlambert
+    - https://www.linkedin.com/in/psyrun
 
 google_site_verification:               # fill in to your verification string
 

@@ -172,7 +172,7 @@ Using the search feature of `less` and the string "MZ" we found some executable 
 000a45d0: 0506 0000 0000 4100 4100 6c11 0000 6250  ......A.A.l...bP
 ```
 
-In the strings we can see some references to "carLambo" and ".class" files. These are significant findings because ".class" files are Java bytecode files. We can hypothesize that there is likely Java executable content attached to this MSI file. This sort of thing has happened before, in fact there was a bit of a hubbub back in 2019 when VirusTotal talked about it in a blog post. I also [published one then](https://forensicitguy.github.io/making-meterpreter-look-google-signed/), doing a bit of tinkering. 
+In the strings we can see some references to "carLambo" and ".class" files. These are significant findings because ".class" files are Java bytecode files. We can hypothesize that there is likely Java executable content attached to this MSI file. This sort of thing has happened before, in fact there was a bit of a hubbub back in 2019 when VirusTotal talked about it in a blog post. I also [published one then](https://psyrun.github.io/making-meterpreter-look-google-signed/), doing a bit of tinkering. 
 
 Long story short, you can append Java Archive (JAR) files to MSI files without hindering the operation of either file type. Java reads the JAR from end to front and `msiexec` reads from front to end. In fact, we can rename the MSI file to `delivery.jar` and view the Java contents using JD-GUI in REMnux.
 

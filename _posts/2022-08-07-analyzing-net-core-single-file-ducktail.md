@@ -29,7 +29,7 @@ PE32
     Linker: Microsoft Linker(8.0)[GUI32]
 ```
 
-We know for sure we're dealing with a Windows Portable Executable (PE) file, so let's take a look at the import and rich header hashes. If you're looking to get the imphash for a sample, you can easily do so with `pehash`. For the rich header hash, I like using the tool I made [here](https://github.com/ForensicITGuy/rhh-md5) that leverages the Python pefile library.
+We know for sure we're dealing with a Windows Portable Executable (PE) file, so let's take a look at the import and rich header hashes. If you're looking to get the imphash for a sample, you can easily do so with `pehash`. For the rich header hash, I like using the tool I made [here](https://github.com/psyrun/rhh-md5) that leverages the Python pefile library.
 
 ```console
 remnux@remnux:~/cases/ducktail$ pehash ducktail.exe 

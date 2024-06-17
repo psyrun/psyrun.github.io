@@ -11,7 +11,7 @@ In this post I'm going to take a look at a couple of simple YARA rules that exci
 
 ## Matching on Rich Header Hash
 
-I've talked a bit about [rich header hashes](https://forensicitguy.github.io/rich-header-hashes-with-pefile/) here before, and I love using it as a pivot point in VirusTotal. If you're not familiar, the rich header of a Windows EXE can give you information about the build environment of the binary. If you hash the clear bytes (it's XOR'd by default), you can use that hash to possibly find binaries that were built with a similar environment or tool chain. When combined with import table hashes, rich header hashes can help you pivot and find intelligence overlaps with known malware samples.
+I've talked a bit about [rich header hashes](https://psyrun.github.io/rich-header-hashes-with-pefile/) here before, and I love using it as a pivot point in VirusTotal. If you're not familiar, the rich header of a Windows EXE can give you information about the build environment of the binary. If you hash the clear bytes (it's XOR'd by default), you can use that hash to possibly find binaries that were built with a similar environment or tool chain. When combined with import table hashes, rich header hashes can help you pivot and find intelligence overlaps with known malware samples.
 
 By default, there's no method included with the YARA "pe" module to query the rich header hash of a sample. That's fine, we can calculate it ourselves!
 
