@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #       - Use the dark color scheme
 #
-theme_mode:   light
+theme_mode:   dark
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/images/avatar.jpg
