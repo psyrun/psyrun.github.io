@@ -23,7 +23,7 @@ rule sus_known_bad_rich_hash
 {
     meta:
         description = "Rule to find samples with given rich header md5 hash"
-        author = "Tony Lambert"
+        author = "Psyrun"
     condition:
         hash.md5(pe.rich_signature.clear_data) == "fe5854c644d74722b56122fd4bf43115"
 }
