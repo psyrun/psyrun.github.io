@@ -49,9 +49,9 @@ Running the demo again with the `Run: Minimized` shows the black prompt went awa
 
 ![](../../.gitbook/assets/lnk-hijacking-minimized.gif)
 
-{% hint style="warning" %}
+```
 Note that hovering the shortcut reveals that the program to be launched is the powershell.
-{% endhint %}
+```
 
 ## Reference
 

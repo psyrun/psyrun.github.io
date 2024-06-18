@@ -11,9 +11,9 @@ permalink: /injecting-and-executing-.net-assemblies-to-unmanaged-process/
 
 This is a quick lab to see what API sequence makes it possible to inject C\# .NET assemblies / PE files \(.exe and .dll\) into an unmanaged process and invoke their methods. 
 
-{% hint style="info" %}
+```
 This is the technique that makes `execute-assembly` command possible in Cobalt Strike.
-{% endhint %}
+```
 
 ## Overview
 

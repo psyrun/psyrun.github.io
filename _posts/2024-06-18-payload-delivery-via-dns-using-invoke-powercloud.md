@@ -55,9 +55,9 @@ The way the tool works is by performing the following high level steps:
 * Stager can then be executed on the victim system. The stager will recover the base64 chunks from the DNS TXT records and rebuild the original payload
 * Stager executes the payload in memory!
 
-{% hint style="info" %}
+```
 If you run the tool again to deliver another payload, the previous DNS TXT records will be deleted
-{% endhint %}
+```
 
 ## Demo
 

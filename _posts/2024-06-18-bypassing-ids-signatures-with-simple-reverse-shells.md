@@ -22,10 +22,10 @@ Microsoft Windows [Version 10.0.17763.475]
 
 This can usually be bypassed relatively easily with some simple traffic obfuscation and this quick lab demonstrates just that.
 
-{% hint style="danger" %}
+```
 **Warning**\
 This technique is not meant to be used in real life red team operations!
-{% endhint %}
+```
 
 ## Environment and Setup
 

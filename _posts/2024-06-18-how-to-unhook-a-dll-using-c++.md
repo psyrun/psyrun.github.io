@@ -78,11 +78,11 @@ int main()
 }
 ```
 
-{% hint style="warning" %}
+```
 Note that the above code does not fix image base relocations. Although ntdll.dll does not have anything to be relocated within its .text section, it may be required when dealing with other dlls.
 
 Thanks [@mrgretzky](https://twitter.com/mrgretzky) for highlighting [this](https://twitter.com/mrgretzky/status/1271348438421159936).
 
 See my notes about PE image relocations: [https://ired.team/offensive-security/code-injection-process-injection/process-hollowing-and-pe-image-relocations#relocation](https://ired.team/offensive-security/code-injection-process-injection/process-hollowing-and-pe-image-relocations#relocation)
-{% endhint %}
+```
 @spotheplanet

@@ -53,13 +53,13 @@ Below illustrates a successful RDP connection was established although the user 
 
 ![](<../../.gitbook/assets/image (179).png>)
 
-{% hint style="warning" %}
+```
 **If you are getting...**\
 `Error: CredSSP initialize failed, do you have correct kerberos ticket initialized?`\
 `Failed to connect, CredSSP required by server`
 
 Suggestion is to use `xfreerdp` instead of `rdesktop` and the issue will go away.
-{% endhint %}
+```
 
 ![CredSSP error using rdesktop](<../../.gitbook/assets/image (178).png>)
 @spotheplanet

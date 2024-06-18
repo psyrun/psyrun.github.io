@@ -122,9 +122,9 @@ dt _LDR_DATA_TABLE_ENTRY 0xd231d8
 
 ![](<../../.gitbook/assets/image (42).png>)
 
-{% hint style="info" %}
+```
 The reason for the above error is because although `InMemoryOrderModuleList` points to an `LDR_DATA_TABLE_ENTRY`, we need to keep in mind that it's pointing 8 bytes into the structure itself since the structure is a doubly linked list. See the above screenshot for reference - `InMemoryOrderLinks` is at offset 0x8 of the `LDR_DATA_TABLE_ENTRY`.
-{% endhint %}
+```
 
 We now know that in order to read the `LDR_DATA_TABLE_ENTRY` structure correctly, we need to subtract 8 bytes from the initial pointer 00d231d8:
 
@@ -502,9 +502,9 @@ Below shows our assembly in a debugger. The calculator pops after `call eax` ins
 
 ![](../../.gitbook/assets/winexec-pop.gif)
 
-{% hint style="info" %}
+```
 We used `WinExec` function in this lab, but shellcode can and usually does use this technique to resolve addresses for `GetProcAddress` and `LoadLibrary` functions to make resolving other required functions easier.
-{% endhint %}
+```
 
 ## Code
 

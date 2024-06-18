@@ -24,9 +24,9 @@ typedef struct tagSERVICE_DESCRIPTOR_TABLE {
 } SERVICE_DESCRIPTOR_TABLE;
 ```
 
-{% hint style="info" %}
+```
 SSDTs used to be hooked by AVs as well as rootkits that wanted to hide files, registry keys, network connections, etc. Microsoft introduced PatchGuard for x64 systems to fight SSDT modifications by BSOD'ing the system.
-{% endhint %}
+```
 
 ## In Human Terms
 

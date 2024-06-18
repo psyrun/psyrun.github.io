@@ -55,9 +55,9 @@ Visually, our first booloader binary, once compiled, should have the structure l
 
 ![Our bootloader on the left and proper bootloader structure on the right](<../../.gitbook/assets/image (789).png>)
 
-{% hint style="info" %}
+```
 In the above screenshot on the right, we can see the structure of how a real-life bootloader should look like, but for this lab, we're going to ignore it.
-{% endhint %}
+```
 
 Again, note that the total size of the bootloader is 512 bytes:
 
@@ -147,9 +147,9 @@ dw 0xaa55
 ```
 {% endcode %}
 
-{% hint style="info" %}
+```
 Note the line 12 with instrunctions `add bx, 0x7c00` is commented out - we will uncomment it in Test 2 and confirm that the bootloader is indeed loaded at `0x7c00`.
-{% endhint %}
+```
 
 ...which does the following:
 
@@ -158,10 +158,10 @@ Note the line 12 with instrunctions `add bx, 0x7c00` is commented out - we will 
 * Dereference `bx` (take the value from memory address pointed to by the `bx`) and put it in `al`
 * Issue a BIOS interrupt and attempt to print the value of `al` to the screen, which one could expect to be the character `B`, but as we will soon see, will not be the case.
 
-{% hint style="warning" %}
+```
 **Remember**\
 The CPU treats assembly labels (like our label `x`) as offsets from the start of computer memory and not from the start of the memory location where our code is loaded to.
-{% endhint %}
+```
 
 We can compile the above code with `nasm -f bin .\bootloader-x.asm -o bootloader.bin` and launch it with `qemu-system-x86_64.exe C:\labs\bootloader\bootloader.bin` and see the result:
 

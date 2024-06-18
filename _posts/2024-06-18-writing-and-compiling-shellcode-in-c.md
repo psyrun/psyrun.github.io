@@ -13,9 +13,9 @@ This is a quick lab to get familiar with the process of writing and compiling sh
 
 For the sake of this lab, we are going to turn a simple C program (that is provided by [hasherezade](https://twitter.com/hasherezade) in the aforementioned paper) that pops a message box, to shellcode and execute it by manually injecting it into an RWX memory location inside notepad.
 
-{% hint style="info" %}
+```
 Code samples used throughout this lab are written by [hasherezade](https://twitter.com/hasherezade), unless stated otherwise.
-{% endhint %}
+```
 
 ## Overview
 
@@ -30,10 +30,10 @@ Below is a quick overview of how writing and compiling shellcode in C works:
 
 ## Walkthrough
 
-{% hint style="info" %}
+```
 1. This lab is based on Visual Studio 2019 Community Edition.&#x20;
 2. Program and shellcode in this lab targets x64 architecture.
-{% endhint %}
+```
 
 ### 1. Preparing Dev Environment
 

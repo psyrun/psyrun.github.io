@@ -52,9 +52,9 @@ The below shows `Security Packages` registry value with the `mimilib` added and 
 
 ![](../../.gitbook/assets/lsa-security-packages.png)
 
-{% hint style="info" %}
+```
 Reboot is required for the new SSP to take effect after it's been added to the Security Packages  list.
-{% endhint %}
+```
 
 ## Loading SSP without Reboot
 
@@ -85,9 +85,9 @@ Below shows how the new Security Package spotless.dll is loaded by lsass and is 
 
 ![procmon filter: path contains "spotless"](../../.gitbook/assets/load-ssp.gif)
 
-{% hint style="info" %}
+```
 Loading the SSP with this approach does not survive a reboot unlike SSPs that are loaded as registered Security Packages via registry.
-{% endhint %}
+```
 
 ## Detection
 

@@ -82,9 +82,9 @@ Weirdly, searching for my password in API Monitor resulted in nothing. Reviewing
 
 ![32 byte encrypted binary blob](../../.gitbook/assets/image%20%28150%29.png)
 
-{% hint style="info" %}
+```
 From the above screenshot, note the size of the encrypted blob is 32 bytes - we will come back to this in WinDBG
-{% endhint %}
+```
 
 I could, however, see the unencrypted password in the `CryptUnprotectMemory` call, so I guess this is another function you could consider hooking for nefarious purposes:
 

@@ -66,17 +66,17 @@ int WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int n
 ```
 {% endcode %}
 
-{% hint style="warning" %}
+```
 Although in this lab I am using `CredUIPromptForCredentials` for invoking credentials prompt, you should be using  [`CredUIPromptForWindowsCredentials`](https://docs.microsoft.com/windows/desktop/api/wincred/nf-wincred-creduipromptforwindowscredentialsa)
-{% endhint %}
+```
 
 If we compile and run the above code, we get a credential prompt, that captures user's credentials in plain text, which we could then save to a file or send out over the internet:
 
 ![](<../../.gitbook/assets/image (547).png>)
 
-{% hint style="info" %}
+```
 The above credential prompt can also be invoked with  PowerShell cmdlet `Get-Credential`.
-{% endhint %}
+```
 
 ## Detecting Credential Prompts
 

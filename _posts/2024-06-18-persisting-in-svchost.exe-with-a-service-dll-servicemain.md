@@ -116,9 +116,9 @@ Next, inside `HKLM\SYSTEM\CurrentControlSet\services\EvilSvc\`, create a new val
 reg add HKLM\SYSTEM\CurrentControlSet\services\EvilSvc\Parameters /v ServiceDll /t REG_EXPAND_SZ /d C:\Windows\system32\EvilSvc.dll /f
 ```
 
-{% hint style="warning" %}
+```
 `EvilSvc.dll` must exist in `C:\Windows\system32\EvilSvc.dll`
-{% endhint %}
+```
 
 At this point, our `EvilSvc` should be created with all the right parameters as seen in the registry:
 

@@ -70,9 +70,9 @@ Let's build the program and run it - we can see we got some meterpreter shells.
 
 ![](../../.gitbook/assets/memoryenumerationshell.gif)
 
-{% hint style="warning" %}
+```
 The below provided code is a dirty POC and may crash certain processes and the Visual Studio banner appearing in the above GIF proves it - the shellcode got injected into Visual Studio (devenv.exe) that crashed and restarted itself.
-{% endhint %}
+```
 
 ## Code
 

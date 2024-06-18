@@ -11,9 +11,9 @@ permalink: /code-execution-through-control-panel-add-ins/
 
 It's possible to force explorer.exe to load your DLL that is compiled as a Control Panel Item and is registered as a Control Panel Add-in.
 
-{% hint style="info" %}
+```
 This technique could also be considered for persistence.
-{% endhint %}
+```
 
 ## Execution
 

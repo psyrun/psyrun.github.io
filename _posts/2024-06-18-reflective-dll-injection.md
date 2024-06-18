@@ -45,9 +45,9 @@ Metasploit's post-exploitation module `windows/manage/reflective_dll_inject` con
 
 ![](<../../.gitbook/assets/reflective-dll-options (1).png>)
 
-{% hint style="info" %}
+```
 `Reflective_dll.x64.dll` is the DLL compiled from Steven Fewer's [reflective dll injection](https://github.com/stephenfewer/ReflectiveDLLInjection) project on github.
-{% endhint %}
+```
 
 After executing the post exploitation module, the below graphic shows how the notepad.exe executes the malicious payload that came from a reflective DLL that was sent over the wire from the attacker's system:
 

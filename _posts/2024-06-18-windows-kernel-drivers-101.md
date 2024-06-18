@@ -9,9 +9,9 @@ permalink: /windows-kernel-drivers-101/
 
 # Windows Kernel Drivers 101
 
-{% hint style="info" %}
+```
 Work In Progress
-{% endhint %}
+```
 
 This living document captures some of the Kernel Driver and OS related concepts that I encounter as I study Windows kernel driver development.
 

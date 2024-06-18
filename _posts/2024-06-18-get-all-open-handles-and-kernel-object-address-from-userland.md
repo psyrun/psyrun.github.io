@@ -19,13 +19,13 @@ A list of all the open handles on the system is retrieved by using a `NtQuerySys
 
 Below code retrieves all handles opened by the `SYSTEM` process (PID 4):
 
-{% hint style="danger" %}
+```
 * Below code does not handle errors
 * `SystemHandleInformationSize` is a hardcoded value, which you should not do in production code. Instead, you should:
   * start with an arbitrary size for `SystemHandleInformationSize`
   * call `NtQuerySystemInformation` in a loop, until it no longer returns `0xc0000004` (`STATUS_INFO_LENGTH_MISMATCH`)
   * if `0xc0000004` is returned, increase `SystemHandleInformationSize`
-{% endhint %}
+```
 
 ```cpp
 #include <iostream>
@@ -87,10 +87,10 @@ int main()
 }
 ```
 
-{% hint style="info" %}
+```
 **Remember**\
 The above code could be easily modified to find an object's location in kernel given its handle.
-{% endhint %}
+```
 
 ## Validation
 

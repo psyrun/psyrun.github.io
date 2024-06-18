@@ -21,9 +21,9 @@ If SMB signing is disabled, howeverm packets can be intercepted/modified and/or 
 * 10.0.0.2 - victim1; their credentials will be relayed to victim2
 * 10.0.0.6 - victim2; code runs on victim2 with victim1 credentials
 
-{% hint style="warning" %}
+```
 Credentials from Victim1 must be for a local admin on Victim2 or be a member of Administrators/Domain Administrators group for this attack to work successfully.
-{% endhint %}
+```
 
 Below is a simplified process of how this attack works:
 
@@ -52,9 +52,9 @@ Since we know that victim2@10.0.0.6 has SMB signing disabled and is vulnerable t
 ```
 {% endcode %}
 
-{% hint style="info" %}
+```
 Any other forced authentication method will also work - follow below link for a list of techniques.
-{% endhint %}
+```
 
 {% content-ref url="../initial-access/t1187-forced-authentication.md" %}
 [t1187-forced-authentication.md](../initial-access/t1187-forced-authentication.md)
@@ -68,9 +68,9 @@ smbrelayx.py -h 10.0.0.6 -c "ipconfig"
 ```
 {% endcode %}
 
-{% hint style="info" %}
+```
 Note that smbrelayx could be used with a `-e` switch that allows attacker to execute their payload file - say, a meterpreter executable.
-{% endhint %}
+```
 
 Below is a gif showing the technique in action - on the left - `victim1@10.0.0.2` opening the malicious html we crafted earlier that forces it to attempt to authenticate to the attacker system (on the right). Once the authentication attempt comes in, it gets relayed to `victim2@10.0.0.6` and ipconfig gets executed:
 

@@ -11,9 +11,9 @@ permalink: /rop-return-oriented-programming/
 
 The purpose of this lab is to familiarize with a binary exploitation technique called Return Oriented Programming or ROP in short. The technique is used to bypass Data Execution Protection \(DEP\) and Address Space Layout Randomization \(ASLR\) protections.
 
-{% hint style="info" %}
+```
 Work In Progress
-{% endhint %}
+```
 
 ## Overview
 

@@ -13,9 +13,9 @@ The purpose of this lab is to get a bit more comfortable with writing primitive 
 
 Shellcode encoding simply means transforming original shellcode bytes into a set of arbitrary bytes by following some rules (encoding scheme), that can be later be reverted back to their original values by following the same rules (decoding scheme) in reverse.
 
-{% hint style="success" %}
+```
 Shellcode encoding may be useful in evading static antivirus signatures and eliminating null bytes.
-{% endhint %}
+```
 
 ## Encoder
 
@@ -131,9 +131,9 @@ section .text
 ```
 {% endcode %}
 
-{% hint style="info" %}
+```
 Note that line 12 contains the shellcode size - `0x12` - the value that was printed out by our `encoder.ps1`
-{% endhint %}
+```
 
 ### Assembling the Decoder
 
@@ -161,10 +161,10 @@ Let's switch to the Hex Editor and we can copy (right click on the selected byte
 
 Now that we've extracted our decoder's (that includes our encoded shellcode) op-codes, let's check if we can make them execute and see our encoded shellcode get decoded and launched.
 
-{% hint style="warning" %}
+```
 **Reminder** \
 Our decoded shellcode will not execute as it's simply an ascii string `original shellcode`, but it would if it was actual executable code.
-{% endhint %}
+```
 
 To keep things simple, let's fire up x64dbg and attach it to a new instance of notepad.exe - this is the process that we will be executing our decoder in - and hit F9 so that we break at the entry point:
 

@@ -47,9 +47,9 @@ logman query providers "{22FB2CD6-0E7B-422B-A0C7-2FAD1FD0E716}"
 
 As we can tell from the above `keywords`, this provider could provide us with some process, thread and image \(load/unload as we will see later\) related events.
 
-{% hint style="info" %}
+```
 Use [ETWExplorer](https://github.com/zodiacon/EtwExplorer) for a deep provider inspection, and see what events and more importantly data it can provide. 
-{% endhint %}
+```
 
 Below shows Microsoft-Windows-Kernel-Process being inspected with ETWExplorer with some information, which looks like something Sysmon and other similar security monitoring oriented tools could use:
 

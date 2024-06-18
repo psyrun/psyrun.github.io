@@ -28,9 +28,9 @@ Let's see what we have in the above diagram:
 5. On the source host, `ShadowMove.exe` enumerates all handles `nc.exe` has opened and looks for handles to `\Device\Afd`, which are used for network socket communications. Once found, the handle is used to create a duplicate socket with `WSADuplicateSocketW` and `WSASocket` API calls. Once the shared socket is created, `getpeername` is used to check if the destination address of the socket is that of target host's IP address, which in our case is `192.168.56.102`.
 6. Once the shared socket is created based on the `\Device\Afd` handle pointing to the target host, as found in step 5, `ShadowMove.exe` can now write to that socket with `send` and read from it with `recv` API calls.
 
-{% hint style="warning" %}
+```
 It's important to stress once more, the ShadowMove.exe **does not** **create any TCP connections to the target host.** Instead, it reuses the existing connected socket to `192.168.56.102:80 ` between the source and target host, that was established by the nc.exe process on the source system - and this is the key point of this lateral movement technique.
-{% endhint %}
+```
 
 ## Code
 

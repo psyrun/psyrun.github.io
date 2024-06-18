@@ -13,9 +13,9 @@ This lab was inspired by an old post [Phant0m: Killing Windows Event Log](https:
 
 The purpose of this quick lab is to understand some of the inner workings of Invoke-Phant0m. In particular, I wanted to play around with Windows APIs related to retrieving a process ID that hosts a given service, thread enumeration, mapping threads to a particular service (Windows Eventlog in this case) hosted in the svchost.exe and so on. This would give me a better understanding of how I can target specific threads when I need to, I thought.
 
-{% hint style="info" %}
+```
 Although this lab was inspired by @hlldz' post, you will notice that we implemented the same technique in a slightly different way by levarging different Windows APIs.
-{% endhint %}
+```
 
 ## Overview
 
@@ -47,9 +47,9 @@ Below shows that indeed, suspending the threas is enough to disable the EventLog
 
 Based on the above, the main goal of this lab is to hack some code to find these threads and simply suspend them and disable windows event logging this way.
 
-{% hint style="warning" %}
+```
 Resuming threads will write out the events to the events log as if the threads had not been suspended in the first place.
-{% endhint %}
+```
 
 ## Code
 

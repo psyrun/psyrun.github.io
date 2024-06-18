@@ -45,9 +45,9 @@ Below is a simple JavaScript/jQuery code that hooks HTML `password` fields:
 t=""; $('input[type="password"]').onkeypress = function (e) { t+=e.key; console.log(t); localStorage.setItem("pw", t); } 
 ```
 
-{% hint style="info" %}
+```
 The above code only captures the password field, but username could be captured the same way.
-{% endhint %}
+```
 
 The above code needs to be executed in the context of the target web application you want to capture the password for. Once the above code snippet is executed, it performs the following:
 
@@ -56,9 +56,9 @@ The above code needs to be executed in the context of the target web application
   * the function prints out captured keys into the browser's console view for this demo's purposes
   * the function stores the captured password in browser's `localStorage` key `pw`
 
-{% hint style="warning" %}
+```
 If the user closes the browser or even a tab with the web application you are targeting before the password was captured, the hooks will be cleared and the binding / hooking processes will need to be repeated again.
-{% endhint %}
+```
 
 ## Demo
 
@@ -95,17 +95,17 @@ Below shows `password` (lime) for github.com (blue) stored in `localStorage` key
 
 ![009691.log](<../../.gitbook/assets/image (419).png>)
 
-{% hint style="info" %}
+```
 Use an obscure, but descriptive localStorage key to store the captured password in. It will make it easier for you to retrieve the stored password later.
-{% endhint %}
+```
 
 ### Exfiltration
 
 The initial code could be easily adapted to exfiltrate the password to an attacker controlled web server on each key press, taking away the need to RDP to the target system or fiddling with localStorage files.
 
-{% hint style="info" %}
+```
 Use encrypted communications when transferring the password out of the compromised environment.
-{% endhint %}
+```
 
 ## Detection
 

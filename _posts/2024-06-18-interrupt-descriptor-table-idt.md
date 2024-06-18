@@ -17,11 +17,11 @@ permalink: /interrupt-descriptor-table-idt/
 * IDT is a list of IDT descriptor entries which are 8 or 16 bytes in size depending on the architecture 
 * Pointer to IDT is stored in an `IDTR` register for each physical processor or in other words, each processor has its own `IDTR` register pointing to its own Interrupt Descriptor Table
 
-{% hint style="info" %}
+```
 Offsets across different screenshots and windbg output may differ due to the fact that I rebooted the debugee a couple of times during the time these notes were taken.
 
 The notes are based on debugging a kernel of a 64 bit Windows, running in a VM with 1 CPU.
-{% endhint %}
+```
 
 ## IDT Location
 

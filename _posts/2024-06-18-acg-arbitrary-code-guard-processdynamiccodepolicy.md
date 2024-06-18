@@ -68,9 +68,9 @@ Although the ACG in `mitigationpolicy.exe` neutralized our malicious `injectorDl
 
 Repeating:
 
-{% hint style="warning" %}
+```
 Remotes processes (i.e EDRs) could use `VirtualAllocEx` and `WriteProcessMemory`to write and execute shellcode in an ACG enabled process rendering ACG useless.
-{% endhint %}
+```
 
 Below shows that indeed it's still possible for a remote process to inject shellcode to a process protected with ACG:
 

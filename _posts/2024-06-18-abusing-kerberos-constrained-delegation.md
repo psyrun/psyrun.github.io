@@ -25,13 +25,13 @@ Get-NetUser -TrustedToAuth
 
 In the below screenshot, the user `spot` is allowed to delegate or in other words, impersonate any user and authenticate to a file system service (CIFS) on a domain controller DC01.&#x20;
 
-{% hint style="info" %}
+```
 User has to have an attribute `TRUSTED_TO_AUTH_FOR_DELEGATION` in order for it to be able to authenticate to the remote service.
 
 > TRUSTED\_TO\_AUTH\_FOR\_DELEGATION - (Windows 2000/Windows Server 2003) The account is enabled for delegation. This is a security-sensitive setting. Accounts that have this option enabled should be tightly controlled. This setting lets a service that runs under the account assume a client's identity and authenticate as that user to other remote servers on the network.&#x20;
 >
 > [https://support.microsoft.com/en-gb/help/305144/how-to-use-useraccountcontrol-to-manipulate-user-account-properties](https://support.microsoft.com/en-gb/help/305144/how-to-use-useraccountcontrol-to-manipulate-user-account-properties)
-{% endhint %}
+```
 
 Attribute `msds-allowedtodelegateto` identifies the SPNs of services the user `spot` is trusted to delegate to (impersonate other domain users) and authenticate to - in this case, it's saying that the user spot is allowed to authenticate to CIFS service on DC01 on behalf of any other domain user:
 

@@ -16,9 +16,9 @@ Below are some notes with a couple of simple Powershell scripts that I use to:
 * Join computer to `offense.local` domain
 * Create users in `offense.local` domain
 
-{% hint style="danger" %}
+```
 The scripts are not intended to fully automate building of the Active Directory lab, rather they serve as cheatsheets that suit most of my needs most of the time.
-{% endhint %}
+```
 
 I use Hyper-V to run my virtual machines (VM) which I installed manually:
 
@@ -35,9 +35,9 @@ Below script establishes a Powershell Remoting session to the `DC01` VM using cr
 * Installs AD services and management tools;
 * Creates a domain `offense.local`.
 
-{% hint style="info" %}
+```
 You may need to change the passwords depending on your password policies.
-{% endhint %}
+```
 
 {% code title="Promote-DC.ps1" %}
 ```csharp
@@ -155,9 +155,9 @@ Before running this script, the password policy needs to be manually updated on 
 
 ![](<../../.gitbook/assets/image (753).png>)
 
-{% hint style="info" %}
+```
 Don't forget to run `gpupdate.exe` on the `DC01` for the new password policy to take affect. This step is mandatory before running `Create-Users.ps1` script, otherwise the user passwords will not be changed.
-{% endhint %}
+```
 
 ## Setting up Kali in Enhanced Session Mode
 

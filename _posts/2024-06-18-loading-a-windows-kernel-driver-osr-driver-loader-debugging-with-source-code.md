@@ -51,10 +51,10 @@ sc.exe query kmdfHelloDriver
 
 The benefit of loading a kernel driver this way is that it does not rely on OSR Driver Loader or any other 3rd party tools and also is much more efficient.
 
-{% hint style="info" %}
+```
 **Important**\
 In order for this technique to work, the WinDBG debugger needs to be attached to the debugee.
-{% endhint %}
+```
 
 ### Preparing Powershell Profile
 
@@ -95,9 +95,9 @@ Below screenshot shows the two steps explained above:
 
 ![](<../../.gitbook/assets/image (596).png>)
 
-{% hint style="info" %}
+```
 Once the powershell profile is saved, close the powershell console and open it again for the function `Install-Driver` to become usable.
-{% endhint %}
+```
 
 ### Loading the Driver
 

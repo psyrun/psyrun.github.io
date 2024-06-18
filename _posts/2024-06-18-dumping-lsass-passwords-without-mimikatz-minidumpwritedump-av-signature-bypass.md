@@ -15,10 +15,10 @@ description: Evasion, Credential Dumping
 
 This lab explores multiple ways of how we can write a simple `lsass` process dumper using `MiniDumpWriteDump` API. Lsass process dumps created with `MiniDumpWriteDump` can be loaded to mimikatz offline, where credential materials could be extracted.
 
-{% hint style="warning" %}
+```
 Note that you may get flagged by AVs/EDRs for reading lsass process memory. Depending on what AV/EDR you are dealing with, see other notes:\
 [Bypassing Cylance and other AVs/EDRs by Unhooking Windows APIs](../defense-evasion/bypassing-cylance-and-other-avs-edrs-by-unhooking-windows-apis.md) and [Full DLL Unhooking with C++](../defense-evasion/how-to-unhook-a-dll-using-c++.md)
-{% endhint %}
+```
 
 ## MiniDumpWriteDump to Disk
 
@@ -80,10 +80,10 @@ Do not forget to add `dbghelp.lib` as a dependency in the Linker > Input setting
 
 ![](<../../.gitbook/assets/Screenshot from 2019-03-23 17-01-44.png>)
 
-{% hint style="info" %}
+```
 Or simply include at the top of the source code:\
 `#pragma comment (lib, "Dbghelp.lib")`
-{% endhint %}
+```
 
 ### Demo
 
@@ -248,9 +248,9 @@ On the right, we're executing the same code and it says that the minidump was wr
 
 ![MiniDumpWriteDump dumping lsass process to a memory location](../../.gitbook/assets/minidumpwritedump-dump-to-memory.gif)
 
-{% hint style="info" %}
+```
 If you ever try using `MiniDumpWriteDump` to dump process memory to memory using named pipes, you will notice that the minidump file "kind of" gets created, but mimikatz is not able to read it. That's because the minidump buffer is actually written non-sequentially (you can see this from the screenshot in the top right corner - note the differing offsets of the write operations of the minidump data), so when you are reading the minidump using named pipes, you simply are writting the minidump data in incorrect order, which effectively produces a corrupted minidump file.
-{% endhint %}
+```
 
 ### Other Ways
 
@@ -268,9 +268,9 @@ Hooking `dbgcore.dll!Win32FileOutputProvider::WriteAll` to intercept the minidum
 
 `PssCaptureSnapshot` is another Windows API that lets us dump lsass process using `MiniDumpWriteDump` that may help us sneak past some AVs/EDRs for now.
 
-{% hint style="info" %}
+```
 The benefit of using `PssCaptureSnapshot` is that when `MiniDumpWriteDump` is called from your malware, it will not be reading lsass process memory directly and instead will do so from the process's snapshot.
-{% endhint %}
+```
 
 Below is the modified dumper code that uses the `PssCaptureSnapshot` to obtain a snapshot of the lsass process. The handle that is returned by the `PssCaptureSnapshot` is then used in the `MiniDumpWriteDump` call instead of the lsass process handle. This is done via the minidump callback:
 

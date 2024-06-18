@@ -42,7 +42,7 @@ Visually, a simplified diagram of the stack overflow vulnerability that we will 
 
 ![Vulnerable program before and after its stack is overflowed with our malicious content](<../../../.gitbook/assets/image (850).png>)
 
-{% hint style="info" %}
+```
 For the sake of simplicy of this lab, the vulnerable program:
 
 * does not filter out any characters in the shellcode, so that we do not need to deal with bad characters;
@@ -50,7 +50,7 @@ For the sake of simplicy of this lab, the vulnerable program:
 * does not implement/enforce any memory protections;
 
 Additionally, the shellcode in the vulnerable program is written to a memory address pointed to by the ESP register at the time of crash.
-{% endhint %}
+```
 
 ## Observing the Crash
 
@@ -157,9 +157,9 @@ Note the following:
 * The EIP now points to `4E54455`2 (red), which is our string `RETN` in hex;
 * Immediately after the `RETN`, at `0060FB20` (green, pointed to by the ESP), we see our string `SHELLCODE` (green) repeated 10 times.
 
-{% hint style="success" %}
+```
 The above further confirms that we know how to control EIP and that our schellcode is pointed to by the ESP.
-{% endhint %}
+```
 
 ## Finding JMP ESP
 
@@ -169,13 +169,13 @@ To find a memory address containing `jmp esp` instruction, we can simply use Ctr
 
 ![Locating memory address that contains JMP ESP instruction](../../../.gitbook/assets/finding-jmp-esp.gif)
 
-{% hint style="warning" %}
+```
 Memory address for instruction set `jmp esp` on your system may be different as ntdll.dll is updated between different Windows versions.
-{% endhint %}
+```
 
-{% hint style="info" %}
+```
 Remember the memory address of `jmp esp` - `7798BD1B` - we will need it soon for the exploit code.
-{% endhint %}
+```
 
 ## Exploit Skeleton
 

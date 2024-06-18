@@ -22,9 +22,9 @@ This lab explores a security impact of unrestricted kerberos delegation enabled 
 Essentially this looks like so:\
 `User` --- authenticates to ---> `IIS server` ---> authenticates on behalf of the user ---> `DB server`
 
-{% hint style="warning" %}
+```
 Any user authentication (i.e CIFS) to the computer with unconstrained delegation enabled on it, will cache that user's TGT in memory, which can later be dumped and reused by an adversary.
-{% endhint %}
+```
 
 ## Setup
 

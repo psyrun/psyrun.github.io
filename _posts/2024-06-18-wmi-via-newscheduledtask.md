@@ -37,8 +37,8 @@ As usual, services.exe spawning unusual binaries should raise a wary defender's 
 
 ![](<../../.gitbook/assets/Screenshot from 2018-10-19 22-59-12.png>)
 
-{% hint style="info" %}
+```
 Sysmon config master version 64 from [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) does not log the calc.exe Process Creation event being spawned by the services.exe
-{% endhint %}
+```
 
 @spotheplanet

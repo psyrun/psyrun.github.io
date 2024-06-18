@@ -13,9 +13,9 @@ The purpose of this lab is to look into how Windows kernel rootkits hide / unlin
 
 This is going to be a high level overview and no kernel code will be written, instead, kernel memory structures will be manipulated manually with WinDBG.
 
-{% hint style="info" %}
+```
 Lab is performed on Windows 10 Professional x64, 1903.
-{% endhint %}
+```
 
 **Update 1**  
 Some replies to my tweet to this post suggested that PatchGuard would normally kick-in and BSOD the OS, which I am sure is the case, although in my lab I experienced no BSODs even though the kernel stayed patched with an unlinked process for 12+ hours.
@@ -259,9 +259,9 @@ Below is another quick demo showing how notepad.exe disappears from the Windows 
 
 ![](../../.gitbook/assets/hide-process.gif)
 
-{% hint style="info" %}
+```
 In the above demo, memory offsets of structures are different due to a system reboot since the initial write up.
-{% endhint %}
+```
 
 ## Detection
 

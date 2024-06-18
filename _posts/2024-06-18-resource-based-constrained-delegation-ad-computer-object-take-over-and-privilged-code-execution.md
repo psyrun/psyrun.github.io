@@ -201,11 +201,11 @@ Additionally, check if we can remotely execute code with our noisy friend psexec
 
 ![](<../../.gitbook/assets/Screenshot from 2019-03-31 13-44-20.png>)
 
-{% hint style="warning" %}
+```
 Note that the `offense\spotless` rights are effective only on the target system - i.e. on the system that delegated (`WS01`) another computer resource (`FAKE01`) to act on the target's (`WS01`) behalf and allow to impersonate any domain user.
 
 In other words, an attack can execute code/commands as `offense\spotless` only on the `WS01` machine and not on any other machine in the domain.
-{% endhint %}
+```
 
 ## References
 

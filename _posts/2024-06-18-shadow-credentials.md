@@ -124,11 +124,11 @@ Below simply shows the TGS that we have in memory for accessing CIFS service on 
 
 ![S4U2Self - CIFS service requested TGS to itself on behalf of first\admin](<../../.gitbook/assets/image (1090) (1).png>)
 
-{% hint style="info" %}
+```
 **Operating from Linux**
 
 If you're operating from a Linux box, you may execute the Shadow credentials technique using [pyWhisker](https://github.com/ShutdownRepo/pywhisker) (whisker ported to Python) by [https://twitter.com/\_nwodtuhs](https://twitter.com/\_nwodtuhs).
-{% endhint %}
+```
 
 ## References & Credits
 

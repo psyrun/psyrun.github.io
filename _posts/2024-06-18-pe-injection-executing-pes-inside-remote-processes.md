@@ -15,9 +15,9 @@ description: Code Injection
 
 This is a quick lab of a simplified way of injecting an entire portable executabe (PE) into another running process.
 
-{% hint style="warning" %}
+```
 Note that in order to inject more complex PEs, additional DLLs in the target process may need to be loaded and Import Address Table fixed and for this, refer to my other lab [Reflective DLL Injection](reflective-dll-injection.md#resolving-import-address-table).
-{% endhint %}
+```
 
 ## Overview
 

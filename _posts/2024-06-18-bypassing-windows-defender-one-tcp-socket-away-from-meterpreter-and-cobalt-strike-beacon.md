@@ -17,10 +17,10 @@ If you've tried executing an out of the box meterpreter payload on the box with 
 
 This quick lab shows how I was able to execute the off the shelf meterpreter payload against the latest Windows Defender (7th of May at the time of writing) by delivering the shellcode over a TCP socket.
 
-{% hint style="info" %}
+```
 **Works with Cobalt Strike Beacon**\
 The demo uses metasploit's meterpreter payload, but I have tested this technique with Cobalt Strike beacon and it also bypasses the Windows Defender.
-{% endhint %}
+```
 
 ## Overview
 

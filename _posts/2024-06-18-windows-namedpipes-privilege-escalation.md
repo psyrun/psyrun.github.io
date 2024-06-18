@@ -190,9 +190,9 @@ Note how `PipeServer.exe` running as a local admin `ws01\mantvydas` spawned a cm
 
 ![](<../../.gitbook/assets/Screenshot from 2019-05-06 12-59-57.png>)
 
-{% hint style="info" %}
+```
 Note that this technique is used by meterpreter when attempting to escalate privileges when `GetSystem` command is used.. The same technique is used in the `PowerUp`.
-{% endhint %}
+```
 
 ## References
 

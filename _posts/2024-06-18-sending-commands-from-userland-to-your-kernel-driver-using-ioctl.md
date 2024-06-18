@@ -38,11 +38,11 @@ This is where we create a device (that we are writing the driver for) and its sy
 
 ![](<../../.gitbook/assets/image (514).png>)
 
-{% hint style="info" %}
+```
 * IOCTL control code is a code that is sent to the device driver from via an `RP_MJ_DEVICE_CONTROL` request using `DeviceIoControl` WinAPI.&#x20;
 * IOCTL control code tells the driver what action the driver needs to perform.&#x20;
 * For example, IOCTL code 0x202 (`IOCTL_STORAGE_EJECT_MEDIA`) could be sent to a USB/CDROM device and its  driver would carry out an appropriate action for the given device, i.e open the CD tray for a CD-ROM or eject the USB media storage.
-{% endhint %}
+```
 
 Below shows the device name and its symbolic link we are using in this exercise:
 
@@ -72,11 +72,11 @@ This routine will handle the IOCTL requests sent from our userland program. In t
 
 ![](<../../.gitbook/assets/image (525).png>)
 
-{% hint style="info" %}
+```
 When `IoDeviceControl` is called in the userland with a custom IOCTL and any input data that we want to be sent to the kernel, the OS intercepts that request and packages it into an I/O Packet (IRP), that will then be handed to our callback `HandleCustomIOCTL`, that we previously registered in the `DriverEntry` routine for the IRP `IRP_MJ_DEVICE_CONTROL`.&#x20;
 
 IRP, among many other things, contains the incoming IOCTL code, the input data sent from the userland request and a buffer that the kernel driver code can use to send the response back to the userland program.
-{% endhint %}
+```
 
 ### Defining Custom IOCTL
 

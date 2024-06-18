@@ -166,9 +166,9 @@ void sCreateProcessNotifyRoutineEx(PEPROCESS process, HANDLE pid, PPS_CREATE_NOT
 PsSetCreateProcessNotifyRoutineEx(sCreateProcessNotifyRoutineEx, FALSE);
 ```
 
-{% hint style="info" %}
+```
 If `PsSetCreateProcessNotifyRoutineEx` is not working in your driver, you will need to add a `/integritycheck` switch in your linker configuration
-{% endhint %}
+```
 
 ![](<../../.gitbook/assets/image (530).png>)
 

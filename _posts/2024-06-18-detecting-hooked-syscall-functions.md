@@ -41,9 +41,9 @@ We can see the `NtReadVirtualMemory` syscall stub starts with instructions:
 ...
 ```
 
-{% hint style="info" %}
+```
 The above applies to most routines starting with `Zw`, i.e `ZwReadVirtualMemory` too.
-{% endhint %}
+```
 
 ...which translates to the following 4 opcodes:
 
@@ -73,10 +73,10 @@ jmp 0000000047980084
 e9 0f 64 f8 c7
 ```
 
-{% hint style="info" %}
+```
 `e9` - opcode for near jump\
 `0f64f8c7`- offset, which is relative to the address of the current instruction, where the code will jump to
-{% endhint %}
+```
 
 ### Checking for Hooks
 
@@ -112,7 +112,7 @@ if (*((unsigned char*)targetFunction) == 0xE9) // first byte is a jmp instructio
 }
 ```
 
-{% hint style="warning" %}
+```
 **False Positives**\
 \*\*\*\*Although highly effective at detecting functions hooked with inline patching, this method returns a few false positives when enumerating hooked functions inside ntdll.dll, such as:\
 \
@@ -125,7 +125,7 @@ if (*((unsigned char*)targetFunction) == 0xE9) // first byte is a jmp instructio
 `ZwQuerySystemTime`
 
 The above functions are not hooked.
-{% endhint %}
+```
 
 ## Code
 

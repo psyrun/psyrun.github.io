@@ -16,13 +16,13 @@ coverY: 0
 
 The purpose of this lab is to familiarize with a binary exploitation technique called Return Oriented Programming (ROP), ROP chains / ROP gadgets. The technique is used to bypass Data Execution Protection (DEP).
 
-{% hint style="warning" %}
+```
 Don't forget to disable the ASLR for this lab to work:
 
 ```
 echo 0 > /proc/sys/kernel/randomize_va_space
 ```
-{% endhint %}
+```
 
 ## 1st ROP Chain
 
@@ -72,9 +72,9 @@ Note that there are 3 functions `rop1`, `rop2` and `rop3` that are never called 
 
 We're going to exploit the classic stack-based overflow vulnerability in the function `vulnerable` in the above code to trigger the functions `rop1()`, `rop2()` and `rop3()` sequentially, that are otherwise not called during the vulnerable program's runtime. Additionally, after the `rop3()` function completes, we will make the program call the libc function `exit()`, so that after the exploit completes its job, the program exits gracefully rather than with a crash.
 
-{% hint style="info" %}
+```
 The sequence of called functions `rop1() --> rop2() --> rop3() --> exit()` forms a chain and this is where the term ROP chains come from.
-{% endhint %}
+```
 
 ### Stack Layout
 
@@ -265,11 +265,11 @@ To re-inforce, stack for our second ROP chain has the following key differences 
 
 ### ROP Gadgets
 
-{% hint style="info" %}
+```
 * ROP gadgets are sequences of CPU instructions that are already present in the program being exploited or its loaded shared libraries and can be used to execute almost any arbitrary code;
 * ROP gagdgets most often end with the `ret` instruction;
 * ROP gadgets bypass the DEP (NX bit protection), since there is no executable code being injected to and executed from the stack, instead existing executable code is used to achieve the same malicious intent.
-{% endhint %}
+```
 
 In gdb-peda, we can find addresses of the 2 gadgets that we are interested in (`popret` for `rop2` and `pop2ret` for `rop3`) by issuing the `ropgadet` command:
 
@@ -345,9 +345,9 @@ Note the following key points from the above gif:
 * Address of the libc `exit()` function is now on top of the stack;
 * Finally, `ret` instruction executes, which pops the `exit()` address from the stack and jumps to it, completing our second ROP chain execution and gracefully closing the vulnerable program.
 
-{% hint style="info" %}
+```
 We could have chosen to inspect the `popret` gadget and we would have seen a nearly identical behaviour to the one noted above, except that `popret` would have popped only one value from the stack before executing the `ret` instruction.
-{% endhint %}
+```
 
 ## Useful Python
 

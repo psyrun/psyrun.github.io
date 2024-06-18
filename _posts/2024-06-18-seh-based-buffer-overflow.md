@@ -103,9 +103,9 @@ Let's check the start of the SEH chain at `00cff2cc` like so:
 dt _EXCEPTION_REGISTRATION_RECORD 00cff2cc
 ```
 
-{% hint style="info" %}
+```
 From this point the`ExceptionList` address changed from `00cff2cc` to `00cff274` due to the deugging program being restarted. This may happen multiple time throughout the labs.
-{% endhint %}
+```
 
 ![Start of the SEH chain at 00cff274](<../../../.gitbook/assets/image (979).png>)
 
@@ -180,12 +180,12 @@ Note that the exception handler at `0x00e220f0`, when we identified it previousl
 
 We're going to be exploiting the [R 3.4.4](https://www.exploit-db.com/exploits/47122) on a 32-bit Windows 10 system.
 
-{% hint style="info" %}
+```
 The following exploitation steps will not be detailed, since they can be found in my other notes:
 
 * Identifying the SEH record overwrite offset - see [Finding EIP offset](stack-based-buffer-overflow.md#finding-eip-offset);
 * Identifying bad characters for the shellcode - see [Finding bad characters](stack-based-buffer-overflow.md#finding-bad-characters).
-{% endhint %}
+```
 
 ### Confirming the Crash
 
@@ -249,11 +249,11 @@ python -c "print('A'*1012 + 'BBBB' + 'CCCC')" | clip.exe
 
 ...and send it to the vulnerable program and see if we can overwrite the SEH record, located at `0141e768` correctly:
 
-{% hint style="warning" %}
+```
 **Important**
 
 Note the SEH record address `0141e768` - this is the record we will be overwriting and it will become very important when trying to understand how to force the vulnerable program to jump to our shellcode.
-{% endhint %}
+```
 
 ![Confirming we can overwrite SEH record at 0141e768 ](<../../../.gitbook/assets/image (1002).png>)
 
@@ -278,9 +278,9 @@ Let's send `1012*A` to the vulnerable program and upon crashing it, inspect the 
 
 Note the first SEH record is at address `0141E768` and its handler is at `76275680`.
 
-{% hint style="info" %}
+```
 Again, it is important to remember / realize that we control/can overwrite the SEH record at `0141e768`.
-{% endhint %}
+```
 
 Let's set a breakpoint on the handler at `76275680`, continue execution until that breakpoint is hit, then inspect the SEH chain and the stack's contents:
 
@@ -292,9 +292,9 @@ Once the breakpoint is hit at `76275680`, we can see that the address `0141E768`
 
 To find memory addresses containing `pop pop ret` instructions, we can search all modules for a bytes pattern `5f 5d c3` that translates to `pop edi; pop ebp; ret`:
 
-{% hint style="info" %}
+```
 Any other byte pattern that translates to `pop pop ret` should work too.
-{% endhint %}
+```
 
 ![Finding pop pop ret instructions using byte pattern search in all modules](<../../../.gitbook/assets/image (1006).png>)
 

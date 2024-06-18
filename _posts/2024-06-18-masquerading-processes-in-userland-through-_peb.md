@@ -21,12 +21,12 @@ In this short lab I am going to use a WinDBG to make my malicious program preten
 
 This is possible, because information about the process, i.e commandline arguments, image location, loaded modules, etc is stored in a memory structure called Process Environment Block (`_PEB`) that is accessible and writeable from the userland.
 
-{% hint style="info" %}
+```
 Thanks to [@FuzzySec](https://twitter.com/FuzzySec) who pointed out the following:\
 _you don't need SeDebugPrivilege when overwriting the PEB for your own process or generally for overwriting a process spawned in your user context_
 
 [_https://twitter.com/FuzzySec/status/1090963518558482436_](https://twitter.com/FuzzySec/status/1090963518558482436)
-{% endhint %}
+```
 
 This lab builds on the previous lab:
 
@@ -93,13 +93,13 @@ eu 0x00000000`005e280e "C:\\Windows\\System32\\notepad.exe"
 
 ![](../../.gitbook/assets/masquerade-1.png)
 
-{% hint style="warning" %}
+```
 If you are following along, do not forget to add NULL byte at the end of your new string to terminate it:
 
 ```
 eb 0x00000000`005e280e+3d 0x0
 ```
-{% endhint %}
+```
 
 Let's check the `_UNICODE_STRING` structure again to see if the changes took effect:
 

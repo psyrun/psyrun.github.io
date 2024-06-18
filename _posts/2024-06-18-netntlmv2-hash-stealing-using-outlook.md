@@ -13,9 +13,9 @@ permalink: /netntlmv2-hash-stealing-using-outlook/
 
 If a target system is not running the latest version of Windows/Outlook, it may be possible to craft such an email that allows an attacker to steal the victim's NetNTLMv2 hashes without requiring any interaction from the user - clicking the email to preview it is enough for the hashes to be stolen.
 
-{% hint style="warning" %}
+```
 Note that this attack does not work on the most up to date version of Windows 10 and Outlook 2016 versions, so like always - patch early and often.
-{% endhint %}
+```
 
 ## Weaponization
 

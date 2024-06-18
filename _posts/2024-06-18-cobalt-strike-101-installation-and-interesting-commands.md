@@ -31,9 +31,9 @@ root@/opt/cobaltstrike# ./teamserver 10.0.0.5 password
 
 ![](<../../.gitbook/assets/Screenshot from 2019-01-06 22-47-10.png>)
 
-{% hint style="info" %}
+```
 Note that in real life red team engagements, you would put the team servers behind redirectors to add resilience to your attacking infrastructure. See [Red Team Infrastructure](./)
-{% endhint %}
+```
 
 ### Cobalt Strike Client
 

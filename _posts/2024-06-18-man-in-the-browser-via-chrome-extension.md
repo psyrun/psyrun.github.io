@@ -97,10 +97,10 @@ Note the username and password of the bot as you will need it when configuring F
 
 #### Installing CursedChrome CA Certificate to FireFox
 
-{% hint style="danger" %}
+```
 **Important**\
 Do not forget to export the Proxy CA certificate (see the big download button below the connected bots panel) and install it to FireFox as this is required for the technique to work.
-{% endhint %}
+```
 
 ![Installing CursedChrome CA Certificate to FireFox](../../.gitbook/assets/install-cert.gif)
 

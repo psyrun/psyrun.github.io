@@ -29,9 +29,9 @@ Then test the technique like so:
 
 Note in the below screenshot how mimikatz is launched, but the Process Explorer actually represents the mimikatz process as zone.txt - this is because multiple Process Environment Block's (PEB) memory structures of the newly created process were modified during the new process creation:
 
-{% hint style="info" %}
+```
 This test was done on Windows 7
-{% endhint %}
+```
 
 ![](<../../.gitbook/assets/Screenshot from 2018-12-31 15-37-35.png>)
 

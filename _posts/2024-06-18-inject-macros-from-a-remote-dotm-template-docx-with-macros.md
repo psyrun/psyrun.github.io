@@ -70,9 +70,9 @@ Zip all the files of `legit` archive and name it back to .docx - we now have a w
 
 ![](<../../../.gitbook/assets/Peek 2019-03-18 23-07.gif>)
 
-{% hint style="info" %}
+```
 Note that this technique could be used to steal NetNTLMv2 hashes since the target system is connecting to the attacking system - a responder can be listening there.
-{% endhint %}
+```
 
 ## References
 

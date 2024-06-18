@@ -36,9 +36,9 @@ Once the compromised user launches powershell, our code gets executed:
 
 ![](<../../.gitbook/assets/image (218).png>)
 
-{% hint style="warning" %}
+```
 If the user is not using profiles, the technique will stick out immediately due to the "loading personal and system profiles..." message at the top.
-{% endhint %}
+```
 
 ## References
 

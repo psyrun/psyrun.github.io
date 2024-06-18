@@ -23,9 +23,9 @@ PS C:\> Get-Process | Where-Object { $_.ProcessName -eq "Sysmon" }
 
 ![](<../../.gitbook/assets/Screenshot from 2018-10-09 17-39-28.png>)
 
-{% hint style="warning" %}
+```
 Note: process name can be changed during installation
-{% endhint %}
+```
 
 ## Services
 
@@ -39,9 +39,9 @@ Get-Service | where-object {$_.DisplayName -like "*sysm*"}
 
 ![](<../../.gitbook/assets/Screenshot from 2018-10-09 17-48-11.png>)
 
-{% hint style="warning" %}
+```
 Note: display names and descriptions can be changed
-{% endhint %}
+```
 
 ## Windows Events
 

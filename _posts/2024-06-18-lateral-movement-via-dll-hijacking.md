@@ -23,9 +23,9 @@ In these notes, we will be targeting the missing DLL located at:
 c:\windows\system32\sharedres.dll
 ```
 
-{% hint style="info" %}
+```
 There may be better processes with missing DLLs to target, for example, those that you can force to attempt to load the DLL that is missing and you are about to hijack.
-{% endhint %}
+```
 
 ## 2. Create Payload DLL
 
@@ -33,9 +33,9 @@ Now, you need to create a DLL that contains your payload - i.e. Cobalt Strike be
 
 In this situation, it is strongly advised to ensure that your malicious DLL to not only executes your payload, but also exports the same functions the DLL you are hijacking exports, so find the real DLL on your system or on the internet to check what exports it contains and make sure your DLL has those exports. Afteral, the process that will load your DLL is loading it for a reason - it will want to use some functions that that DLL and will crash if it does not find them.
 
-{% hint style="danger" %}
+```
 It is strongly advised to ensure that your malicious DLL exports the same functions as the DLL you are hijacking, otherwise you may crash the process or compromise the system's stability.
-{% endhint %}
+```
 
 See my lab on [DLL proxying](../persistence/dll-proxying-for-persistence.md) and check out a tool [Koppeling](https://github.com/monoxgas/Koppeling) by [@monoxgas](https://twitter.com/monoxgas?lang=en) that automates DLL proxying and more.
 

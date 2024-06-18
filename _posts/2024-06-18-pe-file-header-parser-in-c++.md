@@ -24,11 +24,11 @@ Below is a graphic showing the end result - a program that parses a 32bit cmd.ex
 
 ![](../.gitbook/assets/peek-2018-11-06-20-13.gif)
 
-{% hint style="warning" %}
+```
 * The code is not able to parse 64bit executables correctly. This will not be fixed.
 * The code was not meant to be clean and well organised - it was not the goal of this lab
 * The parser is not full-blown - it only goes through the main headers and DLL imports, so no exports, relocations or resources will be touched.
-{% endhint %}
+```
 
 ## The Big Hurdle
 
@@ -83,7 +83,7 @@ $$
 
 where `imageBase` is the start address of where the binary image is loaded, `text.RawOffset` is the `Raw Address` value from the `.text` section, `text.VA` is `Virtual Address` value from the `.text` section and `importDirectory.RVA` is the `Import Directory RVA` value from `Data Directories` in `Optional Header`.
 
-{% hint style="info" %}
+```
 If you think about what was discussed so far and the above formula for a moment, you will realise that:
 
 * `imageBase` in our case is 0 since the file is not loaded to memory and we are inspecting it on the disk
@@ -91,7 +91,7 @@ If you think about what was discussed so far and the above formula for a moment,
 * `imageBase + text.RawOffset` gives us the file offset to the `.text` section - we need it, because remember - the import table is inside the `.text` section
 * Since `importDirectory.RVA`, as mentioned earlier, lives in the `.text` section, `importDirectory.RVA - text.VA` gives us the offset of the import table relative to the start of the `.text` section
 * We take the value of `importDirectory.RVA - text.VA` and add it to the `text.RawOffset` and we get the offset of the import table in the raw `.text` data.
-{% endhint %}
+```
 
 Below is some simple powershell to do the calculations for us to get the file offset that we can later use for filling up the `PIMAGE_IMPORT_DESCRIPTOR` structure with:
 

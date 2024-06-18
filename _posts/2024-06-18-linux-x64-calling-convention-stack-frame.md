@@ -25,9 +25,9 @@ Once inside the callee function:
   * if the callee function had more than 16 bytes reserved for local variables, we'd access the first argument of type `int` via `rbp - 0x24`, which suggests that with every 16 bytes worth of local variables defined, the first argument is shifted by 0x10 bytes as shown [here](linux-x64-calling-convention-stack-frame.md#accessing-1st-argument);
 * Argument 7 can be accessed via `rbp + 0x10`, argument 8 via `rbp + 0x18` and so on.
 
-{% hint style="warning" %}
+```
 Conclusions listed above are based on the code sample and screenshots provided in the below sections.
-{% endhint %}
+```
 
 ## Code
 
@@ -77,9 +77,9 @@ Below is a table that complements the above screenshot and shows where arguments
 | 8          | RSP + 0x18 | h        | 0x8   | Lime   |
 | 9          | RSP + 0x20 | i        | 0x9   | Lime   |
 
-{% hint style="info" %}
+```
 Same applies to arguments that are memory addresses/pointers.
-{% endhint %}
+```
 
 ## Stack Inside test()
 
@@ -104,9 +104,9 @@ Based on the above case, the `test()` function stack frame, would now look like 
 
 ![64-bit stack frame with 1 local variable defined inside the callee function](<../../.gitbook/assets/image (890).png>)
 
-{% hint style="warning" %}
+```
 Note that the 1st argument, that we previously could access via `rbp - 0x4` has been shifted up by 0x10 bytes and is now accessible via `rbp - 0x14 `whereas the local variable is now at `rbp - 0x4` (where the 1st argument was when the function did not have a local variable defined) followed by 0x10 bytes of padding.
-{% endhint %}
+```
 
 Following the same principle as outlined above, if the callee had more than 16 bytes of local variables defined (17 bytes in our case as shown in the below screenshot), we'd now access the first argument via `rbp - 0x24` (i.e another 0x10 bytes shift from `rbp - 0x14`):
 

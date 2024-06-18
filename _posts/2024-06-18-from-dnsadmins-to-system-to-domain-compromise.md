@@ -49,9 +49,9 @@ The below looks promising and suggests the request to load our malicious DLL was
 
 ![](<../../.gitbook/assets/Screenshot from 2018-11-11 21-55-59.png>)
 
-{% hint style="info" %}
+```
 `dnscmd` is a windows utility that allows people with `DnsAdmins` privileges manage the DNS server. The utility can be installed by adding `DNS Server Tools` to your system as shown in the below screengrab.
-{% endhint %}
+```
 
 ![](<../../.gitbook/assets/Screenshot from 2018-11-11 17-04-48.png>)
 
@@ -85,9 +85,9 @@ I tried exporting functions with C++ name mangling and without and although the 
 
 ![](<../../.gitbook/assets/Screenshot from 2018-11-11 21-46-09.png>)
 
-{% hint style="warning" %}
+```
 Although I was not able to correctly inject the DLL without crashing the dns service in my lab environment, I still decided to publish these notes, in case they will be stubmled upon by a reader who had successfully injected a custom DLL and who would like to share their thoughts on what I am overlooking as this would be much appreciated.
-{% endhint %}
+```
 
 Since I could not get my malicious DLL injected into the dns.exe successfully, I thought of trying to inject the meterpreter payload using the same technique.
 
@@ -115,9 +115,9 @@ Now if we restart the DNS service which will load our `addDA.dll`, we see that t
 
 ![](<../../.gitbook/assets/Screenshot from 2018-11-11 23-03-52.png>)
 
-{% hint style="danger" %}
+```
 Warning: at this time the DNS service is probably crashed, so be warned - using DLLs that do not conform to the plugin requirements is not stealthy and this type of activity probably will get picked up by defenders really quickly unless you can restore the DNS service immediately.
-{% endhint %}
+```
 
 Below confirms that the dns service is down, however we can still access the DC C$ share by DC's IP from our spotless user, meaning that we have escalated privileges to DA:
 

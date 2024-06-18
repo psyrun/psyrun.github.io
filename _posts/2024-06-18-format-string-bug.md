@@ -25,9 +25,9 @@ In other words, format string allows the programmer to specify how a certain val
 
 Let's look at the below code example, where the `savings` variable is defined as a floating value of `345.82`, which is printed to the screen with `printf`, using the format string `Savings: $%f`:
 
-{% hint style="info" %}
+```
 The `%f` in the format string tells the `printf()` to print the value of `savings` as a floating-point value.
-{% endhint %}
+```
 
 {% code title="fmt-00.c" %}
 ```c
@@ -166,9 +166,9 @@ int main(int argc, char **argv)
 ./format1 "` python -c "print 'AAAA' + 'x38\x96\x04\x08' + 'BBBBBBBBBBBBBBBBBBBBBB' + '%x '*127 + '%n ' " `"; echo
 ```
 
-{% hint style="info" %}
+```
 It's possible to abuse format bugs to execute shellcode, but I could not get my dev environment setup to reproduce the exploitation examples found in the book and online, so these notes are parked for the time being.
-{% endhint %}
+```
 
 ## References
 

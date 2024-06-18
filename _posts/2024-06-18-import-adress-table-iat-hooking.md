@@ -41,9 +41,9 @@ Below is a simplified diagram that attempts to visualize the flow of events befo
 
 In this lab I'm going to write a simple executable that will hook `MessageBoxA` in its process memory space by leveraging the IAT hooking technique and redirect it to a function called `hookedMessageBox` as per above visualisation and then transfer the code execution back to the intended `MessageBoxA` routine.
 
-{% hint style="warning" %}
+```
 IAT hooking is usually performed by a DLL injected into a target process, but for the sake of simplicity and illustration, in this lab, the IAT hooking is implemented in the local process.
-{% endhint %}
+```
 
 To hook the `MessageBoxA` we need to:
 

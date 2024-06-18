@@ -131,9 +131,9 @@ If we check what our IP is again, it is obvious that we are now indeed masquerad
 
 ![](../../.gitbook/assets/ssh-dynamic-port-forwarding-myip2.png)
 
-{% hint style="info" %}
+```
 Dynamic port forwarding plays along nicely with ProxyChains.
-{% endhint %}
+```
 
 ## References
 

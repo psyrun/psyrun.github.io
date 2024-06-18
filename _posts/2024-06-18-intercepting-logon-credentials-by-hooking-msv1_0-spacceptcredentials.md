@@ -23,12 +23,12 @@ The purpose of this lab was for me to play around with:
 * Programatically searching process memory space for byte patterns
 * Ghidra / WinDBG
 
-{% hint style="warning" %}
+```
 Not an OPSEC safe technique. Can be flagged for at least the following:
 
 * LSASS loading unusual DLLs
 * `WriteProcessMemory` API usage
-{% endhint %}
+```
 
 ## Overview
 
@@ -164,9 +164,9 @@ In order to do it, we need to find a sequence of bytes in the `SpAcceptCredentia
 48 83 ec 20 49 8b d9 49 8b f8 8b f1 48
 ```
 
-{% hint style="info" %}
+```
 My msv1\_0.dll is from x64 Windows 10, 1809
-{% endhint %}
+```
 
 If we check the `msv1_0.dll` in Ghidra, we indeed find our signature - 16 bytes into the `SpAcceptCredentials` function start:
 

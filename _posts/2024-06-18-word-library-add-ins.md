@@ -55,9 +55,9 @@ Interesting to note that Process Explorer does not see the evilm64.wll loaded in
 
 ![](<../../.gitbook/assets/Annotation 2019-06-22 144219.png>)
 
-{% hint style="info" %}
+```
 This technique did not work for me on Office 365 version, but worked on Office Professional. Not sure if there's a bug in the 365 version or it's just a limitation of that version.
-{% endhint %}
+```
 
 ## References
 

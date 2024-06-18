@@ -34,10 +34,10 @@ If you need more info on parsing Windows PE files, see my previous lab:
 
 ## Execution
 
-{% hint style="warning" %}
+```
 You may notice that `ImageBaseAddress` varies across the screenshots. \
 This is because I ran the binary multiple times and the ASLR played its role.
-{% endhint %}
+```
 
 ### Destination / Host Image
 

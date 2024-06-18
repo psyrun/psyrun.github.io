@@ -35,9 +35,9 @@ I will write some crude code that will do the following:
 7. Invoke the `NtCreateFile` syscall by calling the syscall `v1`, which actually points to `m2`, where `NtCreateFile` syscall stub is stored
 8. `NtCreate` syscall gets executed - profit
 
-{% hint style="info" %}
+```
 Note, that the above process is just one way of achieving the same goal.
-{% endhint %}
+```
 
 ## Reminder
 

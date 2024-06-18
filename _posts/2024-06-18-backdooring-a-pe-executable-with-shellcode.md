@@ -9,9 +9,9 @@ permalink: /backdooring-a-pe-executable-with-shellcode/
 
 # Backdooring a PE Executable with Shellcode
 
-{% hint style="info" %}
+```
 WIP
-{% endhint %}
+```
 
 The purpose of this lab is to learn the PE backdooring technique by adding a new readable/writable/executable .TEXT section section with our malicious shellcode.
 
@@ -71,9 +71,9 @@ When debugging the binary, if we set the EIP to point to 4D8000‬ and let the d
 
 ![](../../.gitbook/assets/backdoored-pe.gif)
 
-{% hint style="info" %}
+```
 In the above screenshot, `pushad` and `pushdf` are the first instructions at 4d8000 - it's not shown in this lab how those two instructions were inserted there, but there is no magic  - just add   bytes `60 9c` before the shellcode at 0xCD200 in the bginfo and you're set.
-{% endhint %}
+```
 
 ## Redirecting Code Execution Flow
 
@@ -103,10 +103,10 @@ Let's now hijack the bginfo.exe code execution flow by overwriting any instructi
 
 One of the first 5-byte instructions we can see is `mov edi, bb40e64e` at 00467b29:
 
-{% hint style="warning" %}
+```
 **Important**   
 We are about to overwrite the instruction `mov edi, 0xbb40e64e` at **00467b29**, hence we need to remember it for later as explained in 1.2.
-{% endhint %}
+```
 
 ![](../../.gitbook/assets/image%20%2825%29.png)
 
@@ -114,10 +114,10 @@ Let's overwrite the instruction at 00467b29 with an instruction `jmp 0x004d8000`
 
 ![](../../.gitbook/assets/image%20%28126%29.png)
 
-{% hint style="warning" %}
+```
 **Important**  
 Remember the address of the next instruction after **0046b29**, which is **0467b2e** - this is the address we will jump back after the shellcode has executed in order to resume bginfo.
-{% endhint %}
+```
 
 There are multiple ways to overwrite the instructions at 00467b29 - either assemble the bytes using a debugger or patch the binary via a hex editor which is what I did. I found the bytes `bf 4e e6 40 bb` \(bytes found at 00467b29 when bginfo is in memory\) in the bginfo.exe \(screenshot below\) and replaced them with bytes `e9 d2 04 07 00` which translates to jmp `bgfinfo.d48000` \(jump to our shellcode, above screenshot\).
 

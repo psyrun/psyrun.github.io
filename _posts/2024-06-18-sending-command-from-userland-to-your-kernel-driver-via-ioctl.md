@@ -42,9 +42,9 @@ This is where we create a device \(that we are writing the driver for\) and its 
 
 ![](../../.gitbook/assets/image%20%28445%29.png)
 
-{% hint style="info" %}
+```
 IOCTL control code is a code that is sent to the device driver from the userland via a  `IRP_MJ_DEVICE_CONTROL` request sent via `DeviceIoControl` WinAPI. IOCTL control code tells the driver what action the driver needs to perform. For example, IOCTL code 0x202 \(`IOCTL_STORAGE_EJECT_MEDIA`\) could be sent to a USB/CDROM device and its  driver would carry out an appropriate action for the given device, i.e open the CD tray for a CD-ROM or eject the USB media storage.
-{% endhint %}
+```
 
 Below shows the device name and its symbolic link we are using in this exercise:
 

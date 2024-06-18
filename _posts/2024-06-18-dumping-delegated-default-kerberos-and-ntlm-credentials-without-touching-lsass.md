@@ -17,9 +17,9 @@ Credential Delegation is a feature that allows domain administartors to authoriz
 
 To illustrate - the below shows how a user spotless@offense attempts to access the termsrv/ws2.offense.local and is prompted to enter his credentials - this means credential delegation is not set for the termsrv (RDP) on ws02$ and therefore the machine ws02 does not accept delegated passwords, which results in a password prompt for the user.
 
-{% hint style="info" %}
+```
 Default Password is a currently logged on user's password.
-{% endhint %}
+```
 
 ![](<../../.gitbook/assets/Annotation 2019-08-20 224950.png>)
 
@@ -46,9 +46,9 @@ tsssp::server
 ```
 {% endcode %}
 
-{% hint style="info" %}
+```
 Kekeo on ws01 must be running as NT\SYSTEM for this to work
-{% endhint %}
+```
 
 Now, let's connect to the tsssp server on ws01 from the target computer ws02 (we want currently logged on user's from ws02 credentials to be stolen by being sent to the tsssp server on ws01 over the named pipe):
 

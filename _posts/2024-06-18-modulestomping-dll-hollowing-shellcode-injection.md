@@ -33,11 +33,11 @@ In this lab, I will inject `amsi.dll` into a `notepad.exe` process, but this of 
 
 `ReadProcessMemory`/`WriteProcessMemory` API calls are usually used by debuggers rather than "normal" programs.
 
-{% hint style="info" %}
+```
 `ReadProcessMemory` is used to read remote process injected module's image headers, meaning we could ditch the `ReadProcessMemory` call and read those headers from the DLL on the disk.&#x20;
 
 We could also use `NtMapViewOfSection` to inject shellcode into the remote process, reducing the need for `WriteProcessMemory`.
-{% endhint %}
+```
 
 ## Code
 

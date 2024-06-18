@@ -21,9 +21,9 @@ HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
 HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\shell
 ```
 
-{% hint style="info" %}
+```
 HKCU can also be replaced with HKLM for a system wide persistence, if you have admin privileges.
-{% endhint %}
+```
 
 ## Execution
 

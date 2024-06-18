@@ -88,9 +88,9 @@ Reviewing `CryptProtectMemory` calls manually in API Monitor showed no plaintext
 
 ![32 byte encrypted binary blob](<../../.gitbook/assets/image (238).png>)
 
-{% hint style="info" %}
+```
 From the above screenshot, note the size of the encrypted blob is 32 bytes - we will come back to this in WinDBG
-{% endhint %}
+```
 
 While having issues with API Monitor, let's put a breakpoint on `CryptProtectMemory` in WinDBG and print out a unicode string (this should be the plaintext password passed to the function for encryption) starting 4 bytes into the address (first 4 bytes indicate the size of the encrypted data) pointed by the RCX register:
 
