@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "redirectors forwarders"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /redirectors-forwarders/
----
-
----
-layout: post
-title: "redirectors forwarders"
+title: "2024-06-18-redirectors forwarders"
 date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /redirectors-forwarders/
 ---
 

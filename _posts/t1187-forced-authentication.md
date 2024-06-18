@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1187 forced authentication"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1187-forced-authentication/
----
-
----
-layout: post
-title: "t1187 forced authentication"
+title: "2024-06-18-t1187 forced authentication"
 date: 2024-06-18
 categories: initial-access
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1187-forced-authentication/
 ---
 

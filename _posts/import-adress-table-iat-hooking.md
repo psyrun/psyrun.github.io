@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "import adress table iat hooking"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /import-adress-table-iat-hooking/
----
-
----
-layout: post
-title: "import adress table iat hooking"
+title: "2024-06-18-import adress table iat hooking"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /import-adress-table-iat-hooking/
 ---
 

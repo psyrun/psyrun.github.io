@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "commandline obfusaction"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /commandline-obfusaction/
----
-
----
-layout: post
-title: "commandline obfusaction"
+title: "2024-06-18-commandline obfusaction"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /commandline-obfusaction/
 ---
 

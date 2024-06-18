@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "shellcode execution in a local process with queueuserapc and nttestalert"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /shellcode-execution-in-a-local-process-with-queueuserapc-and-nttestalert/
----
-
----
-layout: post
-title: "shellcode execution in a local process with queueuserapc and nttestalert"
+title: "2024-06-18-shellcode execution in a local process with queueuserapc and nttestalert"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /shellcode-execution-in-a-local-process-with-queueuserapc-and-nttestalert/
 ---
 

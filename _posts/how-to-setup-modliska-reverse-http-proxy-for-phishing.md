@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "how to setup modliska reverse http proxy for phishing"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /how-to-setup-modliska-reverse-http-proxy-for-phishing/
----
-
----
-layout: post
-title: "how to setup modliska reverse http proxy for phishing"
+title: "2024-06-18-how to setup modliska reverse http proxy for phishing"
 date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /how-to-setup-modliska-reverse-http-proxy-for-phishing/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "injecting dll via custom .net garbage collector environment variable complus_gcname"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /injecting-dll-via-custom-.net-garbage-collector-environment-variable-complus_gcname/
----
-
----
-layout: post
-title: "injecting dll via custom .net garbage collector environment variable complus_gcname"
+title: "2024-06-18-injecting dll via custom .net garbage collector environment variable complus_gcname"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /injecting-dll-via-custom-.net-garbage-collector-environment-variable-complus_gcname/
 ---
 

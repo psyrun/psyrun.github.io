@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "forcing wdigest to store credentials in plaintext"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /forcing-wdigest-to-store-credentials-in-plaintext/
----
-
----
-layout: post
-title: "forcing wdigest to store credentials in plaintext"
+title: "2024-06-18-forcing wdigest to store credentials in plaintext"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /forcing-wdigest-to-store-credentials-in-plaintext/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "empire shells with netnltmv2 relaying"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /empire-shells-with-netnltmv2-relaying/
----
-
----
-layout: post
-title: "empire shells with netnltmv2 relaying"
+title: "2024-06-18-empire shells with netnltmv2 relaying"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /empire-shells-with-netnltmv2-relaying/
 ---
 

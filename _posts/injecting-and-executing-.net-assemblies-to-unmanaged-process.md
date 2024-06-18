@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "injecting and executing .net assemblies to unmanaged process"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /injecting-and-executing-.net-assemblies-to-unmanaged-process/
----
-
----
-layout: post
-title: "injecting and executing .net assemblies to unmanaged process"
+title: "2024-06-18-injecting and executing .net assemblies to unmanaged process"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /injecting-and-executing-.net-assemblies-to-unmanaged-process/
 ---
 

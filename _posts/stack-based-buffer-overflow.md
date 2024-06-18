@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "stack based buffer overflow"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /stack-based-buffer-overflow/
----
-
----
-layout: post
-title: "stack based buffer overflow"
+title: "2024-06-18-stack based buffer overflow"
 date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /stack-based-buffer-overflow/
 ---
 

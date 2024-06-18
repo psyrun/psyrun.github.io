@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "dumping hashes from sam"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /dumping-hashes-from-sam/
----
-
----
-layout: post
-title: "dumping hashes from sam"
+title: "2024-06-18-dumping hashes from sam"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /dumping-hashes-from-sam/
 ---
 

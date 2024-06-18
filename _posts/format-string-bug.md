@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "format string bug"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /format-string-bug/
----
-
----
-layout: post
-title: "format string bug"
+title: "2024-06-18-format string bug"
 date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /format-string-bug/
 ---
 

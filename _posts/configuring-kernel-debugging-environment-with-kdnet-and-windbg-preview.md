@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "configuring kernel debugging environment with kdnet and windbg preview"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /configuring-kernel-debugging-environment-with-kdnet-and-windbg-preview/
----
-
----
-layout: post
-title: "configuring kernel debugging environment with kdnet and windbg preview"
+title: "2024-06-18-configuring kernel debugging environment with kdnet and windbg preview"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /configuring-kernel-debugging-environment-with-kdnet-and-windbg-preview/
 ---
 

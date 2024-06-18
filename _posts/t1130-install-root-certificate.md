@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1130 install root certificate"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1130-install-root-certificate/
----
-
----
-layout: post
-title: "t1130 install root certificate"
+title: "2024-06-18-t1130 install root certificate"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1130-install-root-certificate/
 ---
 

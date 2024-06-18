@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "sql injection xss playground"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /sql-injection-xss-playground/
----
-
----
-layout: post
-title: "sql injection xss playground"
+title: "2024-06-18-sql injection xss playground"
 date: 2024-06-18
 categories: offensive-security-cheetsheets
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /sql-injection-xss-playground/
 ---
 

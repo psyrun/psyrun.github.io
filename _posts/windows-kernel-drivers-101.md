@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "windows kernel drivers 101"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel-drivers-101/
----
-
----
-layout: post
-title: "windows kernel drivers 101"
+title: "2024-06-18-windows kernel drivers 101"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /windows-kernel-drivers-101/
 ---
 

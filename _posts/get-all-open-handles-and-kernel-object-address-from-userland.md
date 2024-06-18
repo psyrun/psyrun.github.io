@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "get all open handles and kernel object address from userland"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /get-all-open-handles-and-kernel-object-address-from-userland/
----
-
----
-layout: post
-title: "get all open handles and kernel object address from userland"
+title: "2024-06-18-get all open handles and kernel object address from userland"
 date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /get-all-open-handles-and-kernel-object-address-from-userland/
 ---
 

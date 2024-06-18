@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "instrumenting windows apis with frida"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /instrumenting-windows-apis-with-frida/
----
-
----
-layout: post
-title: "instrumenting windows apis with frida"
+title: "2024-06-18-instrumenting windows apis with frida"
 date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /instrumenting-windows-apis-with-frida/
 ---
 

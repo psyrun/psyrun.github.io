@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "enumerating users without net services without sc and scheduled tasks without schtasks"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumerating-users-without-net-services-without-sc-and-scheduled-tasks-without-schtasks/
----
-
----
-layout: post
-title: "enumerating users without net services without sc and scheduled tasks without schtasks"
+title: "2024-06-18-enumerating users without net services without sc and scheduled tasks without schtasks"
 date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /enumerating-users-without-net-services-without-sc-and-scheduled-tasks-without-schtasks/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "detecting hooked syscall functions"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /detecting-hooked-syscall-functions/
----
-
----
-layout: post
-title: "detecting hooked syscall functions"
+title: "2024-06-18-detecting hooked syscall functions"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /detecting-hooked-syscall-functions/
 ---
 

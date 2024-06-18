@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "simple tcp relaying with netcat"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /simple-tcp-relaying-with-netcat/
----
-
----
-layout: post
-title: "simple tcp relaying with netcat"
+title: "2024-06-18-simple tcp relaying with netcat"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /simple-tcp-relaying-with-netcat/
 ---
 

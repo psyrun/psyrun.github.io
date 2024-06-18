@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "kerberos silver tickets"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /kerberos-silver-tickets/
----
-
----
-layout: post
-title: "kerberos silver tickets"
+title: "2024-06-18-kerberos silver tickets"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /kerberos-silver-tickets/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "man in the browser via chrome extension"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /man-in-the-browser-via-chrome-extension/
----
-
----
-layout: post
-title: "man in the browser via chrome extension"
+title: "2024-06-18-man in the browser via chrome extension"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /man-in-the-browser-via-chrome-extension/
 ---
 

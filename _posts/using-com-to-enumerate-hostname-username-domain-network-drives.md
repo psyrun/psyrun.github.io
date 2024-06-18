@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "using com to enumerate hostname username domain network drives"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /using-com-to-enumerate-hostname-username-domain-network-drives/
----
-
----
-layout: post
-title: "using com to enumerate hostname username domain network drives"
+title: "2024-06-18-using com to enumerate hostname username domain network drives"
 date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /using-com-to-enumerate-hostname-username-domain-network-drives/
 ---
 

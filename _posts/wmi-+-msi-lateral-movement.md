@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "wmi + msi lateral movement"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /wmi-+-msi-lateral-movement/
----
-
----
-layout: post
-title: "wmi + msi lateral movement"
+title: "2024-06-18-wmi + msi lateral movement"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /wmi-+-msi-lateral-movement/
 ---
 

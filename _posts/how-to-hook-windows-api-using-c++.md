@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "how to hook windows api using c++"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /how-to-hook-windows-api-using-c++/
----
-
----
-layout: post
-title: "how to hook windows api using c++"
+title: "2024-06-18-how to hook windows api using c++"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /how-to-hook-windows-api-using-c++/
 ---
 

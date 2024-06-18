@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "reading dpapi encrypted secrets with mimikatz and c++"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /reading-dpapi-encrypted-secrets-with-mimikatz-and-c++/
----
-
----
-layout: post
-title: "reading dpapi encrypted secrets with mimikatz and c++"
+title: "2024-06-18-reading dpapi encrypted secrets with mimikatz and c++"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /reading-dpapi-encrypted-secrets-with-mimikatz-and-c++/
 ---
 

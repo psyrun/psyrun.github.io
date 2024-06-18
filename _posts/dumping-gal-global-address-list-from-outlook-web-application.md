@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "dumping gal global address list from outlook web application"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /dumping-gal-global-address-list-from-outlook-web-application/
----
-
----
-layout: post
-title: "dumping gal global address list from outlook web application"
+title: "2024-06-18-dumping gal global address list from outlook web application"
 date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /dumping-gal-global-address-list-from-outlook-web-application/
 ---
 

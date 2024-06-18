@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "abusing trust accountusd accessing resources on a trusted domain from a trusting domain"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /abusing-trust-accountusd-accessing-resources-on-a-trusted-domain-from-a-trusting-domain/
----
-
----
-layout: post
-title: "abusing trust accountusd accessing resources on a trusted domain from a trusting domain"
+title: "2024-06-18-abusing trust accountusd accessing resources on a trusted domain from a trusting domain"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /abusing-trust-accountusd-accessing-resources-on-a-trusted-domain-from-a-trusting-domain/
 ---
 

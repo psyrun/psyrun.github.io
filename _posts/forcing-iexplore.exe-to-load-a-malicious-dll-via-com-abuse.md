@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "forcing iexplore.exe to load a malicious dll via com abuse"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /forcing-iexplore.exe-to-load-a-malicious-dll-via-com-abuse/
----
-
----
-layout: post
-title: "forcing iexplore.exe to load a malicious dll via com abuse"
+title: "2024-06-18-forcing iexplore.exe to load a malicious dll via com abuse"
 date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /forcing-iexplore.exe-to-load-a-malicious-dll-via-com-abuse/
 ---
 

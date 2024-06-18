@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1118 installutil"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1118-installutil/
----
-
----
-layout: post
-title: "t1118 installutil"
+title: "2024-06-18-t1118 installutil"
 date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1118-installutil/
 ---
 

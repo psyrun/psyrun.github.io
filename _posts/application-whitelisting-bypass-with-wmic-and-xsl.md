@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "application whitelisting bypass with wmic and xsl"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /application-whitelisting-bypass-with-wmic-and-xsl/
----
-
----
-layout: post
-title: "application whitelisting bypass with wmic and xsl"
+title: "2024-06-18-application whitelisting bypass with wmic and xsl"
 date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /application-whitelisting-bypass-with-wmic-and-xsl/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "glimpse into ssdt in windows x64 kernel"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /glimpse-into-ssdt-in-windows-x64-kernel/
----
-
----
-layout: post
-title: "glimpse into ssdt in windows x64 kernel"
+title: "2024-06-18-glimpse into ssdt in windows x64 kernel"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /glimpse-into-ssdt-in-windows-x64-kernel/
 ---
 

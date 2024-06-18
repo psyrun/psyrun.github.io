@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "phishing xlm macro 4.0"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-xlm-macro-4.0/
----
-
----
-layout: post
-title: "phishing xlm macro 4.0"
+title: "2024-06-18-phishing xlm macro 4.0"
 date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /phishing-xlm-macro-4.0/
 ---
 

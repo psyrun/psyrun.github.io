@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "how to unhook a dll using c++"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /how-to-unhook-a-dll-using-c++/
----
-
----
-layout: post
-title: "how to unhook a dll using c++"
+title: "2024-06-18-how to unhook a dll using c++"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /how-to-unhook-a-dll-using-c++/
 ---
 

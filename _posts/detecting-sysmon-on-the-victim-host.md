@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "detecting sysmon on the victim host"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /detecting-sysmon-on-the-victim-host/
----
-
----
-layout: post
-title: "detecting sysmon on the victim host"
+title: "2024-06-18-detecting sysmon on the victim host"
 date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /detecting-sysmon-on-the-victim-host/
 ---
 

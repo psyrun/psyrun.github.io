@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "rop return oriented programming"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /rop-return-oriented-programming/
----
-
----
-layout: post
-title: "rop return oriented programming"
+title: "2024-06-18-rop return oriented programming"
 date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /rop-return-oriented-programming/
 ---
 

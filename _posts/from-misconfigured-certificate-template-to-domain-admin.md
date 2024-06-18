@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "from misconfigured certificate template to domain admin"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /from-misconfigured-certificate-template-to-domain-admin/
----
-
----
-layout: post
-title: "from misconfigured certificate template to domain admin"
+title: "2024-06-18-from misconfigured certificate template to domain admin"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /from-misconfigured-certificate-template-to-domain-admin/
 ---
 

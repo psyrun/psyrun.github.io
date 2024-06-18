@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "lateral movement via smb relaying by abusing lack of smb signing"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement-via-smb-relaying-by-abusing-lack-of-smb-signing/
----
-
----
-layout: post
-title: "lateral movement via smb relaying by abusing lack of smb signing"
+title: "2024-06-18-lateral movement via smb relaying by abusing lack of smb signing"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /lateral-movement-via-smb-relaying-by-abusing-lack-of-smb-signing/
 ---
 

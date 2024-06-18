@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "loading a windows kernel driver osr driver loader debugging with source code"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /loading-a-windows-kernel-driver-osr-driver-loader-debugging-with-source-code/
----
-
----
-layout: post
-title: "loading a windows kernel driver osr driver loader debugging with source code"
+title: "2024-06-18-loading a windows kernel driver osr driver loader debugging with source code"
 date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /loading-a-windows-kernel-driver-osr-driver-loader-debugging-with-source-code/
 ---
 

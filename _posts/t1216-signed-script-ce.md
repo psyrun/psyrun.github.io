@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1216 signed script ce"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1216-signed-script-ce/
----
-
----
-layout: post
-title: "t1216 signed script ce"
+title: "2024-06-18-t1216 signed script ce"
 date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1216-signed-script-ce/
 ---
 

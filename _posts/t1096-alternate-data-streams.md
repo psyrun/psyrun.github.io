@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1096 alternate data streams"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1096-alternate-data-streams/
----
-
----
-layout: post
-title: "t1096 alternate data streams"
+title: "2024-06-18-t1096 alternate data streams"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1096-alternate-data-streams/
 ---
 

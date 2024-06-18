@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "wmi + powershell desired state configuration lateral movement"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /wmi-+-powershell-desired-state-configuration-lateral-movement/
----
-
----
-layout: post
-title: "wmi + powershell desired state configuration lateral movement"
+title: "2024-06-18-wmi + powershell desired state configuration lateral movement"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /wmi-+-powershell-desired-state-configuration-lateral-movement/
 ---
 

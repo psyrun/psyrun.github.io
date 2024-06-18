@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "dumping and cracking mscash cached domain credentials"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /dumping-and-cracking-mscash-cached-domain-credentials/
----
-
----
-layout: post
-title: "dumping and cracking mscash cached domain credentials"
+title: "2024-06-18-dumping and cracking mscash cached domain credentials"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /dumping-and-cracking-mscash-cached-domain-credentials/
 ---
 

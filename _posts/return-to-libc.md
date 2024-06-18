@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "return to libc"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /return-to-libc/
----
-
----
-layout: post
-title: "return to libc"
+title: "2024-06-18-return to libc"
 date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /return-to-libc/
 ---
 

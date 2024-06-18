@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "writing and compiling shellcode in c"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /writing-and-compiling-shellcode-in-c/
----
-
----
-layout: post
-title: "writing and compiling shellcode in c"
+title: "2024-06-18-writing and compiling shellcode in c"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /writing-and-compiling-shellcode-in-c/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "retrieving ntdll syscall stubs at run time"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /retrieving-ntdll-syscall-stubs-at-run-time/
----
-
----
-layout: post
-title: "retrieving ntdll syscall stubs at run time"
+title: "2024-06-18-retrieving ntdll syscall stubs at run time"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /retrieving-ntdll-syscall-stubs-at-run-time/
 ---
 

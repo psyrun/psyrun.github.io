@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "wmi data storage"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /wmi-data-storage/
----
-
----
-layout: post
-title: "wmi data storage"
+title: "2024-06-18-wmi data storage"
 date: 2024-06-18
 categories: t1084-abusing-windows-managent-instrumentation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /wmi-data-storage/
 ---
 

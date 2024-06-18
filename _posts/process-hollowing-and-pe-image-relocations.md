@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "process hollowing and pe image relocations"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /process-hollowing-and-pe-image-relocations/
----
-
----
-layout: post
-title: "process hollowing and pe image relocations"
+title: "2024-06-18-process hollowing and pe image relocations"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /process-hollowing-and-pe-image-relocations/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "password spraying outlook web access remote shell"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /password-spraying-outlook-web-access-remote-shell/
----
-
----
-layout: post
-title: "password spraying outlook web access remote shell"
+title: "2024-06-18-password spraying outlook web access remote shell"
 date: 2024-06-18
 categories: initial-access
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /password-spraying-outlook-web-access-remote-shell/
 ---
 

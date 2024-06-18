@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1197 bits jobs"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1197-bits-jobs/
----
-
----
-layout: post
-title: "t1197 bits jobs"
+title: "2024-06-18-t1197 bits jobs"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1197-bits-jobs/
 ---
 

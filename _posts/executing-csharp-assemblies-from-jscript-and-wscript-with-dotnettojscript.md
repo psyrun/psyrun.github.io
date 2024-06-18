@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "executing csharp assemblies from jscript and wscript with dotnettojscript"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /executing-csharp-assemblies-from-jscript-and-wscript-with-dotnettojscript/
----
-
----
-layout: post
-title: "executing csharp assemblies from jscript and wscript with dotnettojscript"
+title: "2024-06-18-executing csharp assemblies from jscript and wscript with dotnettojscript"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /executing-csharp-assemblies-from-jscript-and-wscript-with-dotnettojscript/
 ---
 

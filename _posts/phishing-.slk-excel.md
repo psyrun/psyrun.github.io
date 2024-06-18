@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "phishing .slk excel"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-.slk-excel/
----
-
----
-layout: post
-title: "phishing .slk excel"
+title: "2024-06-18-phishing .slk excel"
 date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /phishing-.slk-excel/
 ---
 

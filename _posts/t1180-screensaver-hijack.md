@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1180 screensaver hijack"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1180-screensaver-hijack/
----
-
----
-layout: post
-title: "t1180 screensaver hijack"
+title: "2024-06-18-t1180 screensaver hijack"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1180-screensaver-hijack/
 ---
 

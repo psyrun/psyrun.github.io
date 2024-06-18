@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "dumping delegated default kerberos and ntlm credentials without touching lsass"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /dumping-delegated-default-kerberos-and-ntlm-credentials-without-touching-lsass/
----
-
----
-layout: post
-title: "dumping delegated default kerberos and ntlm credentials without touching lsass"
+title: "2024-06-18-dumping delegated default kerberos and ntlm credentials without touching lsass"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /dumping-delegated-default-kerberos-and-ntlm-credentials-without-touching-lsass/
 ---
 

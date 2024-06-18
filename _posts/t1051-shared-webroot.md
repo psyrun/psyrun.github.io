@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1051 shared webroot"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1051-shared-webroot/
----
-
----
-layout: post
-title: "t1051 shared webroot"
+title: "2024-06-18-t1051 shared webroot"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1051-shared-webroot/
 ---
 

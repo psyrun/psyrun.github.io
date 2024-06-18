@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "dump password hashes from domain controller with dcsync"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /dump-password-hashes-from-domain-controller-with-dcsync/
----
-
----
-layout: post
-title: "dump password hashes from domain controller with dcsync"
+title: "2024-06-18-dump password hashes from domain controller with dcsync"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /dump-password-hashes-from-domain-controller-with-dcsync/
 ---
 

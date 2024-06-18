@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "addressofentrypoint code injection"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /addressofentrypoint-code-injection/
----
-
----
-layout: post
-title: "addressofentrypoint code injection"
+title: "2024-06-18-addressofentrypoint code injection"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /addressofentrypoint-code-injection/
 ---
 

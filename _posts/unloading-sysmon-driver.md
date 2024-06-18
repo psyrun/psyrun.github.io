@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "unloading sysmon driver"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /unloading-sysmon-driver/
----
-
----
-layout: post
-title: "unloading sysmon driver"
+title: "2024-06-18-unloading sysmon driver"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /unloading-sysmon-driver/
 ---
 

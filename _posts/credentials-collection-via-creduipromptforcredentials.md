@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "credentials collection via creduipromptforcredentials"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credentials-collection-via-creduipromptforcredentials/
----
-
----
-layout: post
-title: "credentials collection via creduipromptforcredentials"
+title: "2024-06-18-credentials collection via creduipromptforcredentials"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /credentials-collection-via-creduipromptforcredentials/
 ---
 

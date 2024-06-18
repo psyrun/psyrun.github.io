@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "compiling first kernel driver kdprint dbgprint and debugview"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /compiling-first-kernel-driver-kdprint-dbgprint-and-debugview/
----
-
----
-layout: post
-title: "compiling first kernel driver kdprint dbgprint and debugview"
+title: "2024-06-18-compiling first kernel driver kdprint dbgprint and debugview"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /compiling-first-kernel-driver-kdprint-dbgprint-and-debugview/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "powershell profile persistence"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /powershell-profile-persistence/
----
-
----
-layout: post
-title: "powershell profile persistence"
+title: "2024-06-18-powershell profile persistence"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /powershell-profile-persistence/
 ---
 

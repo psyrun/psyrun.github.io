@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "api monitoring for offensive tooling"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /api-monitoring-for-offensive-tooling/
----
-
----
-layout: post
-title: "api monitoring for offensive tooling"
+title: "2024-06-18-api monitoring for offensive tooling"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /api-monitoring-for-offensive-tooling/
 ---
 

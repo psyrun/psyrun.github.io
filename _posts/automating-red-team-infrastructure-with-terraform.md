@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "automating red team infrastructure with terraform"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /automating-red-team-infrastructure-with-terraform/
----
-
----
-layout: post
-title: "automating red team infrastructure with terraform"
+title: "2024-06-18-automating red team infrastructure with terraform"
 date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /automating-red-team-infrastructure-with-terraform/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "using dsacls to check ad object permissions"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /using-dsacls-to-check-ad-object-permissions/
----
-
----
-layout: post
-title: "using dsacls to check ad object permissions"
+title: "2024-06-18-using dsacls to check ad object permissions"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /using-dsacls-to-check-ad-object-permissions/
 ---
 

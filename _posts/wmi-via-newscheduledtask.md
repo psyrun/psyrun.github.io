@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "wmi via newscheduledtask"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /wmi-via-newscheduledtask/
----
-
----
-layout: post
-title: "wmi via newscheduledtask"
+title: "2024-06-18-wmi via newscheduledtask"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /wmi-via-newscheduledtask/
 ---
 

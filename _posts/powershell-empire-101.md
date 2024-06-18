@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "powershell empire 101"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /powershell-empire-101/
----
-
----
-layout: post
-title: "powershell empire 101"
+title: "2024-06-18-powershell empire 101"
 date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /powershell-empire-101/
 ---
 

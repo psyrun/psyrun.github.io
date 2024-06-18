@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "finding kernel32 base and function addresses in shellcode"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /finding-kernel32-base-and-function-addresses-in-shellcode/
----
-
----
-layout: post
-title: "finding kernel32 base and function addresses in shellcode"
+title: "2024-06-18-finding kernel32 base and function addresses in shellcode"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /finding-kernel32-base-and-function-addresses-in-shellcode/
 ---
 

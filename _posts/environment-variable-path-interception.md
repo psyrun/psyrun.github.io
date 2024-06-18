@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "environment variable path interception"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /environment-variable-path-interception/
----
-
----
-layout: post
-title: "environment variable path interception"
+title: "2024-06-18-environment variable path interception"
 date: 2024-06-18
 categories: privilege-escalation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /environment-variable-path-interception/
 ---
 

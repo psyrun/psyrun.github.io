@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "subscribing to process creation thread creation and image load notifications from a kernel driver"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /subscribing-to-process-creation-thread-creation-and-image-load-notifications-from-a-kernel-driver/
----
-
----
-layout: post
-title: "subscribing to process creation thread creation and image load notifications from a kernel driver"
+title: "2024-06-18-subscribing to process creation thread creation and image load notifications from a kernel driver"
 date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /subscribing-to-process-creation-thread-creation-and-image-load-notifications-from-a-kernel-driver/
 ---
 

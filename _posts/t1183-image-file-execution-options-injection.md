@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1183 image file execution options injection"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1183-image-file-execution-options-injection/
----
-
----
-layout: post
-title: "t1183 image file execution options injection"
+title: "2024-06-18-t1183 image file execution options injection"
 date: 2024-06-18
 categories: privilege-escalation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1183-image-file-execution-options-injection/
 ---
 

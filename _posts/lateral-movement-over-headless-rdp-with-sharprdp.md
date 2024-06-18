@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "lateral movement over headless rdp with sharprdp"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement-over-headless-rdp-with-sharprdp/
----
-
----
-layout: post
-title: "lateral movement over headless rdp with sharprdp"
+title: "2024-06-18-lateral movement over headless rdp with sharprdp"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /lateral-movement-over-headless-rdp-with-sharprdp/
 ---
 

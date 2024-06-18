@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "phishing ole + lnk"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-ole-+-lnk/
----
-
----
-layout: post
-title: "phishing ole + lnk"
+title: "2024-06-18-phishing ole + lnk"
 date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /phishing-ole-+-lnk/
 ---
 

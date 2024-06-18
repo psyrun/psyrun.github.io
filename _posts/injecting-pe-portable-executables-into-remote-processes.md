@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "injecting pe portable executables into remote processes"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /injecting-pe-portable-executables-into-remote-processes/
----
-
----
-layout: post
-title: "injecting pe portable executables into remote processes"
+title: "2024-06-18-injecting pe portable executables into remote processes"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /injecting-pe-portable-executables-into-remote-processes/
 ---
 

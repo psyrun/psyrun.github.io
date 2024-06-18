@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1196 control panel item code execution"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1196-control-panel-item-code-execution/
----
-
----
-layout: post
-title: "t1196 control panel item code execution"
+title: "2024-06-18-t1196 control panel item code execution"
 date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1196-control-panel-item-code-execution/
 ---
 

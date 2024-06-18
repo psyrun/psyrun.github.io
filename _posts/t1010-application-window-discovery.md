@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1010 application window discovery"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1010-application-window-discovery/
----
-
----
-layout: post
-title: "t1010 application window discovery"
+title: "2024-06-18-t1010 application window discovery"
 date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1010-application-window-discovery/
 ---
 

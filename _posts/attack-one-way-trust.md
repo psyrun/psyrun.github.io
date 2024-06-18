@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "attack one way trust"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /attack-one-way-trust/
----
-
----
-layout: post
-title: "attack one way trust"
+title: "2024-06-18-attack one way trust"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /attack-one-way-trust/
 ---
 

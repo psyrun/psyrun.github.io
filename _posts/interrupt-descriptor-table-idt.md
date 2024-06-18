@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "interrupt descriptor table idt"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /interrupt-descriptor-table-idt/
----
-
----
-layout: post
-title: "interrupt descriptor table idt"
+title: "2024-06-18-interrupt descriptor table idt"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /interrupt-descriptor-table-idt/
 ---
 

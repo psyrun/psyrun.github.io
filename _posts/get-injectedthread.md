@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "get injectedthread"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /get-injectedthread/
----
-
----
-layout: post
-title: "get injectedthread"
+title: "2024-06-18-get injectedthread"
 date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /get-injectedthread/
 ---
 

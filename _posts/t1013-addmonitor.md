@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1013 addmonitor"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1013-addmonitor/
----
-
----
-layout: post
-title: "t1013 addmonitor"
+title: "2024-06-18-t1013 addmonitor"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1013-addmonitor/
 ---
 

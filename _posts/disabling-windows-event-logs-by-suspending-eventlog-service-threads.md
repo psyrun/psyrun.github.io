@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "disabling windows event logs by suspending eventlog service threads"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /disabling-windows-event-logs-by-suspending-eventlog-service-threads/
----
-
----
-layout: post
-title: "disabling windows event logs by suspending eventlog service threads"
+title: "2024-06-18-disabling windows event logs by suspending eventlog service threads"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /disabling-windows-event-logs-by-suspending-eventlog-service-threads/
 ---
 

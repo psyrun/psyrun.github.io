@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1027 obfuscated powershell invocations"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1027-obfuscated-powershell-invocations/
----
-
----
-layout: post
-title: "t1027 obfuscated powershell invocations"
+title: "2024-06-18-t1027 obfuscated powershell invocations"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1027-obfuscated-powershell-invocations/
 ---
 

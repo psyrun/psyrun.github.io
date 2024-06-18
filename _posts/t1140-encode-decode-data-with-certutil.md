@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1140 encode decode data with certutil"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1140-encode-decode-data-with-certutil/
----
-
----
-layout: post
-title: "t1140 encode decode data with certutil"
+title: "2024-06-18-t1140 encode decode data with certutil"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1140-encode-decode-data-with-certutil/
 ---
 

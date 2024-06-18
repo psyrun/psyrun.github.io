@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1047 wmi for lateral movement"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1047-wmi-for-lateral-movement/
----
-
----
-layout: post
-title: "t1047 wmi for lateral movement"
+title: "2024-06-18-t1047 wmi for lateral movement"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1047-wmi-for-lateral-movement/
 ---
 

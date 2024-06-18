@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "lateral movement with psexec"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement-with-psexec/
----
-
----
-layout: post
-title: "lateral movement with psexec"
+title: "2024-06-18-lateral movement with psexec"
 date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /lateral-movement-with-psexec/
 ---
 

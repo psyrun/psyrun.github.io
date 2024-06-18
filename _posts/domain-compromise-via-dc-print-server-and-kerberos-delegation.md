@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "domain compromise via dc print server and kerberos delegation"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /domain-compromise-via-dc-print-server-and-kerberos-delegation/
----
-
----
-layout: post
-title: "domain compromise via dc print server and kerberos delegation"
+title: "2024-06-18-domain compromise via dc print server and kerberos delegation"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /domain-compromise-via-dc-print-server-and-kerberos-delegation/
 ---
 

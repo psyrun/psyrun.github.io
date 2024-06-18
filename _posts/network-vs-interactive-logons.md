@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "network vs interactive logons"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /network-vs-interactive-logons/
----
-
----
-layout: post
-title: "network vs interactive logons"
+title: "2024-06-18-network vs interactive logons"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /network-vs-interactive-logons/
 ---
 

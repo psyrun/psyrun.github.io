@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "executing shellcode with inline assembly in c c++"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /executing-shellcode-with-inline-assembly-in-c-c++/
----
-
----
-layout: post
-title: "executing shellcode with inline assembly in c c++"
+title: "2024-06-18-executing shellcode with inline assembly in c c++"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /executing-shellcode-with-inline-assembly-in-c-c++/
 ---
 

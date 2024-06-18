@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "payload delivery via dns using invoke powercloud"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /payload-delivery-via-dns-using-invoke-powercloud/
----
-
----
-layout: post
-title: "payload delivery via dns using invoke powercloud"
+title: "2024-06-18-payload delivery via dns using invoke powercloud"
 date: 2024-06-18
 categories: exfiltration
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /payload-delivery-via-dns-using-invoke-powercloud/
 ---
 

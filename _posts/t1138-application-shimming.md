@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1138 application shimming"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1138-application-shimming/
----
-
----
-layout: post
-title: "t1138 application shimming"
+title: "2024-06-18-t1138 application shimming"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1138-application-shimming/
 ---
 

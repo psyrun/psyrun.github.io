@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1214 credentials in registry"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1214-credentials-in-registry/
----
-
----
-layout: post
-title: "t1214 credentials in registry"
+title: "2024-06-18-t1214 credentials in registry"
 date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1214-credentials-in-registry/
 ---
 

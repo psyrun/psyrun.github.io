@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "SUMMARY"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /SUMMARY/
----
-
----
-layout: post
-title: "SUMMARY"
+title: "2024-06-18-SUMMARY"
 date: 2024-06-18
 categories: .
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /SUMMARY/
 ---
 

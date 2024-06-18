@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "using native syscalls to bypass avs edrs"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /using-native-syscalls-to-bypass-avs-edrs/
----
-
----
-layout: post
-title: "using native syscalls to bypass avs edrs"
+title: "2024-06-18-using native syscalls to bypass avs edrs"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /using-native-syscalls-to-bypass-avs-edrs/
 ---
 

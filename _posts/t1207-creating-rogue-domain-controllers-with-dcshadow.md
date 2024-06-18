@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1207 creating rogue domain controllers with dcshadow"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1207-creating-rogue-domain-controllers-with-dcshadow/
----
-
----
-layout: post
-title: "t1207 creating rogue domain controllers with dcshadow"
+title: "2024-06-18-t1207 creating rogue domain controllers with dcshadow"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1207-creating-rogue-domain-controllers-with-dcshadow/
 ---
 

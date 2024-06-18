@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "pe file header parser in c++"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /pe-file-header-parser-in-c++/
----
-
----
-layout: post
-title: "pe file header parser in c++"
+title: "2024-06-18-pe file header parser in c++"
 date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /pe-file-header-parser-in-c++/
 ---
 

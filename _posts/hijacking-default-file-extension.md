@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "hijacking default file extension"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /hijacking-default-file-extension/
----
-
----
-layout: post
-title: "hijacking default file extension"
+title: "2024-06-18-hijacking default file extension"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /hijacking-default-file-extension/
 ---
 

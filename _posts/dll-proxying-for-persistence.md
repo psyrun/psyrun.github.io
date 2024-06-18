@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "dll proxying for persistence"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /dll-proxying-for-persistence/
----
-
----
-layout: post
-title: "dll proxying for persistence"
+title: "2024-06-18-dll proxying for persistence"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /dll-proxying-for-persistence/
 ---
 

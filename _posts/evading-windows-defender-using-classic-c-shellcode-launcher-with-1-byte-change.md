@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "evading windows defender using classic c shellcode launcher with 1 byte change"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /evading-windows-defender-using-classic-c-shellcode-launcher-with-1-byte-change/
----
-
----
-layout: post
-title: "evading windows defender using classic c shellcode launcher with 1 byte change"
+title: "2024-06-18-evading windows defender using classic c shellcode launcher with 1 byte change"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /evading-windows-defender-using-classic-c-shellcode-launcher-with-1-byte-change/
 ---
 

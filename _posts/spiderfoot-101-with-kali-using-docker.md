@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "spiderfoot 101 with kali using docker"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /spiderfoot-101-with-kali-using-docker/
----
-
----
-layout: post
-title: "spiderfoot 101 with kali using docker"
+title: "2024-06-18-spiderfoot 101 with kali using docker"
 date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /spiderfoot-101-with-kali-using-docker/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1136 create account"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1136-create-account/
----
-
----
-layout: post
-title: "t1136 create account"
+title: "2024-06-18-t1136 create account"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1136-create-account/
 ---
 

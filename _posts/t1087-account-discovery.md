@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1087 account discovery"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1087-account-discovery/
----
-
----
-layout: post
-title: "t1087 account discovery"
+title: "2024-06-18-t1087 account discovery"
 date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1087-account-discovery/
 ---
 

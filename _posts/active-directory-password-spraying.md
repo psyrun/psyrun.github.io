@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "active directory password spraying"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-password-spraying/
----
-
----
-layout: post
-title: "active directory password spraying"
+title: "2024-06-18-active directory password spraying"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /active-directory-password-spraying/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "child domain da to ea in parent domain"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /child-domain-da-to-ea-in-parent-domain/
----
-
----
-layout: post
-title: "child domain da to ea in parent domain"
+title: "2024-06-18-child domain da to ea in parent domain"
 date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /child-domain-da-to-ea-in-parent-domain/
 ---
 

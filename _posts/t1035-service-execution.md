@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1035 service execution"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1035-service-execution/
----
-
----
-layout: post
-title: "t1035 service execution"
+title: "2024-06-18-t1035 service execution"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1035-service-execution/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "acg arbitrary code guard processdynamiccodepolicy"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /acg-arbitrary-code-guard-processdynamiccodepolicy/
----
-
----
-layout: post
-title: "acg arbitrary code guard processdynamiccodepolicy"
+title: "2024-06-18-acg arbitrary code guard processdynamiccodepolicy"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /acg-arbitrary-code-guard-processdynamiccodepolicy/
 ---
 

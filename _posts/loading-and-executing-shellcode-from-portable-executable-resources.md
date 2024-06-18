@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "loading and executing shellcode from portable executable resources"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /loading-and-executing-shellcode-from-portable-executable-resources/
----
-
----
-layout: post
-title: "loading and executing shellcode from portable executable resources"
+title: "2024-06-18-loading and executing shellcode from portable executable resources"
 date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /loading-and-executing-shellcode-from-portable-executable-resources/
 ---
 

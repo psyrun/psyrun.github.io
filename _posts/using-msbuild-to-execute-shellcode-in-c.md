@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "using msbuild to execute shellcode in c"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /using-msbuild-to-execute-shellcode-in-c/
----
-
----
-layout: post
-title: "using msbuild to execute shellcode in c"
+title: "2024-06-18-using msbuild to execute shellcode in c"
 date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /using-msbuild-to-execute-shellcode-in-c/
 ---
 

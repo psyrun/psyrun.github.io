@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "manipulating activeprocesslinks to unlink processes in userland"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /manipulating-activeprocesslinks-to-unlink-processes-in-userland/
----
-
----
-layout: post
-title: "manipulating activeprocesslinks to unlink processes in userland"
+title: "2024-06-18-manipulating activeprocesslinks to unlink processes in userland"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /manipulating-activeprocesslinks-to-unlink-processes-in-userland/
 ---
 

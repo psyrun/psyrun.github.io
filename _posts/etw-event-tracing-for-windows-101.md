@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "etw event tracing for windows 101"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /etw-event-tracing-for-windows-101/
----
-
----
-layout: post
-title: "etw event tracing for windows 101"
+title: "2024-06-18-etw event tracing for windows 101"
 date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /etw-event-tracing-for-windows-101/
 ---
 

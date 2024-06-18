@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "loading a windows kernel driver to windows 10"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /loading-a-windows-kernel-driver-to-windows-10/
----
-
----
-layout: post
-title: "loading a windows kernel driver to windows 10"
+title: "2024-06-18-loading a windows kernel driver to windows 10"
 date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /loading-a-windows-kernel-driver-to-windows-10/
 ---
 

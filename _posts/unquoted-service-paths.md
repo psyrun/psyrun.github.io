@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "unquoted service paths"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /unquoted-service-paths/
----
-
----
-layout: post
-title: "unquoted service paths"
+title: "2024-06-18-unquoted service paths"
 date: 2024-06-18
 categories: privilege-escalation
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /unquoted-service-paths/
 ---
 

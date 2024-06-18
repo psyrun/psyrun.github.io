@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "t1053 schtask"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1053-schtask/
----
-
----
-layout: post
-title: "t1053 schtask"
+title: "2024-06-18-t1053 schtask"
 date: 2024-06-18
 categories: persistence
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /t1053-schtask/
 ---
 

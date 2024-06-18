@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "windows x64 calling convention stack frame"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-x64-calling-convention-stack-frame/
----
-
----
-layout: post
-title: "windows x64 calling convention stack frame"
+title: "2024-06-18-windows x64 calling convention stack frame"
 date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /windows-x64-calling-convention-stack-frame/
 ---
 

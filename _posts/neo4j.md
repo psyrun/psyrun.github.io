@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "neo4j"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /neo4j/
----
-
----
-layout: post
-title: "neo4j"
+title: "2024-06-18-neo4j"
 date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /neo4j/
 ---
 

@@ -1,18 +1,9 @@
 ---
 layout: post
-title: "av bypass with metasploit templates"
-date: 2024-06-18
-categories: all_md_files
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /av-bypass-with-metasploit-templates/
----
-
----
-layout: post
-title: "av bypass with metasploit templates"
+title: "2024-06-18-av bypass with metasploit templates"
 date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /av-bypass-with-metasploit-templates/
 ---
 
