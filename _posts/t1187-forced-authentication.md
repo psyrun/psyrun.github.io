@@ -2,9 +2,18 @@
 layout: post
 title: "t1187 forced authentication"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1187-forced-authentication/
+---
+
+---
+layout: post
+title: "t1187 forced authentication"
+date: 2024-06-18
 categories: initial-access
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /initial-access/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1187-forced-authentication/
 ---
 
 ---
@@ -216,4 +225,5 @@ Below shows how the Farmer successfully collects a hash from user `spotless` via
 {% embed url="https://www.securify.nl/blog/SFY20180501/living-off-the-land_-stealing-netntlm-hashes.html" %}
 
 {% embed url="https://www.mdsec.co.uk/2021/02/farming-for-red-teams-harvesting-netntlm/" %}
+
 @spotheplanet

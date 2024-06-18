@@ -2,9 +2,18 @@
 layout: post
 title: "interrupt descriptor table idt"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /interrupt-descriptor-table-idt/
+---
+
+---
+layout: post
+title: "interrupt descriptor table idt"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /interrupt-descriptor-table-idt/
 ---
 
 # Interrupt Descriptor Table - IDT
@@ -281,4 +290,5 @@ Below confirms that the `_KINTERRUPT` for the interrupt `a0` we found manually m
 {% embed url="https://rayanfam.com/topics/fooling-windows-about-cpu/" %}
 
 {% embed url="https://resources.infosecinstitute.com/hooking-idt/\#gref" %}
+
 @spotheplanet

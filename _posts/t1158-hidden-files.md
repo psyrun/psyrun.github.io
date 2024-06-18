@@ -2,9 +2,18 @@
 layout: post
 title: "t1158 hidden files"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1158-hidden-files/
+---
+
+---
+layout: post
+title: "t1158 hidden files"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1158-hidden-files/
 ---
 
 ---
@@ -40,4 +49,7 @@ As usual, monitoring commandline arguments may be a good idea if you want to ide
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1158" %}
+
+
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "lateral movement via smb relaying by abusing lack of smb signing"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-via-smb-relaying-by-abusing-lack-of-smb-signing/
+---
+
+---
+layout: post
+title: "lateral movement via smb relaying by abusing lack of smb signing"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-via-smb-relaying-by-abusing-lack-of-smb-signing/
 ---
 
 # Lateral Movement via SMB Relaying
@@ -111,4 +120,5 @@ nmap -p 445 10.0.0.6 -sS --script smb-security-mode
 {% embed url="https://blogs.technet.microsoft.com/josebda/2010/12/01/the-basics-of-smb-signing-covering-both-smb1-and-smb2/" %}
 
 {% embed url="https://nmap.org/nsedoc/scripts/smb-security-mode.html" %}
+
 @spotheplanet

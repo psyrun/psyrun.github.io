@@ -2,9 +2,18 @@
 layout: post
 title: "phishing embedded html forms"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-embedded-html-forms/
+---
+
+---
+layout: post
+title: "phishing embedded html forms"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-embedded-html-forms/
 ---
 
 ---

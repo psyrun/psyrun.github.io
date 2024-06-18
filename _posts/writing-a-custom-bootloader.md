@@ -2,9 +2,18 @@
 layout: post
 title: "writing a custom bootloader"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /writing-a-custom-bootloader/
+---
+
+---
+layout: post
+title: "writing a custom bootloader"
+date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel-internals/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /writing-a-custom-bootloader/
 ---
 
 # Writing a Custom Bootloader

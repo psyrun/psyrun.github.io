@@ -2,9 +2,18 @@
 layout: post
 title: "network vs interactive logons"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /network-vs-interactive-logons/
+---
+
+---
+layout: post
+title: "network vs interactive logons"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /network-vs-interactive-logons/
 ---
 
 ---
@@ -197,4 +206,7 @@ Interactive and remote interactive logons do get cached and can get easily dumpe
 ## References
 
 {% embed url="https://digital-forensics.sans.org/blog/2012/02/21/protecting-privileged-domain-account-safeguarding-password-hashes" %}
+
+
+
 @spotheplanet

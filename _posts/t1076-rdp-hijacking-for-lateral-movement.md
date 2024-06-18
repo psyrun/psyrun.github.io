@@ -2,9 +2,18 @@
 layout: post
 title: "t1076 rdp hijacking for lateral movement"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1076-rdp-hijacking-for-lateral-movement/
+---
+
+---
+layout: post
+title: "t1076 rdp hijacking for lateral movement"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1076-rdp-hijacking-for-lateral-movement/
 ---
 
 ---
@@ -83,4 +92,5 @@ Just reinforcing the above - note the usernames and logon session IDs:
 {% embed url="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4778" %}
 
 {% embed url="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tscon" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "injecting pe portable executables into remote processes"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /injecting-pe-portable-executables-into-remote-processes/
+---
+
+---
+layout: post
+title: "injecting pe portable executables into remote processes"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /injecting-pe-portable-executables-into-remote-processes/
 ---
 
 ---
@@ -52,4 +61,5 @@ Below shows how we've injected the PE into the notepad \(PID 11068\) and execute
 {% embed url="https://blog.sevagas.com/PE-injection-explained" %}
 
 {% embed url="https://www.malwaretech.com/2013/11/portable-executable-injection-for.html" %}
+
 @spotheplanet

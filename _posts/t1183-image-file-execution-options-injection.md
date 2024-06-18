@@ -2,9 +2,18 @@
 layout: post
 title: "t1183 image file execution options injection"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1183-image-file-execution-options-injection/
+---
+
+---
+layout: post
+title: "t1183 image file execution options injection"
+date: 2024-06-18
 categories: privilege-escalation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /privilege-escalation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1183-image-file-execution-options-injection/
 ---
 
 ---
@@ -46,4 +55,5 @@ Monitoring command line arguments and events modifying registry keys: `HKLM\Soft
 {% embed url="https://blogs.msdn.microsoft.com/mithuns/2010/03/24/image-file-execution-options-ifeo/" %}
 
 {% embed url="https://blogs.msdn.microsoft.com/reiley/2011/07/29/a-debugging-approach-to-ifeo/" %}
+
 @spotheplanet

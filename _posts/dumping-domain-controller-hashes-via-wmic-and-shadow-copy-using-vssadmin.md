@@ -2,9 +2,18 @@
 layout: post
 title: "dumping domain controller hashes via wmic and shadow copy using vssadmin"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-domain-controller-hashes-via-wmic-and-shadow-copy-using-vssadmin/
+---
+
+---
+layout: post
+title: "dumping domain controller hashes via wmic and shadow copy using vssadmin"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-domain-controller-hashes-via-wmic-and-shadow-copy-using-vssadmin/
 ---
 
 # Dumping Domain Controller Hashes via wmic and Vssadmin Shadow Copy

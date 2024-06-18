@@ -2,9 +2,18 @@
 layout: post
 title: "adcs + petitpotam ntlm relay obtaining krbtgt hash with domain controller machine certificate"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /adcs-+-petitpotam-ntlm-relay-obtaining-krbtgt-hash-with-domain-controller-machine-certificate/
+---
+
+---
+layout: post
+title: "adcs + petitpotam ntlm relay obtaining krbtgt hash with domain controller machine certificate"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /adcs-+-petitpotam-ntlm-relay-obtaining-krbtgt-hash-with-domain-controller-machine-certificate/
 ---
 
 # ADCS + PetitPotam NTLM Relay: Obtaining krbtgt Hash with Domain Controller Machine Certificate

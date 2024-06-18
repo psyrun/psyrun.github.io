@@ -2,9 +2,18 @@
 layout: post
 title: "t1174 password filter dll"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1174-password-filter-dll/
+---
+
+---
+layout: post
+title: "t1174 password filter dll"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1174-password-filter-dll/
 ---
 
 ---
@@ -135,4 +144,5 @@ Also, it may be worth considering checking new DLLs dropped to `%systemroot%\sys
 {% embed url="http://carnal0wnage.attackresearch.com/2013/09/stealing-passwords-every-time-they.html" %}
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1174" %}
+
 @spotheplanet

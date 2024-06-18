@@ -2,9 +2,18 @@
 layout: post
 title: "phishing with gophish and digitalocean"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-with-gophish-and-digitalocean/
+---
+
+---
+layout: post
+title: "phishing with gophish and digitalocean"
+date: 2024-06-18
 categories: initial-access
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /initial-access/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-with-gophish-and-digitalocean/
 ---
 
 # Phishing with GoPhish and DigitalOcean

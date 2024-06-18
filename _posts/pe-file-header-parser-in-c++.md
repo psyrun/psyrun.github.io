@@ -2,9 +2,18 @@
 layout: post
 title: "pe file header parser in c++"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /pe-file-header-parser-in-c++/
+---
+
+---
+layout: post
+title: "pe file header parser in c++"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /pe-file-header-parser-in-c++/
 ---
 
 # Parsing PE File Headers with C++
@@ -393,4 +402,5 @@ int main(int argc, char* argv[]) {
 {% embed url="https://msdn.microsoft.com/en-us/library/ms809762.aspx?f=255&MSPPError=-2147217396" %}
 
 {% embed url="http://sandsprite.com/CodeStuff/Understanding\_imports.html" %}
+
 @spotheplanet

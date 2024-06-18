@@ -2,9 +2,18 @@
 layout: post
 title: "reading dpapi encrypted secrets with mimikatz and c++"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /reading-dpapi-encrypted-secrets-with-mimikatz-and-c++/
+---
+
+---
+layout: post
+title: "reading dpapi encrypted secrets with mimikatz and c++"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /reading-dpapi-encrypted-secrets-with-mimikatz-and-c++/
 ---
 
 # Reading DPAPI Encrypted Secrets with Mimikatz and C++
@@ -292,4 +301,5 @@ A good way to enumerate DPAPI goodies on a compromised system is to use harmj0y'
 {% embed url="https://www.harmj0y.net/blog/redteaming/offensive-encrypted-data-storage-dpapi-edition/" %}
 
 {% embed url="https://www.synacktiv.com/ressources/univershell_2017_dpapi.pdf" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "wmi data storage"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /wmi-data-storage/
+---
+
+---
+layout: post
+title: "wmi data storage"
+date: 2024-06-18
 categories: t1084-abusing-windows-managent-instrumentation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1084-abusing-windows-managent-instrumentation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /wmi-data-storage/
 ---
 
 ---
@@ -100,4 +109,5 @@ The file contains all the classes and other relevant information about those cla
 When inspecting the OBJECTS.DATA with a hex editor, it is possible \(although not very practical nor user friendly\) to find the same data - note that the screenshot is referring to the state of the Evil class at the very beginning of its creation as this is when I took the screenshot:
 
 ![](../../../.gitbook/assets/wmi-objects-data.png)
+
 @spotheplanet

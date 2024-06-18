@@ -2,9 +2,18 @@
 layout: post
 title: "netntlmv2 hash stealing using outlook"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /netntlmv2-hash-stealing-using-outlook/
+---
+
+---
+layout: post
+title: "netntlmv2 hash stealing using outlook"
+date: 2024-06-18
 categories: initial-access
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /initial-access/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /netntlmv2-hash-stealing-using-outlook/
 ---
 
 # NetNTLMv2 hash stealing using Outlook

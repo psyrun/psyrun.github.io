@@ -2,9 +2,18 @@
 layout: post
 title: "enumerating windows domains using rpcclient through socksproxy bypassing command line logging"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /enumerating-windows-domains-using-rpcclient-through-socksproxy-bypassing-command-line-logging/
+---
+
+---
+layout: post
+title: "enumerating windows domains using rpcclient through socksproxy bypassing command line logging"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /enumerating-windows-domains-using-rpcclient-through-socksproxy-bypassing-command-line-logging/
 ---
 
 # Enumerating Windows Domains with rpcclient through SocksProxy == Bypassing Command Line Logging
@@ -147,4 +156,5 @@ Note how only the SMB traffic between the compromised system and the DC is gener
 {% embed url="https://www.cobaltstrike.com/help-socks-proxy-pivoting" %}
 
 {% embed url="https://www.youtube.com/watch?v=l8nkXCOYQC4&index=19&list=WL&t=7s" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "t1118 installutil"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1118-installutil/
+---
+
+---
+layout: post
+title: "t1118 installutil"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1118-installutil/
 ---
 
 ---
@@ -76,4 +85,5 @@ Will be coming back to this one for further inspection - possibly related to sys
 {% embed url="https://attack.mitre.org/wiki/Technique/T1118" %}
 
 {% embed url="https://github.com/khr0x40sh/WhiteListEvasion" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "manipulating activeprocesslinks to unlink processes in userland"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /manipulating-activeprocesslinks-to-unlink-processes-in-userland/
+---
+
+---
+layout: post
+title: "manipulating activeprocesslinks to unlink processes in userland"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /manipulating-activeprocesslinks-to-unlink-processes-in-userland/
 ---
 
 # Manipulating ActiveProcessLinks to Hide Processes in Userland
@@ -272,4 +281,5 @@ In order to detect unlinked processes exhibited by malware on systems without Pa
 {% embed url="https://www.aldeid.com/wiki/LIST\_ENTRY" %}
 
 {% embed url="https://www.hackerearth.com/practice/notes/doubly-linked-list-data-structure-in-c/" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "persisting in svchost.exe with a service dll servicemain"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /persisting-in-svchost.exe-with-a-service-dll-servicemain/
+---
+
+---
+layout: post
+title: "persisting in svchost.exe with a service dll servicemain"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /persisting-in-svchost.exe-with-a-service-dll-servicemain/
 ---
 
 # Persisting in svchost.exe with a Service DLL

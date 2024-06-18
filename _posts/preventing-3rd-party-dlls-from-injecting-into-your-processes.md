@@ -2,9 +2,18 @@
 layout: post
 title: "preventing 3rd party dlls from injecting into your processes"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /preventing-3rd-party-dlls-from-injecting-into-your-processes/
+---
+
+---
+layout: post
+title: "preventing 3rd party dlls from injecting into your processes"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /preventing-3rd-party-dlls-from-injecting-into-your-processes/
 ---
 
 # Preventing 3rd Party DLLs from Injecting into your Malware

@@ -2,9 +2,18 @@
 layout: post
 title: "intercepting logon credentials via custom security support provider and authentication package"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /intercepting-logon-credentials-via-custom-security-support-provider-and-authentication-package/
+---
+
+---
+layout: post
+title: "intercepting logon credentials via custom security support provider and authentication package"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /intercepting-logon-credentials-via-custom-security-support-provider-and-authentication-package/
 ---
 
 ---

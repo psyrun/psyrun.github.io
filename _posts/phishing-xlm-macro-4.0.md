@@ -2,9 +2,18 @@
 layout: post
 title: "phishing xlm macro 4.0"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-xlm-macro-4.0/
+---
+
+---
+layout: post
+title: "phishing xlm macro 4.0"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-xlm-macro-4.0/
 ---
 
 # Phishing: XLM / Macro 4.0
@@ -63,4 +72,5 @@ Having a quick look at the file with a hex editor, we can see a suspicious strin
 ## References
 
 {% embed url="https://outflank.nl/blog/2018/10/06/old-school-evil-excel-4-0-macros-xlm/" %}
+
 @spotheplanet

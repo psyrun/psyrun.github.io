@@ -2,9 +2,18 @@
 layout: post
 title: "executing code in control panel item through an exported cplapplet function"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /executing-code-in-control-panel-item-through-an-exported-cplapplet-function/
+---
+
+---
+layout: post
+title: "executing code in control panel item through an exported cplapplet function"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /executing-code-in-control-panel-item-through-an-exported-cplapplet-function/
 ---
 
 # Executing Code as a Control Panel Item through an Exported Cplapplet Function

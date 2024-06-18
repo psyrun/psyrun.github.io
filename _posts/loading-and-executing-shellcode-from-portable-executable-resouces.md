@@ -2,9 +2,18 @@
 layout: post
 title: "loading and executing shellcode from portable executable resouces"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /loading-and-executing-shellcode-from-portable-executable-resouces/
+---
+
+---
+layout: post
+title: "loading and executing shellcode from portable executable resouces"
+date: 2024-06-18
 categories: t1055-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /t1055-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /loading-and-executing-shellcode-from-portable-executable-resouces/
 ---
 
 # Loading and Executing Shellcode From PE Resources
@@ -82,4 +91,5 @@ Compile and run the binary and enjoy the shell:
 ![](../../.gitbook/assets/peek-2019-04-21-12-30.gif)
 
 {% embed url="https://docs.microsoft.com/en-us/windows/desktop/menurc/finding-and-loading-resources" %}
+
 @spotheplanet

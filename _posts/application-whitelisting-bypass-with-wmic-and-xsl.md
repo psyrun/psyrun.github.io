@@ -2,9 +2,18 @@
 layout: post
 title: "application whitelisting bypass with wmic and xsl"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /application-whitelisting-bypass-with-wmic-and-xsl/
+---
+
+---
+layout: post
+title: "application whitelisting bypass with wmic and xsl"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /application-whitelisting-bypass-with-wmic-and-xsl/
 ---
 
 # Application Whitelisting Bypass with WMIC and XSL
@@ -54,4 +63,5 @@ Calculator is spawned by svchost.exe:
 ## References
 
 {% embed url="http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html" %}
+
 @spotheplanet

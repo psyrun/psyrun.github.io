@@ -2,9 +2,18 @@
 layout: post
 title: "aes encryption example using cryptopp .lib in visual studio c++"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /aes-encryption-example-using-cryptopp-.lib-in-visual-studio-c++/
+---
+
+---
+layout: post
+title: "aes encryption example using cryptopp .lib in visual studio c++"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /aes-encryption-example-using-cryptopp-.lib-in-visual-studio-c++/
 ---
 
 # AES Encryption Using Crypto++ .lib in Visual Studio C++

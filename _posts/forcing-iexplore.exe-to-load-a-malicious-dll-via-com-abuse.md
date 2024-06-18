@@ -2,9 +2,18 @@
 layout: post
 title: "forcing iexplore.exe to load a malicious dll via com abuse"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /forcing-iexplore.exe-to-load-a-malicious-dll-via-com-abuse/
+---
+
+---
+layout: post
+title: "forcing iexplore.exe to load a malicious dll via com abuse"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /forcing-iexplore.exe-to-load-a-malicious-dll-via-com-abuse/
 ---
 
 # Forcing Iexplore.exe to Load a Malicious DLL via COM Abuse
@@ -89,4 +98,5 @@ As a fun bonus, it's possible to call our malicious COM object via explorer by n
 {% embed url="https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa752094(v%3Dvs.85)" %}
 
 {% embed url="https://labs.nettitude.com/blog/com-and-the-powerthief/" %}
+
 @spotheplanet

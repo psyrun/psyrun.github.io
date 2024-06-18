@@ -2,9 +2,18 @@
 layout: post
 title: "sending command from userland to your kernel driver via ioctl"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /sending-command-from-userland-to-your-kernel-driver-via-ioctl/
+---
+
+---
+layout: post
+title: "sending command from userland to your kernel driver via ioctl"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /sending-command-from-userland-to-your-kernel-driver-via-ioctl/
 ---
 
 ---
@@ -267,4 +276,5 @@ int main(char argc, char ** argv)
 {% embed url="https://cylus.org/windows-drivers-part-2-ioctls-c678526f90ae" %}
 
 {% embed url="https://ericasselin.com/userlandkernel-communication-deviceiocontrol-method" %}
+
 @spotheplanet

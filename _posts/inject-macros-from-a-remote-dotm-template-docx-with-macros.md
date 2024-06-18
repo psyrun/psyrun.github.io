@@ -2,9 +2,18 @@
 layout: post
 title: "inject macros from a remote dotm template docx with macros"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /inject-macros-from-a-remote-dotm-template-docx-with-macros/
+---
+
+---
+layout: post
+title: "inject macros from a remote dotm template docx with macros"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /inject-macros-from-a-remote-dotm-template-docx-with-macros/
 ---
 
 # Inject Macros from a Remote Dotm Template
@@ -77,4 +86,5 @@ Note that this technique could be used to steal NetNTLMv2 hashes since the targe
 ## References
 
 {% embed url="http://blog.redxorblue.com/2018/07/executing-macros-from-docx-with-remote.html" %}
+
 @spotheplanet

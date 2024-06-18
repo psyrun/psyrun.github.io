@@ -2,9 +2,18 @@
 layout: post
 title: "t1087 account discovery"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1087-account-discovery/
+---
+
+---
+layout: post
+title: "t1087 account discovery"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1087-account-discovery/
 ---
 
 ---
@@ -77,4 +86,5 @@ Below are some of the findings which may warrant further investigation of the su
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1087" %}
+
 @spotheplanet

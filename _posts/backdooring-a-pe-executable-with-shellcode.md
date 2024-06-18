@@ -2,9 +2,18 @@
 layout: post
 title: "backdooring a pe executable with shellcode"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /backdooring-a-pe-executable-with-shellcode/
+---
+
+---
+layout: post
+title: "backdooring a pe executable with shellcode"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /backdooring-a-pe-executable-with-shellcode/
 ---
 
 # Backdooring a PE Executable with Shellcode
@@ -214,4 +223,11 @@ This technique is not particularly stealthy. Rather than adding a new code secti
 {% embed url="https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/" %}
 
 {% embed url="https://docs.microsoft.com/en-us/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject" %}
+
+
+
+
+
+
+
 @spotheplanet

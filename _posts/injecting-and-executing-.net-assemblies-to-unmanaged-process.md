@@ -2,9 +2,18 @@
 layout: post
 title: "injecting and executing .net assemblies to unmanaged process"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /injecting-and-executing-.net-assemblies-to-unmanaged-process/
+---
+
+---
+layout: post
+title: "injecting and executing .net assemblies to unmanaged process"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /injecting-and-executing-.net-assemblies-to-unmanaged-process/
 ---
 
 # Injecting .NET Assembly to an Unmanaged Process
@@ -109,4 +118,5 @@ Below shows how `LoadCLR.exe` loaded our C\# assembly `CLRHello.exe` \(seen in `
 {% embed url="https://blog.xpnsec.com/hiding-your-dotnet-etw/" %}
 
 [https://gist.github.com/xpn/e95a62c6afcf06ede52568fcd8187cc2](https://gist.github.com/xpn/e95a62c6afcf06ede52568fcd8187cc2)
+
 @spotheplanet

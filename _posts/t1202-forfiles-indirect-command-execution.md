@@ -2,9 +2,18 @@
 layout: post
 title: "t1202 forfiles indirect command execution"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1202-forfiles-indirect-command-execution/
+---
+
+---
+layout: post
+title: "t1202 forfiles indirect command execution"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1202-forfiles-indirect-command-execution/
 ---
 
 ---
@@ -34,4 +43,5 @@ Defenders can monitor for process creation/commandline logs to detect this activ
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1202" %}
+
 @spotheplanet

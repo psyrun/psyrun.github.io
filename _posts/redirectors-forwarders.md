@@ -2,9 +2,18 @@
 layout: post
 title: "redirectors forwarders"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /redirectors-forwarders/
+---
+
+---
+layout: post
+title: "redirectors forwarders"
+date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /red-team-infrastructure/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /redirectors-forwarders/
 ---
 
 ---
@@ -86,4 +95,5 @@ socat TCP4-LISTEN:80,fork TCP4:10.0.0.2:80
 {% embed url="http://technostuff.blogspot.com/2008/10/some-useful-socat-commands.html" %}
 
 {% embed url="https://www.thegeekstuff.com/2011/01/iptables-fundamentals/" %}
+
 @spotheplanet

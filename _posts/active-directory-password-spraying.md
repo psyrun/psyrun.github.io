@@ -2,9 +2,18 @@
 layout: post
 title: "active directory password spraying"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /active-directory-password-spraying/
+---
+
+---
+layout: post
+title: "active directory password spraying"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /active-directory-password-spraying/
 ---
 
 # Active Directory Password Spraying
@@ -109,4 +118,7 @@ Enjoy the shells:
 {% embed url="https://github.com/dafthack/DomainPasswordSpray/blob/master/DomainPasswordSpray.ps1" %}
 
 {% embed url="https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon" %}
+
+
+
 @spotheplanet

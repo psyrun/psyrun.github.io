@@ -2,9 +2,18 @@
 layout: post
 title: "using msbuild to execute shellcode in c"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-msbuild-to-execute-shellcode-in-c/
+---
+
+---
+layout: post
+title: "using msbuild to execute shellcode in c"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-msbuild-to-execute-shellcode-in-c/
 ---
 
 # Using MSBuild to Execute Shellcode in C\#
@@ -120,4 +129,5 @@ Note that it's MSBuild.exe that will make the TCP connection to the attacker, so
 ## References
 
 [https://gist.github.com/ConsciousHacker/5fce0343f29085cd9fba466974e43f17](https://gist.github.com/ConsciousHacker/5fce0343f29085cd9fba466974e43f17)
+
 @spotheplanet

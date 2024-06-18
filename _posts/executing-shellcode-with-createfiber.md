@@ -2,9 +2,18 @@
 layout: post
 title: "executing shellcode with createfiber"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /executing-shellcode-with-createfiber/
+---
+
+---
+layout: post
+title: "executing shellcode with createfiber"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /executing-shellcode-with-createfiber/
 ---
 
 # Shellcode Execution through Fibers
@@ -64,4 +73,5 @@ Running the code executes the shellcode us a reverse shell:
 {% embed url="https://nullprogram.com/blog/2019/03/28/" %}
 
 {% embed url="http://dronesec.pw/blog/2019/08/12/code-execution-via-fiber-local-storage/" %}
+
 @spotheplanet

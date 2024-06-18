@@ -2,9 +2,18 @@
 layout: post
 title: "t1140 encode decode data with certutil"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1140-encode-decode-data-with-certutil/
+---
+
+---
+layout: post
+title: "t1140 encode decode data with certutil"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1140-encode-decode-data-with-certutil/
 ---
 
 ---
@@ -54,4 +63,5 @@ Let's have a look at the contents of the file `dec` which now contains the base6
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1140" %}
+
 @spotheplanet

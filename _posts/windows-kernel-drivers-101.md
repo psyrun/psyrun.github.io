@@ -2,9 +2,18 @@
 layout: post
 title: "windows kernel drivers 101"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /windows-kernel-drivers-101/
+---
+
+---
+layout: post
+title: "windows kernel drivers 101"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /windows-kernel-drivers-101/
 ---
 
 # Windows Kernel Drivers 101
@@ -75,4 +84,7 @@ There are many different types of drivers, but I am mostly interested in `Sofwar
 ## References
 
 {% embed url="https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/packet-driven-i-o-with-reusable-irps" %}
+
+
+
 @spotheplanet

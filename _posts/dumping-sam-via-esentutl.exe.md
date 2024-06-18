@@ -2,9 +2,18 @@
 layout: post
 title: "dumping sam via esentutl.exe"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-sam-via-esentutl.exe/
+---
+
+---
+layout: post
+title: "dumping sam via esentutl.exe"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-sam-via-esentutl.exe/
 ---
 
 # Dumping SAM via esentutl.exe

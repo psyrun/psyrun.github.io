@@ -2,9 +2,18 @@
 layout: post
 title: "phishing replacing embedded video with bogus payload"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-replacing-embedded-video-with-bogus-payload/
+---
+
+---
+layout: post
+title: "phishing replacing embedded video with bogus payload"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-replacing-embedded-video-with-bogus-payload/
 ---
 
 # Phishing: Replacing Embedded Video with Bogus Payload
@@ -109,4 +118,7 @@ If you were able to replicate this technique and see what I missed, I would appr
 {% embed url="https://blog.cymulate.com/abusing-microsoft-office-online-video" %}
 
 {% embed url="https://github.com/rvrsh3ll/Word-Doc-Video-Embed-EXE-POC" %}
+
+
+
 @spotheplanet

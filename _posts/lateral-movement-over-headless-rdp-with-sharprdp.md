@@ -2,9 +2,18 @@
 layout: post
 title: "lateral movement over headless rdp with sharprdp"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-over-headless-rdp-with-sharprdp/
+---
+
+---
+layout: post
+title: "lateral movement over headless rdp with sharprdp"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-over-headless-rdp-with-sharprdp/
 ---
 
 # Lateral Movement over headless RDP with SharpRDP
@@ -34,4 +43,5 @@ Also, weird binaries making connections to port 3389:
 ## References
 
 {% embed url="https://posts.specterops.io/revisiting-remote-desktop-lateral-movement-8fb905cb46c3?gi=fe80458d82a5" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "return to libc"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /return-to-libc/
+---
+
+---
+layout: post
+title: "return to libc"
+date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /binary-exploitation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /return-to-libc/
 ---
 
 # Return-to-libc
@@ -226,4 +235,5 @@ Addresses of `system()`, `exit()` and `/bin/sh` used in the below payload are di
 [https://www.exploit-db.com/docs/english/28553-linux-classic-return-to-libc-&-return-to-libc-chaining-tutorial.pdf](https://www.exploit-db.com/docs/english/28553-linux-classic-return-to-libc-&-return-to-libc-chaining-tutorial.pdf)
 
 [https://css.csail.mit.edu/6.858/2019/readings/return-to-libc.pdf](https://css.csail.mit.edu/6.858/2019/readings/return-to-libc.pdf)
+
 @spotheplanet

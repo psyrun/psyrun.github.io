@@ -2,9 +2,18 @@
 layout: post
 title: "dumping lsass passwords without mimikatz minidumpwritedump av signature bypass"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-lsass-passwords-without-mimikatz-minidumpwritedump-av-signature-bypass/
+---
+
+---
+layout: post
+title: "dumping lsass passwords without mimikatz minidumpwritedump av signature bypass"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-lsass-passwords-without-mimikatz-minidumpwritedump-av-signature-bypass/
 ---
 
 ---

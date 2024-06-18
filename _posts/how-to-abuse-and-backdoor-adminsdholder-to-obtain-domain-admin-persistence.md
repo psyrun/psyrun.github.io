@@ -2,9 +2,18 @@
 layout: post
 title: "how to abuse and backdoor adminsdholder to obtain domain admin persistence"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /how-to-abuse-and-backdoor-adminsdholder-to-obtain-domain-admin-persistence/
+---
+
+---
+layout: post
+title: "how to abuse and backdoor adminsdholder to obtain domain admin persistence"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /how-to-abuse-and-backdoor-adminsdholder-to-obtain-domain-admin-persistence/
 ---
 
 # Backdooring AdminSDHolder for Persistence

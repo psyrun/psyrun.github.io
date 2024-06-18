@@ -2,9 +2,18 @@
 layout: post
 title: "kerberoasting requesting rc4 encrypted tgs when aes is enabled"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /kerberoasting-requesting-rc4-encrypted-tgs-when-aes-is-enabled/
+---
+
+---
+layout: post
+title: "kerberoasting requesting rc4 encrypted tgs when aes is enabled"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /kerberoasting-requesting-rc4-encrypted-tgs-when-aes-is-enabled/
 ---
 
 # Kerberoasting: Requesting RC4 Encrypted TGS when AES is Enabled

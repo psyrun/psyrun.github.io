@@ -2,9 +2,18 @@
 layout: post
 title: "64 bit stack based buffer overflow"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /64-bit-stack-based-buffer-overflow/
+---
+
+---
+layout: post
+title: "64 bit stack based buffer overflow"
+date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /binary-exploitation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /64-bit-stack-based-buffer-overflow/
 ---
 
 # 64-bit Stack-based Buffer Overflow

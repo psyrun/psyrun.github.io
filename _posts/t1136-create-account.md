@@ -2,9 +2,18 @@
 layout: post
 title: "t1136 create account"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1136-create-account/
+---
+
+---
+layout: post
+title: "t1136 create account"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1136-create-account/
 ---
 
 ---
@@ -36,4 +45,7 @@ Details for the newly added account are logged as event `4720` :
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1136" %}
+
+
+
 @spotheplanet

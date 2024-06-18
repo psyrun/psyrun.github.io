@@ -2,9 +2,18 @@
 layout: post
 title: "t1010 application window discovery"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1010-application-window-discovery/
+---
+
+---
+layout: post
+title: "t1010 application window discovery"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1010-application-window-discovery/
 ---
 
 ---
@@ -36,4 +45,5 @@ A COM method that also includes the process path and window location coordinates
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1010" %}
+
 @spotheplanet

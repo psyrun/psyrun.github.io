@@ -2,9 +2,18 @@
 layout: post
 title: "resource based constrained delegation ad computer object take over and privilged code execution"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /resource-based-constrained-delegation-ad-computer-object-take-over-and-privilged-code-execution/
+---
+
+---
+layout: post
+title: "resource based constrained delegation ad computer object take over and privilged code execution"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /resource-based-constrained-delegation-ad-computer-object-take-over-and-privilged-code-execution/
 ---
 
 # Kerberos Resource-based Constrained Delegation: Computer Object Takeover

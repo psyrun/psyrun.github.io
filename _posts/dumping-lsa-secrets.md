@@ -2,9 +2,18 @@
 layout: post
 title: "dumping lsa secrets"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-lsa-secrets/
+---
+
+---
+layout: post
+title: "dumping lsa secrets"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-lsa-secrets/
 ---
 
 # Dumping LSA Secrets
@@ -61,4 +70,5 @@ lsadump::secrets /system:c:\temp\system /security:c:\temp\security
 ## References
 
 {% embed url="https://www.passcape.com/index.php?section=docsys&cmd=details&id=23" %}
+
 @spotheplanet

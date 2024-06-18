@@ -2,9 +2,18 @@
 layout: post
 title: "cobalt strike 101 installation and interesting commands"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /cobalt-strike-101-installation-and-interesting-commands/
+---
+
+---
+layout: post
+title: "cobalt strike 101 installation and interesting commands"
+date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /red-team-infrastructure/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /cobalt-strike-101-installation-and-interesting-commands/
 ---
 
 # Cobalt Strike 101
@@ -240,4 +249,5 @@ Event logs will show how many times the profiler has been used by victims:
 ## References
 
 [https://www.cobaltstrike.com/downloads/csmanual313.pdf](https://www.cobaltstrike.com/downloads/csmanual313.pdf)
+
 @spotheplanet

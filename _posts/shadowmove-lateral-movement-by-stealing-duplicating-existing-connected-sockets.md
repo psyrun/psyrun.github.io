@@ -2,9 +2,18 @@
 layout: post
 title: "shadowmove lateral movement by stealing duplicating existing connected sockets"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /shadowmove-lateral-movement-by-stealing-duplicating-existing-connected-sockets/
+---
+
+---
+layout: post
+title: "shadowmove lateral movement by stealing duplicating existing connected sockets"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /shadowmove-lateral-movement-by-stealing-duplicating-existing-connected-sockets/
 ---
 
 # ShadowMove: Lateral Movement by Duplicating Existing Sockets

@@ -2,9 +2,18 @@
 layout: post
 title: "kerberos golden tickets"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /kerberos-golden-tickets/
+---
+
+---
+layout: post
+title: "kerberos golden tickets"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /kerberos-golden-tickets/
 ---
 
 ---
@@ -62,4 +71,5 @@ However, switching back to the console the attacker used to create the golden ti
 {% embed url="https://blog.stealthbits.com/complete-domain-compromise-with-golden-tickets/" %}
 
 {% embed url="https://adsecurity.org/?p=1515" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "etw event tracing for windows 101"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /etw-event-tracing-for-windows-101/
+---
+
+---
+layout: post
+title: "etw event tracing for windows 101"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /etw-event-tracing-for-windows-101/
 ---
 
 # ETW: Event Tracing for Windows 101
@@ -249,4 +258,7 @@ From a defender's perspective, you may want to:
 [Microsoft-Windows-Threat-Intelligence](https://pastebin.com/6VGHjGjH) Provider Manifest as [mentioned](https://twitter.com/FancyCyber/status/1267536407272345602) by @FancyCyber:
 
 ![](../.gitbook/assets/image%20%28537%29.png)
+
+
+
 @spotheplanet

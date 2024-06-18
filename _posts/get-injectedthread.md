@@ -2,9 +2,18 @@
 layout: post
 title: "get injectedthread"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /get-injectedthread/
+---
+
+---
+layout: post
+title: "get injectedthread"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /get-injectedthread/
 ---
 
 ---
@@ -86,4 +95,5 @@ Below graphic shows details of the memory region containing the injected thread 
 {% embed url="https://blog.xpnsec.com/undersanding-and-evading-get-injectedthread/" %}
 
 {% embed url="https://docs.microsoft.com/en-us/windows/desktop/api/winnt/ns-winnt-\_memory\_basic\_information" %}
+
 @spotheplanet

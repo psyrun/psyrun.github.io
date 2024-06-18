@@ -2,9 +2,18 @@
 layout: post
 title: "backdooring portable executables pe with shellcode"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /backdooring-portable-executables-pe-with-shellcode/
+---
+
+---
+layout: post
+title: "backdooring portable executables pe with shellcode"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /backdooring-portable-executables-pe-with-shellcode/
 ---
 
 # Backdooring PE Files with Shellcode

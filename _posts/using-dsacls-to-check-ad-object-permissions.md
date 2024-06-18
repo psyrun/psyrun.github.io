@@ -2,9 +2,18 @@
 layout: post
 title: "using dsacls to check ad object permissions"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-dsacls-to-check-ad-object-permissions/
+---
+
+---
+layout: post
+title: "using dsacls to check ad object permissions"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-dsacls-to-check-ad-object-permissions/
 ---
 
 ---
@@ -132,4 +141,5 @@ $password = "123456"
 ## References
 
 {% embed url="https://support.microsoft.com/en-gb/help/281146/how-to-use-dsacls-exe-in-windows-server-2003-and-windows-2000" %}
+
 @spotheplanet

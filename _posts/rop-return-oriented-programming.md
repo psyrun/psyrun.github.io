@@ -2,9 +2,18 @@
 layout: post
 title: "rop return oriented programming"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /rop-return-oriented-programming/
+---
+
+---
+layout: post
+title: "rop return oriented programming"
+date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /binary-exploitation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /rop-return-oriented-programming/
 ---
 
 # ROP: Return Oriented Programming
@@ -36,4 +45,7 @@ Work In Progress
 {% embed url="https://ctf101.org/binary-exploitation/return-oriented-programming/" %}
 
 {% embed url="https://tc.gts3.org/cs6265/2019/tut/tut06-01-rop.html" %}
+
+
+
 @spotheplanet

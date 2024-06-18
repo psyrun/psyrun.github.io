@@ -2,9 +2,18 @@
 layout: post
 title: "sending commands from userland to your kernel driver using ioctl"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /sending-commands-from-userland-to-your-kernel-driver-using-ioctl/
+---
+
+---
+layout: post
+title: "sending commands from userland to your kernel driver using ioctl"
+date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel-internals/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /sending-commands-from-userland-to-your-kernel-driver-using-ioctl/
 ---
 
 ---

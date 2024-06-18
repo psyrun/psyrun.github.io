@@ -2,9 +2,18 @@
 layout: post
 title: "stealing web application credentials by hooking input fields"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /stealing-web-application-credentials-by-hooking-input-fields/
+---
+
+---
+layout: post
+title: "stealing web application credentials by hooking input fields"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /stealing-web-application-credentials-by-hooking-input-fields/
 ---
 
 ---

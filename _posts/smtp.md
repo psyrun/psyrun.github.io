@@ -2,9 +2,18 @@
 layout: post
 title: "smtp"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /smtp/
+---
+
+---
+layout: post
+title: "smtp"
+date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /red-team-infrastructure/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /smtp/
 ---
 
 ---

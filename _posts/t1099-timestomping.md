@@ -2,9 +2,18 @@
 layout: post
 title: "t1099 timestomping"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1099-timestomping/
+---
+
+---
+layout: post
+title: "t1099 timestomping"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1099-timestomping/
 ---
 
 ---
@@ -62,4 +71,5 @@ Note that if we moved the nc.exe file to any other folder on the system and re-p
 {% embed url="https://digital-forensics.sans.org/blog/2010/11/02/digital-forensics-time-stamp-manipulation" %}
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1099" %}
+
 @spotheplanet

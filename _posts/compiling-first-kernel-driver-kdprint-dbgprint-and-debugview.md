@@ -2,9 +2,18 @@
 layout: post
 title: "compiling first kernel driver kdprint dbgprint and debugview"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /compiling-first-kernel-driver-kdprint-dbgprint-and-debugview/
+---
+
+---
+layout: post
+title: "compiling first kernel driver kdprint dbgprint and debugview"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /compiling-first-kernel-driver-kdprint-dbgprint-and-debugview/
 ---
 
 # Compiling a Simple Kernel Driver, DbgPrint, DbgView
@@ -134,4 +143,5 @@ Below shows how our driver is loaded and unloaded via OSR Loader while DbgView p
 {% embed url="https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver" %}
 
 {% embed url="http://www.osronline.com/article.cfm%5earticle=295.htm" %}
+
 @spotheplanet

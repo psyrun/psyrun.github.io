@@ -2,9 +2,18 @@
 layout: post
 title: "automating red team infrastructure with terraform"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /automating-red-team-infrastructure-with-terraform/
+---
+
+---
+layout: post
+title: "automating red team infrastructure with terraform"
+date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /red-team-infrastructure/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /automating-red-team-infrastructure-with-terraform/
 ---
 
 # Automating Red Team Infrastructure with Terraform
@@ -239,4 +248,5 @@ If you would like to test this setup, feel free to grab the config files here:
 {% embed url="https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-dkim-with-postfix-on-debian-wheezy" %}
 
 {% embed url="https://developers.digitalocean.com/documentation/changelog/api-v2/new-size-slugs-for-droplet-plan-changes/" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "aws accounts users groups roles policies"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /aws-accounts-users-groups-roles-policies/
+---
+
+---
+layout: post
+title: "aws accounts users groups roles policies"
+date: 2024-06-18
 categories: cloud
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /cloud/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /aws-accounts-users-groups-roles-policies/
 ---
 
 # AWS Accounts, Users, Groups, Roles, Policies

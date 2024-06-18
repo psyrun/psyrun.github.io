@@ -2,9 +2,18 @@
 layout: post
 title: "active directory enumeration with powerview"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /active-directory-enumeration-with-powerview/
+---
+
+---
+layout: post
+title: "active directory enumeration with powerview"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /active-directory-enumeration-with-powerview/
 ---
 
 # PowerView: Active Directory Enumeration

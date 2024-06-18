@@ -2,9 +2,18 @@
 layout: post
 title: "detecting sysmon on the victim host"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /detecting-sysmon-on-the-victim-host/
+---
+
+---
+layout: post
+title: "detecting sysmon on the victim host"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /detecting-sysmon-on-the-victim-host/
 ---
 
 ---
@@ -144,4 +153,5 @@ Another way to bypass the sysmon altogether is explored here:
 {% embed url="https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/allocated-altitudes" %}
 
 {% embed url="https://github.com/GhostPack/Seatbelt" %}
+
 @spotheplanet

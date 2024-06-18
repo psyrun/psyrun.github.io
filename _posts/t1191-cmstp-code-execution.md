@@ -2,9 +2,18 @@
 layout: post
 title: "t1191 cmstp code execution"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1191-cmstp-code-execution/
+---
+
+---
+layout: post
+title: "t1191 cmstp code execution"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1191-cmstp-code-execution/
 ---
 
 ---
@@ -67,4 +76,7 @@ Note how the connection was established one second after the process creation. T
 {% embed url="https://attack.mitre.org/wiki/Technique/T1191" %}
 
 {% embed url="https://pentestlab.blog/2018/05/10/applocker-bypass-cmstp/" %}
+
+
+
 @spotheplanet

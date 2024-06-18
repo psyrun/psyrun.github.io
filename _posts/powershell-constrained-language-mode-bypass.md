@@ -2,9 +2,18 @@
 layout: post
 title: "powershell constrained language mode bypass"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /powershell-constrained-language-mode-bypass/
+---
+
+---
+layout: post
+title: "powershell constrained language mode bypass"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /powershell-constrained-language-mode-bypass/
 ---
 
 ---

@@ -2,9 +2,18 @@
 layout: post
 title: "t1209 hijacking time providers"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1209-hijacking-time-providers/
+---
+
+---
+layout: post
+title: "t1209 hijacking time providers"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1209-hijacking-time-providers/
 ---
 
 ---
@@ -66,4 +75,5 @@ This time and time again shows that binaries running off of svchost.exe, especia
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1209" %}
+
 @spotheplanet

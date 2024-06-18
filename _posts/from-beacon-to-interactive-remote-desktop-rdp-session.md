@@ -2,9 +2,18 @@
 layout: post
 title: "from beacon to interactive remote desktop rdp session"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /from-beacon-to-interactive-remote-desktop-rdp-session/
+---
+
+---
+layout: post
+title: "from beacon to interactive remote desktop rdp session"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /from-beacon-to-interactive-remote-desktop-rdp-session/
 ---
 
 ---

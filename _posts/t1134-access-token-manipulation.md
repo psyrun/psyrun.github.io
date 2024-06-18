@@ -2,9 +2,18 @@
 layout: post
 title: "t1134 access token manipulation"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1134-access-token-manipulation/
+---
+
+---
+layout: post
+title: "t1134 access token manipulation"
+date: 2024-06-18
 categories: privilege-escalation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /privilege-escalation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1134-access-token-manipulation/
 ---
 
 ---

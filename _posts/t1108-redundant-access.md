@@ -2,9 +2,18 @@
 layout: post
 title: "t1108 redundant access"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1108-redundant-access/
+---
+
+---
+layout: post
+title: "t1108 redundant access"
+date: 2024-06-18
 categories: privilege-escalation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /privilege-escalation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1108-redundant-access/
 ---
 
 ---
@@ -40,4 +49,5 @@ Looking at sysmon process creation logs, we can immediately identify nefarious b
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1108" %}
+
 @spotheplanet

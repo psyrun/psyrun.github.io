@@ -2,9 +2,18 @@
 layout: post
 title: "t1198 trust provider hijacking"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1198-trust-provider-hijacking/
+---
+
+---
+layout: post
+title: "t1198 trust provider hijacking"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1198-trust-provider-hijacking/
 ---
 
 ---
@@ -103,4 +112,5 @@ For all the registry keys/values that should be used as a baseline, please refer
 {% embed url="https://www.hanselman.com/blog/SigningPowerShellScripts.aspx" %}
 
 {% embed url="https://github.com/netbiosX/Digital-Signature-Hijack" %}
+
 @spotheplanet

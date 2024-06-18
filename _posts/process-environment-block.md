@@ -2,9 +2,18 @@
 layout: post
 title: "process environment block"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /process-environment-block/
+---
+
+---
+layout: post
+title: "process environment block"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /process-environment-block/
 ---
 
 ---
@@ -228,4 +237,7 @@ It is possible to abuse the PEB structure and masquerade one windows processes w
 {% embed url="http://jumpdollar.blogspot.com/2014/08/windbg-peb-command.html" %}
 
 {% embed url="http://jumpdollar.blogspot.com/search/label/.process" %}
+
+
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "powershell empire 101"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /powershell-empire-101/
+---
+
+---
+layout: post
+title: "powershell empire 101"
+date: 2024-06-18
 categories: red-team-infrastructure
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /red-team-infrastructure/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /powershell-empire-101/
 ---
 
 ---
@@ -221,4 +230,5 @@ volatility -f /mnt/memdumps/w7-empire.bin consoles --profile Win7SP1x64
 {% embed url="http://www.sixdub.net/?p=627" %}
 
 [https://www.sans.org/reading-room/whitepapers/incident/disrupting-empire-identifying-powershell-empire-command-control-activity-38315](https://www.sans.org/reading-room/whitepapers/incident/disrupting-empire-identifying-powershell-empire-command-control-activity-38315)
+
 @spotheplanet

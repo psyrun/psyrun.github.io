@@ -2,9 +2,18 @@
 layout: post
 title: "process injection"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /process-injection/
+---
+
+---
+layout: post
+title: "process injection"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /process-injection/
 ---
 
 ---
@@ -189,4 +198,7 @@ Note how the notepad has a `ws2_32.dll` module loaded which should never happen 
 {% embed url="https://docs.microsoft.com/en-us/windows/desktop/api/processthreadsapi/nf-processthreadsapi-createremotethread" %}
 
 {% embed url="https://msdn.microsoft.com/en-us/library/windows/desktop/ms681674\(v=vs.85\).aspx" %}
+
+
+
 @spotheplanet

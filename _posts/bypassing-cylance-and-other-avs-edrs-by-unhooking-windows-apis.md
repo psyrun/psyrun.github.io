@@ -2,9 +2,18 @@
 layout: post
 title: "bypassing cylance and other avs edrs by unhooking windows apis"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-cylance-and-other-avs-edrs-by-unhooking-windows-apis/
+---
+
+---
+layout: post
+title: "bypassing cylance and other avs edrs by unhooking windows apis"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-cylance-and-other-avs-edrs-by-unhooking-windows-apis/
 ---
 
 ---

@@ -2,9 +2,18 @@
 layout: post
 title: "configuring kernel debugging environment with kdnet and windbg preview"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /configuring-kernel-debugging-environment-with-kdnet-and-windbg-preview/
+---
+
+---
+layout: post
+title: "configuring kernel debugging environment with kdnet and windbg preview"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /configuring-kernel-debugging-environment-with-kdnet-and-windbg-preview/
 ---
 
 # Configuring Kernel Debugging Environment with kdnet and WinDBG Preview
@@ -51,4 +60,5 @@ Click OK and you should now be ready to start debugging the host `192.168.2.68`:
 ## References
 
 {% embed url="https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-up-a-network-debugging-connection-automatically" %}
+
 @spotheplanet

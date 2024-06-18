@@ -2,9 +2,18 @@
 layout: post
 title: "t1175 distributed component object model"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1175-distributed-component-object-model/
+---
+
+---
+layout: post
+title: "t1175 distributed component object model"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1175-distributed-component-object-model/
 ---
 
 ---

@@ -2,9 +2,18 @@
 layout: post
 title: "lateral movement abusing service configuration manager"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-abusing-service-configuration-manager/
+---
+
+---
+layout: post
+title: "lateral movement abusing service configuration manager"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-abusing-service-configuration-manager/
 ---
 
 # Lateral Movement via Service Configuration Manager

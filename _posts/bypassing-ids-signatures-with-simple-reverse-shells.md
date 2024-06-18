@@ -2,9 +2,18 @@
 layout: post
 title: "bypassing ids signatures with simple reverse shells"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-ids-signatures-with-simple-reverse-shells/
+---
+
+---
+layout: post
+title: "bypassing ids signatures with simple reverse shells"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-ids-signatures-with-simple-reverse-shells/
 ---
 
 # Bypassing IDS Signatures with Simple Reverse Shells

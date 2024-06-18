@@ -2,9 +2,18 @@
 layout: post
 title: "as rep roasting using rubeus and hashcat"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /as-rep-roasting-using-rubeus-and-hashcat/
+---
+
+---
+layout: post
+title: "as rep roasting using rubeus and hashcat"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /as-rep-roasting-using-rubeus-and-hashcat/
 ---
 
 # AS-REP Roasting
@@ -58,4 +67,5 @@ hashcat -m18200 '$krb5asrep$23$spot@offense.local:3171EA207B3A6FDAEE52BA247C2036
 {% embed url="https://jsecurity101.com/2019/IOC-differences-between-Kerberoasting-and-AsRep-Roasting/" %}
 
 {% embed url="https://blog.xpnsec.com/kerberos-attacks-part-2/" %}
+
 @spotheplanet

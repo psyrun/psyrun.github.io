@@ -2,9 +2,18 @@
 layout: post
 title: "t1170 mshta code execution"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1170-mshta-code-execution/
+---
+
+---
+layout: post
+title: "t1170 mshta code execution"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1170-mshta-code-execution/
 ---
 
 ---

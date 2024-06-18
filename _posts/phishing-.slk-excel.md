@@ -2,9 +2,18 @@
 layout: post
 title: "phishing .slk excel"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-.slk-excel/
+---
+
+---
+layout: post
+title: "phishing .slk excel"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-.slk-excel/
 ---
 
 # Phishing: .SLK Excel
@@ -57,4 +66,7 @@ Note that the payload file could be saved as a .csv - note the additional warnin
 [http://www.irongeek.com/i.php?page=videos/derbycon8/track-3-18-the-ms-office-magic-show-stan-hegt-pieter-ceelen](http://www.irongeek.com/i.php?page=videos/derbycon8/track-3-18-the-ms-office-magic-show-stan-hegt-pieter-ceelen)
 
 {% embed url="https://twitter.com/StanHacked/status/1049047727403937795" %}
+
+
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "t1197 bits jobs"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1197-bits-jobs/
+---
+
+---
+layout: post
+title: "t1197 bits jobs"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1197-bits-jobs/
 ---
 
 ---
@@ -36,4 +45,5 @@ Commandline arguments monitoring can help discover bitsadmin usage:
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1197" %}
+
 @spotheplanet

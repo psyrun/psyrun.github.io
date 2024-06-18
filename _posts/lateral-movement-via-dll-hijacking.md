@@ -2,9 +2,18 @@
 layout: post
 title: "lateral movement via dll hijacking"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-via-dll-hijacking/
+---
+
+---
+layout: post
+title: "lateral movement via dll hijacking"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-via-dll-hijacking/
 ---
 
 # Lateral Movement via DLL Hijacking

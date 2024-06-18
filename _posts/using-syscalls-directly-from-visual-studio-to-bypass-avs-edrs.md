@@ -2,9 +2,18 @@
 layout: post
 title: "using syscalls directly from visual studio to bypass avs edrs"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-syscalls-directly-from-visual-studio-to-bypass-avs-edrs/
+---
+
+---
+layout: post
+title: "using syscalls directly from visual studio to bypass avs edrs"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-syscalls-directly-from-visual-studio-to-bypass-avs-edrs/
 ---
 
 # Calling Syscalls Directly from Visual Studio to Bypass AVs/EDRs

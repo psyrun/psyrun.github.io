@@ -2,9 +2,18 @@
 layout: post
 title: "winrs for lateral movement"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /winrs-for-lateral-movement/
+---
+
+---
+layout: post
+title: "winrs for lateral movement"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /winrs-for-lateral-movement/
 ---
 
 # WinRS for Lateral Movement

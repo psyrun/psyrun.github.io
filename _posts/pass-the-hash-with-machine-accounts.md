@@ -2,9 +2,18 @@
 layout: post
 title: "pass the hash with machine accounts"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /pass-the-hash-with-machine-accounts/
+---
+
+---
+layout: post
+title: "pass the hash with machine accounts"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /pass-the-hash-with-machine-accounts/
 ---
 
 # Pass the Hash with Machine$ Accounts

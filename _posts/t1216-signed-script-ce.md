@@ -2,9 +2,18 @@
 layout: post
 title: "t1216 signed script ce"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1216-signed-script-ce/
+---
+
+---
+layout: post
+title: "t1216 signed script ce"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1216-signed-script-ce/
 ---
 
 ---
@@ -63,4 +72,5 @@ Monitoring commandlines can be useful in detecting the script being abused:
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1216" %}
+
 @spotheplanet

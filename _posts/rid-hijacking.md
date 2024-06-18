@@ -2,9 +2,18 @@
 layout: post
 title: "rid hijacking"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /rid-hijacking/
+---
+
+---
+layout: post
+title: "rid hijacking"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /rid-hijacking/
 ---
 
 # RID Hijacking

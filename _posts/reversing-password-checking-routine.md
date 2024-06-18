@@ -2,9 +2,18 @@
 layout: post
 title: "reversing password checking routine"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /reversing-password-checking-routine/
+---
+
+---
+layout: post
+title: "reversing password checking routine"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /reversing-password-checking-routine/
 ---
 
 # Reversing Password Checking Routine

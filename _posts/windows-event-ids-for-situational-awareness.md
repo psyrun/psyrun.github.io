@@ -2,9 +2,18 @@
 layout: post
 title: "windows event ids for situational awareness"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /windows-event-ids-for-situational-awareness/
+---
+
+---
+layout: post
+title: "windows event ids for situational awareness"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /windows-event-ids-for-situational-awareness/
 ---
 
 # Windows Event IDs and Others for Situational Awareness

@@ -2,9 +2,18 @@
 layout: post
 title: "enumerating users without net services without sc and scheduled tasks without schtasks"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /enumerating-users-without-net-services-without-sc-and-scheduled-tasks-without-schtasks/
+---
+
+---
+layout: post
+title: "enumerating users without net services without sc and scheduled tasks without schtasks"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /enumerating-users-without-net-services-without-sc-and-scheduled-tasks-without-schtasks/
 ---
 
 # Enumerating Users without net, Services without sc and Scheduled Tasks without schtasks
@@ -42,4 +51,5 @@ Persistence anyone? Note that `taskschd.msc` could give you the same view:
 ## Shares and Sessions
 
 ![](../../.gitbook/assets/sessions+shares.PNG)
+
 @spotheplanet

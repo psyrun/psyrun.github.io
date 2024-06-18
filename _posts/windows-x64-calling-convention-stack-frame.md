@@ -2,9 +2,18 @@
 layout: post
 title: "windows x64 calling convention stack frame"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /windows-x64-calling-convention-stack-frame/
+---
+
+---
+layout: post
+title: "windows x64 calling convention stack frame"
+date: 2024-06-18
 categories: windows-kernel-internals
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel-internals/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /windows-x64-calling-convention-stack-frame/
 ---
 
 # Windows x64 Calling Convention: Stack Frame
@@ -28,4 +37,5 @@ Below shows how the first four arguments are stored in ECX (lower part of RCX), 
 ## References
 
 {% embed url="https://docs.microsoft.com/en-us/cpp/build/stack-usage?view=vs-2019" %}
+
 @spotheplanet

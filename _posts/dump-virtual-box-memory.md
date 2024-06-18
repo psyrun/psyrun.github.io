@@ -2,9 +2,18 @@
 layout: post
 title: "dump virtual box memory"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dump-virtual-box-memory/
+---
+
+---
+layout: post
+title: "dump virtual box memory"
+date: 2024-06-18
 categories: miscellaneous-reversing-forensics
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /miscellaneous-reversing-forensics/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dump-virtual-box-memory/
 ---
 
 ---
@@ -58,4 +67,5 @@ If you want the debug options to be always available, you can:
 
 * export `VBOX_GUI_DBG_ENABLED=true` before launching the VM or
 * put export `VBOX_GUI_DBG_ENABLED=true` in your `.bashrc` or `/etc/environment` 
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "t1053 schtask"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1053-schtask/
+---
+
+---
+layout: post
+title: "t1053 schtask"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1053-schtask/
 ---
 
 ---
@@ -56,4 +65,5 @@ schtasks /create /sc minute /mo 1 /tn "eviltask" /tr calc /ru "SYSTEM" /s dc-man
 {% embed url="https://attack.mitre.org/wiki/Technique/T1053" %}
 
 {% embed url="https://docs.microsoft.com/en-us/windows/desktop/taskschd/schtasks" %}
+
 @spotheplanet

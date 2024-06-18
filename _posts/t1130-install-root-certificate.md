@@ -2,9 +2,18 @@
 layout: post
 title: "t1130 install root certificate"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1130-install-root-certificate/
+---
+
+---
+layout: post
+title: "t1130 install root certificate"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1130-install-root-certificate/
 ---
 
 ---
@@ -62,4 +71,5 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\SystemCertificates\Root\Certificat
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1130" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "t1051 shared webroot"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1051-shared-webroot/
+---
+
+---
+layout: post
+title: "t1051 shared webroot"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1051-shared-webroot/
 ---
 
 ---
@@ -91,4 +100,5 @@ See T1108: Webshells for observations:
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1051" %}
+
 @spotheplanet

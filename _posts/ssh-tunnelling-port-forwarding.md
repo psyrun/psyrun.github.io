@@ -2,9 +2,18 @@
 layout: post
 title: "ssh tunnelling port forwarding"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /ssh-tunnelling-port-forwarding/
+---
+
+---
+layout: post
+title: "ssh tunnelling port forwarding"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /ssh-tunnelling-port-forwarding/
 ---
 
 ---
@@ -138,4 +147,5 @@ Dynamic port forwarding plays along nicely with ProxyChains.
 ## References
 
 {% embed url="https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html" %}
+
 @spotheplanet

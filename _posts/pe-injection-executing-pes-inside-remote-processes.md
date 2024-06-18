@@ -2,9 +2,18 @@
 layout: post
 title: "pe injection executing pes inside remote processes"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /pe-injection-executing-pes-inside-remote-processes/
+---
+
+---
+layout: post
+title: "pe injection executing pes inside remote processes"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /pe-injection-executing-pes-inside-remote-processes/
 ---
 
 ---

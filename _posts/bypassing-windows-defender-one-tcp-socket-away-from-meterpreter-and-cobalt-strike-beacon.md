@@ -2,9 +2,18 @@
 layout: post
 title: "bypassing windows defender one tcp socket away from meterpreter and cobalt strike beacon"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-windows-defender-one-tcp-socket-away-from-meterpreter-and-cobalt-strike-beacon/
+---
+
+---
+layout: post
+title: "bypassing windows defender one tcp socket away from meterpreter and cobalt strike beacon"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-windows-defender-one-tcp-socket-away-from-meterpreter-and-cobalt-strike-beacon/
 ---
 
 # Bypassing Windows Defender: One TCP Socket Away From Meterpreter and Beacon Sessions
@@ -145,4 +154,5 @@ int main()
 ## References
 
 {% embed url="https://docs.microsoft.com/en-us/windows/desktop/api/ws2tcpip/nf-ws2tcpip-getaddrinfo" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "word library add ins"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /word-library-add-ins/
+---
+
+---
+layout: post
+title: "word library add ins"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /word-library-add-ins/
 ---
 
 # Word Library Add-Ins

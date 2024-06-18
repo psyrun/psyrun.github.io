@@ -2,9 +2,18 @@
 layout: post
 title: "executing csharp assemblies from jscript and wscript with dotnettojscript"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /executing-csharp-assemblies-from-jscript-and-wscript-with-dotnettojscript/
+---
+
+---
+layout: post
+title: "executing csharp assemblies from jscript and wscript with dotnettojscript"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /executing-csharp-assemblies-from-jscript-and-wscript-with-dotnettojscript/
 ---
 
 # Executing C# Assemblies from Jscript and wscript with DotNetToJscript
@@ -75,4 +84,5 @@ Know of any other hlepful artefacts? Let me know.
 ## References
 
 {% embed url="https://github.com/tyranid/DotNetToJScript" %}
+
 @spotheplanet

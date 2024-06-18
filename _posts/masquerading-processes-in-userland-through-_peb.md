@@ -2,9 +2,18 @@
 layout: post
 title: "masquerading processes in userland through _peb"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /masquerading-processes-in-userland-through-_peb/
+---
+
+---
+layout: post
+title: "masquerading processes in userland through _peb"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /masquerading-processes-in-userland-through-_peb/
 ---
 
 ---

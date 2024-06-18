@@ -2,9 +2,18 @@
 layout: post
 title: "abusing kerberos constrained delegation"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /abusing-kerberos-constrained-delegation/
+---
+
+---
+layout: post
+title: "abusing kerberos constrained delegation"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /abusing-kerberos-constrained-delegation/
 ---
 
 # Kerberos Constrained Delegation

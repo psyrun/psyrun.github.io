@@ -2,9 +2,18 @@
 layout: post
 title: "t1013 addmonitor"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1013-addmonitor/
+---
+
+---
+layout: post
+title: "t1013 addmonitor"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1013-addmonitor/
 ---
 
 ---
@@ -81,4 +90,7 @@ Sysmon commandline arguments and network connection logging to the rescue:
 {% embed url="https://msdn.microsoft.com/en-us/library/windows/desktop/dd183341\(v=vs.85\).aspx" %}
 
 {% embed url="https://msdn.microsoft.com/en-us/library/windows/desktop/dd145068\(v=vs.85\).aspx" %}
+
+
+
 @spotheplanet

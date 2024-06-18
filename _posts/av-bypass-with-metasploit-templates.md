@@ -2,9 +2,18 @@
 layout: post
 title: "av bypass with metasploit templates"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /av-bypass-with-metasploit-templates/
+---
+
+---
+layout: post
+title: "av bypass with metasploit templates"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /av-bypass-with-metasploit-templates/
 ---
 
 # AV Bypass with Metasploit Templates and Custom Binaries
@@ -186,4 +195,5 @@ int main()
 ## References
 
 {% embed url="https://www.offensive-security.com/metasploit-unleashed/backdooring-exe-files/" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "dumping and cracking mscash cached domain credentials"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-and-cracking-mscash-cached-domain-credentials/
+---
+
+---
+layout: post
+title: "dumping and cracking mscash cached domain credentials"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-and-cracking-mscash-cached-domain-credentials/
 ---
 
 # Dumping and Cracking mscash - Cached Domain Credentials
@@ -121,4 +130,7 @@ By nulling out the Data fields one could remove the credentials from cache. Once
 {% embed url="https://webstersprodigy.net/2014/02/03/mscash-hash-primer-for-pentesters/" %}
 
 {% embed url="https://www.securusglobal.com/community/2013/12/20/dumping-windows-credentials/" %}
+
+
+
 @spotheplanet

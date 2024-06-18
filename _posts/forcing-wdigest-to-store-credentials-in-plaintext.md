@@ -2,9 +2,18 @@
 layout: post
 title: "forcing wdigest to store credentials in plaintext"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /forcing-wdigest-to-store-credentials-in-plaintext/
+---
+
+---
+layout: post
+title: "forcing wdigest to store credentials in plaintext"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /forcing-wdigest-to-store-credentials-in-plaintext/
 ---
 
 # Forcing WDigest to Store Credentials in Plaintext
@@ -52,4 +61,5 @@ Running mimikatz for wdigest credentials now reveals the plaintext password of t
 ## References
 
 {% embed url="https://p16.praetorian.com/blog/mitigating-mimikatz-wdigest-cleartext-credential-theft" %}
+
 @spotheplanet

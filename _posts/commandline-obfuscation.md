@@ -2,9 +2,18 @@
 layout: post
 title: "commandline obfuscation"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /commandline-obfuscation/
+---
+
+---
+layout: post
+title: "commandline obfuscation"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /commandline-obfuscation/
 ---
 
 ---
@@ -172,4 +181,5 @@ os.system(final)
 {% embed url="https://www.youtube.com/watch?v=mej5L9PE1fs" %}
 
 {% embed url="https://www.fireeye.com/blog/threat-research/2018/03/dosfuscation-exploring-obfuscation-and-detection-techniques.html" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "password spraying outlook web access remote shell"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /password-spraying-outlook-web-access-remote-shell/
+---
+
+---
+layout: post
+title: "password spraying outlook web access remote shell"
+date: 2024-06-18
 categories: initial-access
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /initial-access/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /password-spraying-outlook-web-access-remote-shell/
 ---
 
 # Password Spraying Outlook Web Access: Remote Shell
@@ -148,4 +157,5 @@ ruler -k --verbose --email spotless@offense.local --username spotless -p 123456 
 {% embed url="https://labs.mwrinfosecurity.com/blog/malicous-outlook-rules/" %}
 
 {% embed url="https://www.blackhillsinfosec.com/introducing-mailsniper-a-tool-for-searching-every-users-email-for-sensitive-data/" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "loading a windows kernel driver to windows 10"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /loading-a-windows-kernel-driver-to-windows-10/
+---
+
+---
+layout: post
+title: "loading a windows kernel driver to windows 10"
+date: 2024-06-18
 categories: windows-kernel
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /windows-kernel/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /loading-a-windows-kernel-driver-to-windows-10/
 ---
 
 # Loading a Windows Kernel Driver to Windows 10
@@ -46,4 +55,5 @@ sc.exe query kmdfHelloDriver
 ```
 
 ![](../../.gitbook/assets/image%20%2836%29.png)
+
 @spotheplanet

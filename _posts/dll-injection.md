@@ -2,9 +2,18 @@
 layout: post
 title: "dll injection"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dll-injection/
+---
+
+---
+layout: post
+title: "dll injection"
+date: 2024-06-18
 categories: code-injection-process-injection
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-injection-process-injection/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dll-injection/
 ---
 
 ---
@@ -67,4 +76,7 @@ Note how the notepad spawned rundll32 which then spawned a cmd.exe because of th
 {% embed url="https://msdn.microsoft.com/en-us/library/windows/desktop/ms683212\(v=vs.85\).aspx" %}
 
 {% embed url="https://msdn.microsoft.com/en-us/library/windows/desktop/ms684175\(v=vs.85\).aspx" %}
+
+
+
 @spotheplanet

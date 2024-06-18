@@ -2,9 +2,18 @@
 layout: post
 title: "code execution through control panel add ins"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /code-execution-through-control-panel-add-ins/
+---
+
+---
+layout: post
+title: "code execution through control panel add ins"
+date: 2024-06-18
 categories: code-execution
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /code-execution/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /code-execution-through-control-panel-add-ins/
 ---
 
 # Code Execution through Control Panel Add-ins

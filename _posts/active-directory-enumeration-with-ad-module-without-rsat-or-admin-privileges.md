@@ -2,9 +2,18 @@
 layout: post
 title: "active directory enumeration with ad module without rsat or admin privileges"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /active-directory-enumeration-with-ad-module-without-rsat-or-admin-privileges/
+---
+
+---
+layout: post
+title: "active directory enumeration with ad module without rsat or admin privileges"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /active-directory-enumeration-with-ad-module-without-rsat-or-admin-privileges/
 ---
 
 # Active Directory Enumeration with AD Module without RSAT or Admin Privileges

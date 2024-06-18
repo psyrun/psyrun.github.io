@@ -2,9 +2,18 @@
 layout: post
 title: "phishing ole + lnk"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-ole-+-lnk/
+---
+
+---
+layout: post
+title: "phishing ole + lnk"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /phishing-ole-+-lnk/
 ---
 
 ---
@@ -112,4 +121,5 @@ As an analyst, one should look for `CLSID 00021401-0000-0000-c000-000000000046` 
 {% embed url="https://msdn.microsoft.com/en-gb/library/dd891343.aspx" %}
 
 {% embed url="https://adsecurity.org/wp-content/uploads/2016/09/DerbyCon6-2016-AttackingEvilCorp-Anatomy-of-a-Corporate-Hack-Presented.pdf" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "t1138 application shimming"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1138-application-shimming/
+---
+
+---
+layout: post
+title: "t1138 application shimming"
+date: 2024-06-18
 categories: persistence
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /persistence/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1138-application-shimming/
 ---
 
 ---
@@ -78,4 +87,5 @@ Correlate it with other events exhibited by the application that has been fixed 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1138" %}
 
 {% embed url="https://blacksunhackers.club/2016/08/post-exploitation-persistence-with-application-shims-intro/" %}
+
 @spotheplanet

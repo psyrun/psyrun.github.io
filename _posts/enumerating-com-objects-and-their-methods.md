@@ -2,9 +2,18 @@
 layout: post
 title: "enumerating com objects and their methods"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /enumerating-com-objects-and-their-methods/
+---
+
+---
+layout: post
+title: "enumerating com objects and their methods"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /enumerating-com-objects-and-their-methods/
 ---
 
 # Enumerating COM Objects and their Methods

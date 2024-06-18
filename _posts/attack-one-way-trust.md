@@ -2,9 +2,18 @@
 layout: post
 title: "attack one way trust"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /attack-one-way-trust/
+---
+
+---
+layout: post
+title: "attack one way trust"
+date: 2024-06-18
 categories: active-directory-kerberos-abuse
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /active-directory-kerberos-abuse/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /attack-one-way-trust/
 ---
 
 # Attack one-way trusted domain/forest (Trust account attack)

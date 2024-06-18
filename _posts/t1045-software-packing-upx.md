@@ -2,9 +2,18 @@
 layout: post
 title: "t1045 software packing upx"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1045-software-packing-upx/
+---
+
+---
+layout: post
+title: "t1045 software packing upx"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1045-software-packing-upx/
 ---
 
 ---

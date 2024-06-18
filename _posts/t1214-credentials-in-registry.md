@@ -2,9 +2,18 @@
 layout: post
 title: "t1214 credentials in registry"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1214-credentials-in-registry/
+---
+
+---
+layout: post
+title: "t1214 credentials in registry"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /t1214-credentials-in-registry/
 ---
 
 ---
@@ -34,4 +43,5 @@ As a defender, you may want to monitor commandline argument logs and look for an
 ## References
 
 {% embed url="https://attack.mitre.org/wiki/Technique/T1214" %}
+
 @spotheplanet

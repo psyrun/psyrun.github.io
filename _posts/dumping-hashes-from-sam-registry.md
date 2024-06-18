@@ -2,9 +2,18 @@
 layout: post
 title: "dumping hashes from sam registry"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-hashes-from-sam-registry/
+---
+
+---
+layout: post
+title: "dumping hashes from sam registry"
+date: 2024-06-18
 categories: credential-access-and-credential-dumping
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /credential-access-and-credential-dumping/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-hashes-from-sam-registry/
 ---
 
 ---
@@ -43,4 +52,5 @@ low:1003:aad3b435b51404eeaad3b435b51404ee:4bdaf9484819a077562ebeefaed6ca75:::
 Sysmon logs with commandlines will reveal credential dump attempts from the registry as expected:
 
 ![](../../.gitbook/assets/pwdump-reg-sysmon.png)
+
 @spotheplanet

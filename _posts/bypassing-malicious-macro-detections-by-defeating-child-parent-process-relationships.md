@@ -2,9 +2,18 @@
 layout: post
 title: "bypassing malicious macro detections by defeating child parent process relationships"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-malicious-macro-detections-by-defeating-child-parent-process-relationships/
+---
+
+---
+layout: post
+title: "bypassing malicious macro detections by defeating child parent process relationships"
+date: 2024-06-18
 categories: phishing-with-ms-office
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /phishing-with-ms-office/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /bypassing-malicious-macro-detections-by-defeating-child-parent-process-relationships/
 ---
 
 # Bypassing Parent Child / Ancestry Detections
@@ -465,4 +474,5 @@ End Sub
 {% embed url="https://blog.didierstevens.com/2009/05/06/shellcode-2-vbscript/" %}
 
 {% embed url="https://blog.christophetd.fr/building-an-office-macro-to-spoof-process-parent-and-command-line/" %}
+
 @spotheplanet

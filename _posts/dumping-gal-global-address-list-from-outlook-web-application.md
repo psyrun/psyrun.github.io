@@ -2,9 +2,18 @@
 layout: post
 title: "dumping gal global address list from outlook web application"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-gal-global-address-list-from-outlook-web-application/
+---
+
+---
+layout: post
+title: "dumping gal global address list from outlook web application"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /dumping-gal-global-address-list-from-outlook-web-application/
 ---
 
 # Dump GAL from OWA
@@ -63,4 +72,5 @@ curl 'https://dc01/owa/service.svc?action=FindPeople' -X POST -H 'Cookie: X-Back
 [https://www.blackhillsinfosec.com/attacking-exchange-with-mailsniper/](https://www.blackhillsinfosec.com/attacking-exchange-with-mailsniper/)
 
 {% embed url="https://www.blackhillsinfosec.com/downloading-an-address-book-from-an-outlook-web-app-owa-portal/" %}
+
 @spotheplanet

@@ -2,9 +2,18 @@
 layout: post
 title: "using native syscalls to bypass avs edrs"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-native-syscalls-to-bypass-avs-edrs/
+---
+
+---
+layout: post
+title: "using native syscalls to bypass avs edrs"
+date: 2024-06-18
 categories: defense-evasion
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /defense-evasion/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-native-syscalls-to-bypass-avs-edrs/
 ---
 
 # Using Native Syscalls to bypass AVs/EDRs
@@ -198,4 +207,5 @@ int main()
 {% embed url="https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntcreatefile" %}
 
 {% embed url="https://j00ru.vexillium.org/syscalls/nt/64/" %}
+
 @spotheplanet

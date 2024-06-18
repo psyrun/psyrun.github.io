@@ -2,9 +2,18 @@
 layout: post
 title: "using com to enumerate hostname username domain network drives"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-com-to-enumerate-hostname-username-domain-network-drives/
+---
+
+---
+layout: post
+title: "using com to enumerate hostname username domain network drives"
+date: 2024-06-18
 categories: enumeration-and-discovery
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /enumeration-and-discovery/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /using-com-to-enumerate-hostname-username-domain-network-drives/
 ---
 
 # Using COM to Enumerate Hostname, Username, Domain, Network Drives
@@ -46,4 +55,5 @@ $o.EnumNetworkDrives()
 Below shows what additional modules Powershell loads once the COM object is instantiated:
 
 ![](../../.gitbook/assets/loaded-dlls.gif)
+
 @spotheplanet

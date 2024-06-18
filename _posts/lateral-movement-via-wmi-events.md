@@ -2,9 +2,18 @@
 layout: post
 title: "lateral movement via wmi events"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-via-wmi-events/
+---
+
+---
+layout: post
+title: "lateral movement via wmi events"
+date: 2024-06-18
 categories: lateral-movement
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /lateral-movement/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /lateral-movement-via-wmi-events/
 ---
 
 # Lateral Movement via WMI Event Subscription
@@ -138,4 +147,5 @@ Below shows the WMI events based lateral movement technique in action:
 {% embed url="https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-1-wmi-event-subscription/" %}
 
 {% embed url="https://docs.microsoft.com/en-us/windows/win32/wmisdk/commandlineeventconsumer" %}
+
 @spotheplanet

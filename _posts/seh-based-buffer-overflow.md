@@ -2,9 +2,18 @@
 layout: post
 title: "seh based buffer overflow"
 date: 2024-06-18
+categories: all_md_files
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /seh-based-buffer-overflow/
+---
+
+---
+layout: post
+title: "seh based buffer overflow"
+date: 2024-06-18
 categories: binary-exploitation
-tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
-permalink: /binary-exploitation/
+tags: redteam, mitre killchain, offensivesecurity, cpent, cpts, oscp, exploit
+permalink: /seh-based-buffer-overflow/
 ---
 
 # SEH Based Buffer Overflow
