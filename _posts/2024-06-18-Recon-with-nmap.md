@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2024-06-18-64 Recon with psymap.py"
+title: "2024-06-18-64 Recon with psymap-nmap.py"
 date: 2024-06-18
 categories: Reconnaissance | Enumeration
 tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
@@ -58,7 +58,6 @@ Full scans are comprehensive scans that leave no stone unturned in analyzing the
 - **SMB OS Discovery Scan:** `nmap -v -p 139,445 --script smb-os-discovery TARGET`
 - **Open SNMP Scan:** `sudo nmap -sU --open -p 161 TARGET -oG open-snmp.txt`
 
-We have covered a range of Nmap commands for different types of network scans. Each command serves a specific purpose and can be used to gather valuable information about the target network.
 
 
 here is the python program which will fully recon your target with the above mindmap..
@@ -121,7 +120,14 @@ if __name__ == "__main__":
 
 
 ```
+## Usage
+```sh
+python nmap_scan.py 192.168.50.149 -t regular
+python nmap_scan.py 192.168.50.149 -t intensive
+python nmap_scan.py 192.168.50.149 -t full
+```
 
 
+We have covered a range of Nmap commands for different types of network scans. Each command serves a specific purpose and can be used to gather valuable information about the target network.
 
 
