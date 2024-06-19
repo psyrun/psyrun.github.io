@@ -187,7 +187,7 @@ GOOS=windows GOARCH=amd64 go build -o crust.exe curb.go
 ![alt text](https://raw.githubusercontent.com/psyrun/psyrun.github.io/master/_posts/go-revshell.png)
 
 
- ### session
+### session
 
 ![alt text](https://raw.githubusercontent.com/psyrun/psyrun.github.io/master/_posts/go-revshell-2.png)
 
