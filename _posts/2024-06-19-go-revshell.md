@@ -183,11 +183,11 @@ GOOS=windows GOARCH=amd64 go build -o crust.exe curb.go
 
 
 ### Virustotal Scan
-![alt text](go-revshell.png)
+![alt text](/_posts/go-revshell.png)
     
  ### session
 
-![alt text](go-revshell-2.png)
+![alt text](/_posts/go-revshell-2.png)
 
 
 #peacout #opensource
