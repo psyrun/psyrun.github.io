@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Reverse Shell in Go"
-date: 2024-06-18
+title: "2024-06-19 Reverse Shell in Go"
+date: 2024-06-19
 categories: Windows Reverse Shell
 tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
 permalink: /go-revshell/
