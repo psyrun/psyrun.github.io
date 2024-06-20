@@ -6,7 +6,6 @@ categories: Windows-Vulnerability-Research
 tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
 permalink: /go-revshell/
 ---
-# Blog: Enumerating Running Processes in Windows for Vulnerability Research
 
 ## Introduction
 This blog discusses a simple C program for enumerating running processes in Windows using the Windows API and explains its relevance in vulnerability research. The program provides a foundation for analyzing running processes, which is crucial in identifying potential vulnerabilities in software and system configurations.
