@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2024-06-19 Reverse Shell in Go"
+title: "2024-06-19 Enumerating Running Processes in Windows for Vulnerability Research"
 date: 2024-06-19
-categories: Windows-Reverse-Shell
+categories: Windows-Vulnerability-Research
 tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
 permalink: /go-revshell/
 ---
