@@ -8,7 +8,7 @@ permalink: /Process-Privelege-Enumeration/
 ---
 # Exploring Free Memory Regions in Windows Processes
 
-When analyzing software vulnerabilities, it's crucial to understand the memory layout of a process. One aspect of this is identifying free memory regions, which can be exploited by attackers to execute arbitrary code. In this blog post, we'll explore a program written in C that lists all processes running on a Windows system and identifies their free memory regions.
+When analyzing software vulnerabilities, it's crucial to understand the memory layout of a process. One aspect of this is identifying free memory regions, which can be exploited by attackers to execute arbitrary code. In this blog post, we'll explore a program written in C that lists all processes running on a Windows system and identifies their free memory regions with respective permissions which is lastly saved in csv file.
 
 ## Understanding the Code
 
