@@ -4,7 +4,7 @@ title: "Enumerating Running Processes in Windows for Vulnerability Research"
 date: 2024-06-19
 categories: Windows-Vulnerability-Research
 tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
-permalink: /go-revshell/
+permalink: /process-enumeration/
 ---
 
 ## Introduction
