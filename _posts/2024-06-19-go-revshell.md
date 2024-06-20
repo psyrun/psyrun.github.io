@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "2024-06-19 Reverse Shell in Go"
+title: "Reverse Shell in Go"
 date: 2024-06-19
 categories: Windows-Reverse-Shell
 tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
 permalink: /go-revshell/
 ---
+
 # Building a Reverse Shell in Go
 
 In this tutorial, we'll explore how to create a basic reverse shell in Go. A reverse shell is a type of shell where the target machine communicates back to the attacking machine. This can be useful for remote administration or accessing a system that is behind a firewall.
