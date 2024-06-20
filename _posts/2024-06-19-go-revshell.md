@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "2024-06-20 Enumerating Processes and PID"
-date: 2024-06-20
-categories: Windows-Vulnerability-Research
-tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit, vulnerability research
+title: "2024-06-19 Reverse Shell in Go"
+date: 2024-06-19
+categories: Windows-Reverse-Shell
+tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
 permalink: /go-revshell/
 ---
 # Building a Reverse Shell in Go
