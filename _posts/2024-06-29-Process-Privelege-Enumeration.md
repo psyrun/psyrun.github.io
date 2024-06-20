@@ -4,7 +4,7 @@ title: "Windows Process Free Memory and Privelege Enumeration"
 date: 2024-06-29
 categories: Windows-Reverse-Shell
 tags: redteam, mitre, killchain, cpent, LPT, cpts, oscp, exploit
-permalink: /Process-Privelege-Enumeration/
+permalink: /process-privelege-enumeration/
 ---
 # Exploring Free Memory Regions in Windows Processes
 
