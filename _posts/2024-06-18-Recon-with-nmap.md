@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2024-06-18 Recon with psymap-nmap.py"
+title: "Recon with psymap-nmap.py"
 date: 2024-06-18
-categories: Reconnaissance | Enumeration
+categories: Reconnaissance
 tags: redteam, mitre, killchain, offensivesecurity, cpent, cpts, oscp, exploit
 permalink: /Recon-with-nmap/
 ---
